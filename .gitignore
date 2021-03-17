@@ -5,3 +5,5 @@ NewGPLesson.Rproj
 .Ruserdata
 .DS_STORE
 assets/
+!assets/orig_client_media_NoEdit/.gitkeep
+!assets/time_chunking_figs/.gitkeep
