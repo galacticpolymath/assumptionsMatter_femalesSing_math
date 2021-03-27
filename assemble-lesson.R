@@ -1,6 +1,6 @@
 require(remotes)
-install_github("galacticpolymath/GPpub")
-library(GPpub)
+install_github("galacticpolymath/galacticPubs")
+library(galacticPubs)
 
 # Run this script to assemble the assets (e.g. graphs used for presentations, 
 # videos, etc.) and data structures (JSON files) for publishing the lesson.
@@ -10,6 +10,11 @@ library(GPpub)
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # The lesson shortTitle, which will be added as a prefix to some file names
 shortTitle<-"enterLessonShortTitle"
+fullTitle <- "enterFullLessonTitle"
+targetSubject<-"" #options= "math","ela","science","social studies"
+
+
+
 
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -23,6 +28,8 @@ shortTitle<-"enterLessonShortTitle"
 # source("scripts/lessonAssetModule.R")
 
 
+
+
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 2: Compile alignment data --------------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -30,12 +37,15 @@ shortTitle<-"enterLessonShortTitle"
 
 ## Import the completed lesson alignment matrix from the meta subfolder
 # Suggestion for the file to import
-(likelyFilename<-list.files("meta/",pattern = "^.*atrix.*")) 
+(likelyFilename<-list.files("meta/",pattern = "^[^~].*atrix.*")) 
 f<-likelyFilename #use the suggested file, type in the path, or use f<-file.choose()
 
 # Aggregate alignment matrix notes and codes; merge with the alignments master
 # document from our standardX package
 alignment<-compileAlignment(f)
+
+
+
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 3: Output GP Learning Epaulette --------------------------------------------
@@ -44,8 +54,10 @@ alignment<-compileAlignment(f)
 # GP Sensible Lesson Plan
 
 learningEpaulette(alignment,
-                  targetSubj="",
+                  targetSubj=targetSubject,
                   fileName=paste0(shortTitle,"_LearningEpaulette"))
+
+
 
 
 
@@ -55,8 +67,8 @@ learningEpaulette(alignment,
 # Output the custom windrose chart that will go in the standards section of 
 # the GP Sensible Lesson Plan
 learningChart(alignment,
-              targetSubj="",
-              caption="Caption",
+              targetSubj=targetSubject,
+              caption=fullTitle,
               fileName=paste0(shortTitle,"_LearningChart"))
 
 
@@ -67,12 +79,19 @@ learningChart(alignment,
 
 
 
+
+
+
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 6: Compile Acknowledgements JSON -------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Takes acknowledgment entries from "meta/acknowledgments.xlsx" & turns them into a
 # structured JSON for Strapi
 compileAcknowledgments(fileName=paste0(shortTitle,"_acknowledgements.json"))
+
+
+
+
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 7: Compile Version Info JSON -----------------------------------------------
@@ -82,9 +101,14 @@ compileAcknowledgments(fileName=paste0(shortTitle,"_acknowledgements.json"))
 compileVersions(fileName=paste0(shortTitle,"_version_info.json"))
 
 
+
+
+
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 8: Any additional actions --------------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 
 
 

@@ -4,7 +4,11 @@ NewGPLesson.Rproj
 .RData
 .Ruserdata
 .DS_STORE
-assets/
-assembled-lesson-materials/
-!assets/orig_client_media_NoEdit/.gitkeep
-!assets/time_chunking_figs/.gitkeep
+#exclude folders *recursively*, otherwise overrules all exceptions!
+/assets/**
+/assembled-lesson-materials/**
+#excludes subfolders from ignore rules
+!/assets/**/ 
+!/assets/**/.gitkeep
+!/assembled-lesson-materials/**/
+!assembled-lesson-materials/**/.gitkeep
