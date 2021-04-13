@@ -2,31 +2,36 @@ require(remotes)
 install_github("galacticpolymath/galacticPubs")
 library(galacticPubs)
 
-# Run this script to assemble the assets (e.g. graphs used for presentations, 
+# Run this script to assemble the assets (e.g. graphs used for presentations,
 # videos, etc.) and data structures (JSON files) for publishing the lesson.
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 0: Define Global variables -------------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # The lesson shortTitle, which will be added as a prefix to some file names
-shortTitle<-"enterLessonShortTitle"
-fullTitle <- "enterFullLessonTitle"
-targetSubject<-"" #options= "math","ela","science","social studies"
-
-
-
+shortTitle<-"femalesSing"
+fullTitle<-'Learning Chart for "Females singing to be heard"'
+targetSubject<-"math" #options= "math","ela","science","social studies"
 
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 1: Run all subsidiary lesson scripts ---------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# All scripts for making graphs and other visuals for the lesson should be in 
+# All scripts for making graphs and other visuals for the lesson should be in
 # "scripts/"
 
 
 # Add a comment explaining what each script does and source it
-# source("scripts/lessonAssetModule.R")
-
+#function for making dot plots from histograms
+source("scripts/dotplot.R")
+#function for enciphering GGplot label text
+source("scripts/enciphR.R")
+#code to make dotplot-binned-dotplot-histogram animation
+source("scripts/histogram_animation")
+#code for making generic plots using penguin data for Part 3 presentations
+source("scripts/penguinPlots.R")
+#code for making the polymath puzzle and histogram variants; also banner graphics
+source("scripts/polymathPuzzle-&-histograms.R")
 
 
 
@@ -37,20 +42,17 @@ targetSubject<-"" #options= "math","ela","science","social studies"
 
 ## Import the completed lesson alignment matrix from the meta subfolder
 # Suggestion for the file to import
-(likelyFilename<-list.files("meta/",pattern = "^[^~].*atrix.*")) 
+(likelyFilename<-list.files("meta/",pattern = "^[^~].*atrix.*"))
 f<-likelyFilename #use the suggested file, type in the path, or use f<-file.choose()
 
 # Aggregate alignment matrix notes and codes; merge with the alignments master
 # document from our standardX package
 alignment<-compileAlignment(f)
 
-
-
-
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 3: Output GP Learning Epaulette --------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Output subject percentage breakdown that will go at the top of the 
+# Output subject percentage breakdown that will go at the top of the
 # GP Sensible Lesson Plan
 
 learningEpaulette(alignment,
@@ -59,12 +61,10 @@ learningEpaulette(alignment,
 
 
 
-
-
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 4: Output GP Learning Chart ------------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# Output the custom windrose chart that will go in the standards section of 
+# Output the custom windrose chart that will go in the standards section of
 # the GP Sensible Lesson Plan
 learningChart(alignment,
               targetSubj=targetSubject,
@@ -76,21 +76,19 @@ learningChart(alignment,
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 5: Output lesson chunking visuals ------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-
-
-
+part1Chunks<-c(15,10,15,5)
+part2Chunks<-c(10,5,15,10,5)
+part3Chunks<-c(5, 10,10,5,5,10)
+galacticPubs:::timeChunk(45,part1Chunks,prefix="Part1",destFolder="assets/time-chunking-figs")
+galacticPubs:::timeChunk(45,part2Chunks,prefix="Part2",destFolder="assets/time-chunking-figs")
+galacticPubs:::timeChunk(45,part3Chunks,prefix="Part3",destFolder="assets/time-chunking-figs")
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 6: Compile Acknowledgements JSON -------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Takes acknowledgment entries from "meta/acknowledgments.xlsx" & turns them into a
 # structured JSON for Strapi
-compileAcknowledgments(fileName=paste0(shortTitle,"_acknowledgements.json"))
-
-
-
+compileAcknowledgments(outputFileName=paste0(shortTitle,"_acknowledgements.json"))
 
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -98,17 +96,12 @@ compileAcknowledgments(fileName=paste0(shortTitle,"_acknowledgements.json"))
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Takes version info entries from "meta/version_info.xlsx" & turns them into a
 # structured JSON for Strapi
-compileVersions(fileName=paste0(shortTitle,"_version_info.json"))
-
-
-
+compileVersions(outputFileName=paste0(shortTitle,"_version_info.json"))
 
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 8: Any additional actions --------------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
 
 
 
