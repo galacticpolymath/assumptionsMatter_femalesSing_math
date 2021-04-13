@@ -62,12 +62,12 @@ ggsave("assets/scatterplot_forDay3Presentation.png",bg="transparent",width=9,hei
 ################################
 #Level A&B puzzle: (+1) shift -1 decipher
 (Gl2 <- ggCiphR(Gl1,1))+ggtitle("Figure 1. A Mysterious Scatter Plot")
-ggsave("assets/PolymathPuzzle_levelA&B_coded-axis-labels(-1_Decipher).png",width=10,height=6)
+ggsave("assets/PolymathPuzzle_levelA&B_coded-axis-labels(-1_Decipher).png",Gl2,width=10,height=6)
 
 ################################
 #Level C (-3) shift +3 decipher
 (Gl3 <- ggCiphR(Gl1,-3)+ggtitle("Figure 1. A Mysterious Scatter Plot"))
-ggsave("assets/PolymathPuzzle_levelC_difficult-coded-axis-labels(+3_Decipher).png",width=10,height=6)
+ggsave("assets/PolymathPuzzle_levelC_difficult-coded-axis-labels(+3_Decipher).png",Gl3,width=10,height=6)
 
 ################################
 # #Level 4
@@ -77,7 +77,7 @@ K$sex<-factor(k$sex,labels=sapply(levels(k$sex),enciphR,3))
 
 (Gl4.0<-ggplot(data=K,aes(x=RecDt,y=N,col=sex,shape=sex))+geom_point(size=3,stroke=.5,alpha=1)+geom_point(aes(fill=sex),size=3,alpha=.3)+scale_x_date()+xlab("Recording Date")+ylab("# Songs Recorded")+geom_smooth(method="loess",aes(group=sex),span=2,size=1.1,show.legend=F,se=F)+scale_shape_manual(values=gpShapes[1:2])+scale_fill_manual(values=c(malecol,femalecol))+scale_colour_manual(values=c(malecol,femalecol))+ggGalactic()+guides(shape = guide_legend(override.aes = list(size = 5)))+ggtitle("Figure 1. A Mysterious Scatter Plot"))
 (Gl4<-ggCiphR(Gl4.0,3))
-ggsave("assets/PolymathPuzzle_levelD_Impossible-coded-axis-labels+key.png",width=10,height=6)
+ggsave("assets/PolymathPuzzle_levelD_Impossible-coded-axis-labels+key.png",Gl4,width=10,height=6)
 
 
 
