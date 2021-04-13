@@ -61,7 +61,7 @@ ggsave("assets/scatterplot_forDay3Presentation.png",bg="transparent",width=9,hei
 
 ################################
 #Level A&B puzzle: (+1) shift -1 decipher
-(Gl2 <- ggCiphR(Gl1,1))+ggtitle("Figure 1. A Mysterious Scatter Plot")
+(Gl2 <- ggCiphR(Gl1,1)+ggtitle("Figure 1. A Mysterious Scatter Plot"))
 ggsave("assets/PolymathPuzzle_levelA&B_coded-axis-labels(-1_Decipher).png",Gl2,width=10,height=6)
 
 ################################
