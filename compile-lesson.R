@@ -1,6 +1,10 @@
+# Script for assembling a Galactic Polymath interdisciplinary lesson plan
+# ver 0.1.0
+
 require(remotes)
 install_github("galacticpolymath/galacticPubs")
 library(galacticPubs)
+googledrive::drive_auth() #need to authorize your account first time you use this
 
 # Run this script to assemble the assets (e.g. graphs used for presentations,
 # videos, etc.) and data structures (JSON files) for publishing the lesson.
@@ -42,12 +46,11 @@ source("scripts/polymathPuzzle-&-histograms.R")
 
 ## Import the completed lesson alignment matrix from the meta subfolder
 # Suggestion for the file to import
-(likelyFilename<-list.files("meta/",pattern = "^[^~].*atrix.*"))
-f<-likelyFilename #use the suggested file, type in the path, or use f<-file.choose()
+
 
 # Aggregate alignment matrix notes and codes; merge with the alignments master
 # document from our standardX package
-alignment<-compileAlignment(f)
+alignment<-compileStandards()
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 3: Output GP Learning Epaulette --------------------------------------------
@@ -76,33 +79,77 @@ learningChart(alignment,
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 5: Output lesson chunking visuals ------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-part1Chunks<-c(15,10,15,5)
-part2Chunks<-c(10,5,15,10,5)
-part3Chunks<-c(5, 10,10,5,5,10)
-galacticPubs:::timeChunk(45,part1Chunks,prefix="Part1",destFolder="assets/time-chunking-figs")
-galacticPubs:::timeChunk(45,part2Chunks,prefix="Part2",destFolder="assets/time-chunking-figs")
-galacticPubs:::timeChunk(45,part3Chunks,prefix="Part3",destFolder="assets/time-chunking-figs")
+#deprecated
+
+# part1Chunks<-c(15,10,15,5)
+# part2Chunks<-c(10,5,15,10,5)
+# part3Chunks<-c(5, 10,10,5,5,10)
+# galacticPubs:::timeChunk(45,part1Chunks,prefix="Part1",destFolder="assets/time-chunking-figs")
+# galacticPubs:::timeChunk(45,part2Chunks,prefix="Part2",destFolder="assets/time-chunking-figs")
+# galacticPubs:::timeChunk(45,part3Chunks,prefix="Part3",destFolder="assets/time-chunking-figs")
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# STEP 6: Compile Acknowledgements JSON -------------------------------------------
+# STEP 5: Add/Update Google Drive Share Links for Lesson Artifacts-----------------
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+updateTeachingMatLinks(shortTitle)#c("quickPrep_feedback","remote","classroom")
+
+
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# STEP 6: Compile Procedure -------------------------------------------------------
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+## PURPOSE: Compile JSON of the procedure from XLSX spreadsheet
+##
+## DEPENDENT FILES: meta/procedure.xlsx
+
+compileProcedure()
+
+
+
+
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# STEP 7: Compile teaching material links and info --------------------------------
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+compileTeachingMat()
+
+
+
+
+
+
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# STEP 8: Compile Acknowledgements JSON -------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Takes acknowledgment entries from "meta/acknowledgments.xlsx" & turns them into a
 # structured JSON for Strapi
-compileAcknowledgments(outputFileName=paste0(shortTitle,"_acknowledgements.json"))
+compileAcknowledgments()
+
 
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# STEP 7: Compile Version Info JSON -----------------------------------------------
+# STEP 9: Compile Version Info JSON -----------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Takes version info entries from "meta/version_info.xlsx" & turns them into a
 # structured JSON for Strapi
-compileVersions(outputFileName=paste0(shortTitle,"_version_info.json"))
+compileVersions()
 
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# STEP 8: Any additional actions --------------------------------------------------
+# STEP 10: Combine JSONs ----------------------------------------------------------
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+## PURPOSE: aggregate JSONS into 1 file for uploading to Strapi
+##
+## DEPENDENT FILES:
+# -meta/acknowledgments.json
+# -meta/procedure.json
+# -meta/standards_*.json
+# -meta/teachingMaterials.json
+# -meta/versions.json
+
+compileJSON()
 
 
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# STEP 11: Any additional actions --------------------------------------------------
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
