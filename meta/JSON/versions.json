@@ -69,6 +69,20 @@
         "summary": "Added classroom materials and remote fixes",
         "notes": "First version with a full complement of in-person classroom versions of presentations and handouts. Fixed problem with Part 3 warm-up. The descriptions of the solution were backwards (i.e. the cipher is -3 encipher, +3 decipher, not the opposite).",
         "acknowledgments": null
+      },
+      {
+        "version": "1.1.1",
+        "date": "Aug 16, 2021",
+        "summary": "Updated Parts 1 & 3 Nearpod versions for all grades, which had links to old videos.",
+        "notes": "Also updated links in acknowledgments",
+        "acknowledgments": null
+      },
+      {
+        "version": "1.1.2",
+        "date": "Aug 20, 2021",
+        "summary": "Updated lesson front matter",
+        "notes": "-Changed driving question from \"Why has female barn swallow song been ignored or missed by scientists and bird watchers until 2020?\" to \"What is the best way to visualize data?\"",
+        "acknowledgments": null
       }
     ]
   }

@@ -75,152 +75,167 @@
           "url": "https://drive.google.com/drive/folders/1_l05Hh42OCn27s4J0EA2ZZIv6DH3iklv"
         },
         "parts": [
-          [
-            {
-              "itemTitle": "Presentation",
-              "itemCat": "presentation",
-              "links": [
-                {
-                  "linkText": "Present Now",
-                  "url": "https://docs.google.com/presentation/d/1-xkENqDwXLz62_UHXWAmQ2eJPCUpNywXB-uz1dywIak/present"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/presentation/d/1-xkENqDwXLz62_UHXWAmQ2eJPCUpNywXB-uz1dywIak/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Student Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1XMeydMI5WUk7bajhazvqFjQcS9yUwRSu2-9VVM4H13A/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1XMeydMI5WUk7bajhazvqFjQcS9yUwRSu2-9VVM4H13A/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Student Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1IeOvMypCE2OTjMf3ZEe9MmcoF0NB1YzRPTHbl8xaeqU/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1IeOvMypCE2OTjMf3ZEe9MmcoF0NB1YzRPTHbl8xaeqU/template/preview"
-                }
-              ]
-            }
-          ],
-          [
-            {
-              "itemTitle": "Presentation",
-              "itemCat": "presentation",
-              "links": [
-                {
-                  "linkText": "Present Now",
-                  "url": "https://docs.google.com/presentation/d/1AYdI3aj9WQdFl_eCPDXpnlwMc13pwmNsxnwdM1sZ9iM/present"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/presentation/d/1AYdI3aj9WQdFl_eCPDXpnlwMc13pwmNsxnwdM1sZ9iM/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Student Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1oyXAIwwgtQEOpt2W8lvx2iWx1xMRQaXVlITqcnVBjAs/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1oyXAIwwgtQEOpt2W8lvx2iWx1xMRQaXVlITqcnVBjAs/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Teacher Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1a9PDt1ImC0JG7_vZqh-yXcCa7RYBa-DqyRfbqRDZsVE/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1a9PDt1ImC0JG7_vZqh-yXcCa7RYBa-DqyRfbqRDZsVE/template/preview"
-                }
-              ]
-            }
-          ],
-          [
-            {
-              "itemTitle": "Presentation",
-              "itemCat": "presentation",
-              "links": [
-                {
-                  "linkText": "Present Now",
-                  "url": "https://docs.google.com/presentation/d/1s3lfQ-UHWqrUq4rd1EQg_BjhjAKkG4SJavR7_EKR3Sw/present"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/presentation/d/1s3lfQ-UHWqrUq4rd1EQg_BjhjAKkG4SJavR7_EKR3Sw/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Teacher Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1vnBk3WbFTuQ5wzrBw6yzyKUlql4PdnDeMmqLcD2Hkk8/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1vnBk3WbFTuQ5wzrBw6yzyKUlql4PdnDeMmqLcD2Hkk8/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Teacher Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/16f_VJ2xCNy2qzs4majLlMbVDzf93pYYXTkKmcqwr9kc/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/16f_VJ2xCNy2qzs4majLlMbVDzf93pYYXTkKmcqwr9kc/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Table 1 reference for Part 3",
-              "itemCat": "handout",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/presentation/d/1q6I_M1oTIWb3JxwJ8NDud1ECt248RiqZR6BjkYJLiJ8/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/presentation/d/1q6I_M1oTIWb3JxwJ8NDud1ECt248RiqZR6BjkYJLiJ8/template/preview"
-                }
-              ]
-            }
-          ]
+          {
+            "part": 1,
+            "title": "Ciphers and Data Visuals",
+            "preface": "Part 1 will take a full class period and is broken into 4 time chunks. It uses a “Polymath Puzzle” hook to draw students into carefully studying a scatter plot created from real data. Students then learn about how female song has been missed in barn swallows (a very common bird species).",
+            "itemList": [
+              {
+                "itemTitle": "Presentation",
+                "itemCat": "presentation",
+                "links": [
+                  {
+                    "linkText": "Present Now",
+                    "url": "https://docs.google.com/presentation/d/1-xkENqDwXLz62_UHXWAmQ2eJPCUpNywXB-uz1dywIak/present"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/presentation/d/1-xkENqDwXLz62_UHXWAmQ2eJPCUpNywXB-uz1dywIak/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1XMeydMI5WUk7bajhazvqFjQcS9yUwRSu2-9VVM4H13A/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1XMeydMI5WUk7bajhazvqFjQcS9yUwRSu2-9VVM4H13A/export?format=pdf"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Teacher Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1IeOvMypCE2OTjMf3ZEe9MmcoF0NB1YzRPTHbl8xaeqU/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1IeOvMypCE2OTjMf3ZEe9MmcoF0NB1YzRPTHbl8xaeqU/export?format=pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "part": 2,
+            "title": "From Tables to Graphs",
+            "preface": "Students learn how to make dot plots and learn how histograms are made by binning data into ranges. This lesson is slightly shorter than the other two parts.",
+            "itemList": [
+              {
+                "itemTitle": "Presentation",
+                "itemCat": "presentation",
+                "links": [
+                  {
+                    "linkText": "Present Now",
+                    "url": "https://docs.google.com/presentation/d/1AYdI3aj9WQdFl_eCPDXpnlwMc13pwmNsxnwdM1sZ9iM/present"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/presentation/d/1AYdI3aj9WQdFl_eCPDXpnlwMc13pwmNsxnwdM1sZ9iM/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1oyXAIwwgtQEOpt2W8lvx2iWx1xMRQaXVlITqcnVBjAs/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1oyXAIwwgtQEOpt2W8lvx2iWx1xMRQaXVlITqcnVBjAs/export?format=pdf"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Teacher Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1a9PDt1ImC0JG7_vZqh-yXcCa7RYBa-DqyRfbqRDZsVE/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1a9PDt1ImC0JG7_vZqh-yXcCa7RYBa-DqyRfbqRDZsVE/export?format=pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "part": 3,
+            "title": "Visualizing Song Data",
+            "preface": "Students create a histogram from raw data and use the scatter plot and histogram for reflection and synthesis. They will also synthesize all they have learned about histograms, dot plots, scatter plots, and the barn swallow study to answer big questions about why female song has been missed in this common species and why that matters.",
+            "itemList": [
+              {
+                "itemTitle": "Presentation",
+                "itemCat": "presentation",
+                "links": [
+                  {
+                    "linkText": "Present Now",
+                    "url": "https://docs.google.com/presentation/d/1s3lfQ-UHWqrUq4rd1EQg_BjhjAKkG4SJavR7_EKR3Sw/present"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/presentation/d/1s3lfQ-UHWqrUq4rd1EQg_BjhjAKkG4SJavR7_EKR3Sw/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1vnBk3WbFTuQ5wzrBw6yzyKUlql4PdnDeMmqLcD2Hkk8/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1vnBk3WbFTuQ5wzrBw6yzyKUlql4PdnDeMmqLcD2Hkk8/export?format=pdf"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Teacher Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/16f_VJ2xCNy2qzs4majLlMbVDzf93pYYXTkKmcqwr9kc/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/16f_VJ2xCNy2qzs4majLlMbVDzf93pYYXTkKmcqwr9kc/export?format=pdf"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Table 1 reference for Part 3",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/presentation/d/1q6I_M1oTIWb3JxwJ8NDud1ECt248RiqZR6BjkYJLiJ8/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/presentation/d/1q6I_M1oTIWb3JxwJ8NDud1ECt248RiqZR6BjkYJLiJ8/export?format=pdf"
+                  }
+                ]
+              }
+            ]
+          }
         ]
       },
       {
@@ -231,152 +246,167 @@
           "url": "https://drive.google.com/drive/folders/1_l_wCb4BnqAwl7lRd4rhniYnWWxCo6dp"
         },
         "parts": [
-          [
-            {
-              "itemTitle": "Presentation",
-              "itemCat": "presentation",
-              "links": [
-                {
-                  "linkText": "Present Now",
-                  "url": "https://docs.google.com/presentation/d/1vyCDH9FccecJV0umctV--9nWmdKikbVQ47ToKUtYq8Y/present"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/presentation/d/1vyCDH9FccecJV0umctV--9nWmdKikbVQ47ToKUtYq8Y/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Teacher Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1s2qYrx_88xEfeRNM530Jxs4cLbJeRPzmfI7cd7UQDT8/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1s2qYrx_88xEfeRNM530Jxs4cLbJeRPzmfI7cd7UQDT8/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Student Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1hDWushBDAAwUuEuUdr--hGqrMyUriHnw9Y41zOMHHC0/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1hDWushBDAAwUuEuUdr--hGqrMyUriHnw9Y41zOMHHC0/template/preview"
-                }
-              ]
-            }
-          ],
-          [
-            {
-              "itemTitle": "Presentation",
-              "itemCat": "presentation",
-              "links": [
-                {
-                  "linkText": "Present Now",
-                  "url": "https://docs.google.com/presentation/d/1eIAjDroQeOw49kK0WSf0CP0I_Jz-AJtKt8hlSDt4m84/present"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/presentation/d/1eIAjDroQeOw49kK0WSf0CP0I_Jz-AJtKt8hlSDt4m84/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Student Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1L737p4jTBB4XCd_hfzDm7xQqEt3nRosBk67yTjqQReE/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1L737p4jTBB4XCd_hfzDm7xQqEt3nRosBk67yTjqQReE/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Student Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1U2jpqM1ipy0h-L_001kItL93AfXT6AQtj9P3YoEdfI0/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1U2jpqM1ipy0h-L_001kItL93AfXT6AQtj9P3YoEdfI0/template/preview"
-                }
-              ]
-            }
-          ],
-          [
-            {
-              "itemTitle": "Presentation",
-              "itemCat": "presentation",
-              "links": [
-                {
-                  "linkText": "Present Now",
-                  "url": "https://docs.google.com/presentation/d/1W5QIqGEzFLbRKzk9wvvO0rVhCt3t5Fa0sDaK6i9btto/present"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/presentation/d/1W5QIqGEzFLbRKzk9wvvO0rVhCt3t5Fa0sDaK6i9btto/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Teacher Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1yBey9NeTjqDxBEEv-7hlJjDtIse3bkB_X8JCbxhGPqA/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1yBey9NeTjqDxBEEv-7hlJjDtIse3bkB_X8JCbxhGPqA/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Teacher Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1ccHAO3mwI59t38HbyyCYEyKrrPGjO9rljQojC9vFmic/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1ccHAO3mwI59t38HbyyCYEyKrrPGjO9rljQojC9vFmic/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Table 1 reference for Part 3",
-              "itemCat": "handout",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/presentation/d/10uU0I3GL-rUIIfcIw5gVeO9A1A3rwX1W2-x1wApwdPI/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/presentation/d/10uU0I3GL-rUIIfcIw5gVeO9A1A3rwX1W2-x1wApwdPI/template/preview"
-                }
-              ]
-            }
-          ]
+          {
+            "part": 1,
+            "title": "Ciphers and Data Visuals",
+            "preface": "Part 1 will take a full class period and is broken into 4 time chunks. It uses a “Polymath Puzzle” hook to draw students into carefully studying a scatter plot created from real data. Students then learn about how female song has been missed in barn swallows (a very common bird species).",
+            "itemList": [
+              {
+                "itemTitle": "Presentation",
+                "itemCat": "presentation",
+                "links": [
+                  {
+                    "linkText": "Present Now",
+                    "url": "https://docs.google.com/presentation/d/1vyCDH9FccecJV0umctV--9nWmdKikbVQ47ToKUtYq8Y/present"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/presentation/d/1vyCDH9FccecJV0umctV--9nWmdKikbVQ47ToKUtYq8Y/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1s2qYrx_88xEfeRNM530Jxs4cLbJeRPzmfI7cd7UQDT8/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1s2qYrx_88xEfeRNM530Jxs4cLbJeRPzmfI7cd7UQDT8/export?format=pdf"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Teacher Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1hDWushBDAAwUuEuUdr--hGqrMyUriHnw9Y41zOMHHC0/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1hDWushBDAAwUuEuUdr--hGqrMyUriHnw9Y41zOMHHC0/export?format=pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "part": 2,
+            "title": "From Tables to Graphs",
+            "preface": "Students learn how to make dot plots and learn how histograms are made by binning data into ranges. This lesson is slightly shorter than the other two parts.",
+            "itemList": [
+              {
+                "itemTitle": "Presentation",
+                "itemCat": "presentation",
+                "links": [
+                  {
+                    "linkText": "Present Now",
+                    "url": "https://docs.google.com/presentation/d/1eIAjDroQeOw49kK0WSf0CP0I_Jz-AJtKt8hlSDt4m84/present"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/presentation/d/1eIAjDroQeOw49kK0WSf0CP0I_Jz-AJtKt8hlSDt4m84/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1L737p4jTBB4XCd_hfzDm7xQqEt3nRosBk67yTjqQReE/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1L737p4jTBB4XCd_hfzDm7xQqEt3nRosBk67yTjqQReE/export?format=pdf"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Teacher Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1U2jpqM1ipy0h-L_001kItL93AfXT6AQtj9P3YoEdfI0/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1U2jpqM1ipy0h-L_001kItL93AfXT6AQtj9P3YoEdfI0/export?format=pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "part": 3,
+            "title": "Visualizing Song Data",
+            "preface": "Students create a histogram from raw data and use the scatter plot and histogram for reflection and synthesis. They will also synthesize all they have learned about histograms, dot plots, scatter plots, and the barn swallow study to answer big questions about why female song has been missed in this common species and why that matters.",
+            "itemList": [
+              {
+                "itemTitle": "Presentation",
+                "itemCat": "presentation",
+                "links": [
+                  {
+                    "linkText": "Present Now",
+                    "url": "https://docs.google.com/presentation/d/1W5QIqGEzFLbRKzk9wvvO0rVhCt3t5Fa0sDaK6i9btto/present"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/presentation/d/1W5QIqGEzFLbRKzk9wvvO0rVhCt3t5Fa0sDaK6i9btto/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1yBey9NeTjqDxBEEv-7hlJjDtIse3bkB_X8JCbxhGPqA/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1yBey9NeTjqDxBEEv-7hlJjDtIse3bkB_X8JCbxhGPqA/export?format=pdf"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Teacher Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1ccHAO3mwI59t38HbyyCYEyKrrPGjO9rljQojC9vFmic/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1ccHAO3mwI59t38HbyyCYEyKrrPGjO9rljQojC9vFmic/export?format=pdf"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Table 1 reference for Part 3",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/presentation/d/10uU0I3GL-rUIIfcIw5gVeO9A1A3rwX1W2-x1wApwdPI/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/presentation/d/10uU0I3GL-rUIIfcIw5gVeO9A1A3rwX1W2-x1wApwdPI/export?format=pdf"
+                  }
+                ]
+              }
+            ]
+          }
         ]
       },
       {
@@ -387,152 +417,167 @@
           "url": "https://drive.google.com/drive/folders/1_xLO8r6yovUqh7Br6dH-MYQeN4dsN-xh"
         },
         "parts": [
-          [
-            {
-              "itemTitle": "Presentation",
-              "itemCat": "presentation",
-              "links": [
-                {
-                  "linkText": "Present Now",
-                  "url": "https://docs.google.com/presentation/d/1y5C2w1bJouuCE-_T383eDUKXREfU3OblxYHm10lfVy4/present"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/presentation/d/1y5C2w1bJouuCE-_T383eDUKXREfU3OblxYHm10lfVy4/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Student Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1f4-nC_VBrKdLCU6gHucbTkByVheTHtE668OXqNpzdME/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1f4-nC_VBrKdLCU6gHucbTkByVheTHtE668OXqNpzdME/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Student Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1w7aK0dBglK5NedpIMWnx9Cz0Xwfg7U1MQqPVDEc1kxg/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1w7aK0dBglK5NedpIMWnx9Cz0Xwfg7U1MQqPVDEc1kxg/template/preview"
-                }
-              ]
-            }
-          ],
-          [
-            {
-              "itemTitle": "Presentation",
-              "itemCat": "presentation",
-              "links": [
-                {
-                  "linkText": "Present Now",
-                  "url": "https://docs.google.com/presentation/d/1xLtmCyK5PpRS3JsB-TFmQUYdM-AiQkzg_dmNF7ZTisc/present"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/presentation/d/1xLtmCyK5PpRS3JsB-TFmQUYdM-AiQkzg_dmNF7ZTisc/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Student Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1OU81GWUHonBjilSnjr390gGIzZUHhEh_CWVxx_-4SfQ/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1OU81GWUHonBjilSnjr390gGIzZUHhEh_CWVxx_-4SfQ/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Teacher Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/192-nPS5k_nTkyQw7FrXEZ0jwerqWoXRmYNcwqiuEeJc/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/192-nPS5k_nTkyQw7FrXEZ0jwerqWoXRmYNcwqiuEeJc/template/preview"
-                }
-              ]
-            }
-          ],
-          [
-            {
-              "itemTitle": "Presentation",
-              "itemCat": "presentation",
-              "links": [
-                {
-                  "linkText": "Present Now",
-                  "url": "https://docs.google.com/presentation/d/1LwYzfh-fwMu8Ej3Pn_0A0Cul3LSTQy8tcX1YWA3WjYo/present"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/presentation/d/1LwYzfh-fwMu8Ej3Pn_0A0Cul3LSTQy8tcX1YWA3WjYo/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Teacher Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1AERHj7Jx8o7vcG1Ejza-fsyYBIU3oSv4oyhT-dcaUTU/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1AERHj7Jx8o7vcG1Ejza-fsyYBIU3oSv4oyhT-dcaUTU/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Teacher Worksheet",
-              "itemCat": "worksheet",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/document/d/1-CIgtCumwSnOnMVpq8t-Izxro48D76i-DyLH7z-qAQc/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/document/d/1-CIgtCumwSnOnMVpq8t-Izxro48D76i-DyLH7z-qAQc/template/preview"
-                }
-              ]
-            },
-            {
-              "itemTitle": "Table 1 reference for Part 3",
-              "itemCat": "handout",
-              "links": [
-                {
-                  "linkText": "PDF",
-                  "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/export?format=pdf"
-                },
-                {
-                  "linkText": "Copy to My Google Drive",
-                  "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/template/preview"
-                }
-              ]
-            }
-          ]
+          {
+            "part": 1,
+            "title": "Ciphers and Data Visuals",
+            "preface": "Part 1 will take a full class period and is broken into 4 time chunks. It uses a “Polymath Puzzle” hook to draw students into carefully studying a scatter plot created from real data. Students then learn about how female song has been missed in barn swallows (a very common bird species).",
+            "itemList": [
+              {
+                "itemTitle": "Presentation",
+                "itemCat": "presentation",
+                "links": [
+                  {
+                    "linkText": "Present Now",
+                    "url": "https://docs.google.com/presentation/d/1y5C2w1bJouuCE-_T383eDUKXREfU3OblxYHm10lfVy4/present"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/presentation/d/1y5C2w1bJouuCE-_T383eDUKXREfU3OblxYHm10lfVy4/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1f4-nC_VBrKdLCU6gHucbTkByVheTHtE668OXqNpzdME/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1f4-nC_VBrKdLCU6gHucbTkByVheTHtE668OXqNpzdME/export?format=pdf"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Teacher Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1w7aK0dBglK5NedpIMWnx9Cz0Xwfg7U1MQqPVDEc1kxg/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1w7aK0dBglK5NedpIMWnx9Cz0Xwfg7U1MQqPVDEc1kxg/export?format=pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "part": 2,
+            "title": "From Tables to Graphs",
+            "preface": "Students learn how to make dot plots and learn how histograms are made by binning data into ranges. This lesson is slightly shorter than the other two parts.",
+            "itemList": [
+              {
+                "itemTitle": "Presentation",
+                "itemCat": "presentation",
+                "links": [
+                  {
+                    "linkText": "Present Now",
+                    "url": "https://docs.google.com/presentation/d/1xLtmCyK5PpRS3JsB-TFmQUYdM-AiQkzg_dmNF7ZTisc/present"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/presentation/d/1xLtmCyK5PpRS3JsB-TFmQUYdM-AiQkzg_dmNF7ZTisc/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1OU81GWUHonBjilSnjr390gGIzZUHhEh_CWVxx_-4SfQ/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1OU81GWUHonBjilSnjr390gGIzZUHhEh_CWVxx_-4SfQ/export?format=pdf"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Teacher Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/192-nPS5k_nTkyQw7FrXEZ0jwerqWoXRmYNcwqiuEeJc/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/192-nPS5k_nTkyQw7FrXEZ0jwerqWoXRmYNcwqiuEeJc/export?format=pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "part": 3,
+            "title": "Visualizing Song Data",
+            "preface": "Students create a histogram from raw data and use the scatter plot and histogram for reflection and synthesis. They will also synthesize all they have learned about histograms, dot plots, scatter plots, and the barn swallow study to answer big questions about why female song has been missed in this common species and why that matters.",
+            "itemList": [
+              {
+                "itemTitle": "Presentation",
+                "itemCat": "presentation",
+                "links": [
+                  {
+                    "linkText": "Present Now",
+                    "url": "https://docs.google.com/presentation/d/1LwYzfh-fwMu8Ej3Pn_0A0Cul3LSTQy8tcX1YWA3WjYo/present"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/presentation/d/1LwYzfh-fwMu8Ej3Pn_0A0Cul3LSTQy8tcX1YWA3WjYo/template/preview"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Student Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1AERHj7Jx8o7vcG1Ejza-fsyYBIU3oSv4oyhT-dcaUTU/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1AERHj7Jx8o7vcG1Ejza-fsyYBIU3oSv4oyhT-dcaUTU/export?format=pdf"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Teacher Worksheet",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/document/d/1-CIgtCumwSnOnMVpq8t-Izxro48D76i-DyLH7z-qAQc/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/document/d/1-CIgtCumwSnOnMVpq8t-Izxro48D76i-DyLH7z-qAQc/export?format=pdf"
+                  }
+                ]
+              },
+              {
+                "itemTitle": "Table 1 reference for Part 3",
+                "itemCat": "NA",
+                "links": [
+                  {
+                    "linkText": "PDF",
+                    "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/export?format=pdf"
+                  },
+                  {
+                    "linkText": "Copy to My Google Drive",
+                    "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/export?format=pdf"
+                  }
+                ]
+              }
+            ]
+          }
         ]
       }
     ]
@@ -615,12 +660,12 @@
                 "itemCat": "presentation",
                 "links": [
                   {
-                    "linkText": "Present Now",
-                    "url": "https://share.nearpod.com/1qKrWUMo5eb"
+                    "linkText": "Preview Now with Nearpod",
+                    "url": "https://share.nearpod.com/Bp1p8OIuMib"
                   },
                   {
                     "linkText": "Add to My Nearpod Library",
-                    "url": "https://share.nearpod.com/e/TB5PMWMo5eb"
+                    "url": "https://share.nearpod.com/e/Dw4hMKOuMib"
                   },
                   {
                     "linkText": "Edit in My Google Drive",
@@ -640,7 +685,7 @@
                 "itemCat": "presentation",
                 "links": [
                   {
-                    "linkText": "Present Now",
+                    "linkText": "Preview Now with Nearpod",
                     "url": "https://share.nearpod.com/NyLVv99n5eb"
                   },
                   {
@@ -665,12 +710,12 @@
                 "itemCat": "presentation",
                 "links": [
                   {
-                    "linkText": "Present Now",
-                    "url": "https://share.nearpod.com/xAGdofan5eb"
+                    "linkText": "Preview Now with Nearpod",
+                    "url": "https://share.nearpod.com/3gUqkOWkMib"
                   },
                   {
                     "linkText": "Add to My Nearpod Library",
-                    "url": "https://share.nearpod.com/e/NjkXJgan5eb"
+                    "url": "https://share.nearpod.com/e/FcUpFPWkMib"
                   },
                   {
                     "linkText": "Edit in My Google Drive",
@@ -679,24 +724,20 @@
                 ]
               },
               {
-                "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "Download as .docx",
-                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
-                  }
-                ]
+                "itemTitle": "(Optional) Student Handout for Filling in Table 2",
+                "itemCat": "NA",
+                "links": {
+                  "linkText": "Download as .docx",
+                  "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
+                }
               },
               {
-                "itemTitle": "(Optional) Student Handout for Filling in Table 2",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "Download as .docx",
-                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
-                  }
-                ]
+                "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
+                "itemCat": "NA",
+                "links": {
+                  "linkText": "Download as .docx",
+                  "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
+                }
               }
             ]
           }
@@ -716,12 +757,12 @@
                 "itemCat": "presentation",
                 "links": [
                   {
-                    "linkText": "Present Now",
-                    "url": "https://share.nearpod.com/6UCFHqPo5eb"
+                    "linkText": "Preview Now with Nearpod",
+                    "url": "https://share.nearpod.com/duGJQiMkMib"
                   },
                   {
                     "linkText": "Add to My Nearpod Library",
-                    "url": "https://share.nearpod.com/e/M3dAjsPo5eb"
+                    "url": "https://share.nearpod.com/e/R8QpZjMkMib"
                   },
                   {
                     "linkText": "Edit in My Google Drive",
@@ -741,7 +782,7 @@
                 "itemCat": "presentation",
                 "links": [
                   {
-                    "linkText": "Present Now",
+                    "linkText": "Preview Now with Nearpod",
                     "url": "https://share.nearpod.com/Y9Ajddeo5eb"
                   },
                   {
@@ -766,12 +807,12 @@
                 "itemCat": "presentation",
                 "links": [
                   {
-                    "linkText": "Present Now",
-                    "url": null
+                    "linkText": "Preview Now with Nearpod",
+                    "url": "https://app.nearpod.com/?pin=7C9BF1D556205AC0C2765427F7780375-1"
                   },
                   {
                     "linkText": "Add to My Nearpod Library",
-                    "url": null
+                    "url": "https://share.nearpod.com/e/MiDfMP0kMib"
                   },
                   {
                     "linkText": "Edit in My Google Drive",
@@ -781,23 +822,19 @@
               },
               {
                 "itemTitle": "(Optional) Student Handout for Filling in Table 2",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "Download as .docx",
-                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
-                  }
-                ]
+                "itemCat": "NA",
+                "links": {
+                  "linkText": "Download as .docx",
+                  "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
+                }
               },
               {
-                "itemTitle": "(Optional) Student Handout for Filling in Table 2",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "Download as .docx",
-                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g9-12_gmxqpf.docx"
-                  }
-                ]
+                "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
+                "itemCat": "NA",
+                "links": {
+                  "linkText": "Download as .docx",
+                  "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
+                }
               }
             ]
           }
@@ -817,12 +854,12 @@
                 "itemCat": "presentation",
                 "links": [
                   {
-                    "linkText": "Present Now",
-                    "url": "https://share.nearpod.com/1hcjTGQo5eb"
+                    "linkText": "Preview Now with Nearpod",
+                    "url": "https://share.nearpod.com/mr7irtNkMib"
                   },
                   {
                     "linkText": "Add to My Nearpod Library",
-                    "url": "https://share.nearpod.com/e/6qDshJQo5eb"
+                    "url": "https://share.nearpod.com/e/wFap6uNkMib"
                   },
                   {
                     "linkText": "Edit in My Google Drive",
@@ -842,7 +879,7 @@
                 "itemCat": "presentation",
                 "links": [
                   {
-                    "linkText": "Present Now",
+                    "linkText": "Preview Now with Nearpod",
                     "url": "https://share.nearpod.com/eQE8Trfo5eb"
                   },
                   {
@@ -867,12 +904,12 @@
                 "itemCat": "presentation",
                 "links": [
                   {
-                    "linkText": "Present Now",
-                    "url": "https://share.nearpod.com/97Cchxjn5eb"
+                    "linkText": "Preview Now with Nearpod",
+                    "url": "https://share.nearpod.com/dzVNIH2kMib"
                   },
                   {
                     "linkText": "Add to My Nearpod Library",
-                    "url": "https://share.nearpod.com/e/hmba8yjn5eb"
+                    "url": "https://share.nearpod.com/e/emoQ4I2kMib"
                   },
                   {
                     "linkText": "Edit in My Google Drive",
@@ -881,24 +918,20 @@
                 ]
               },
               {
-                "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "Download as .docx",
-                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
-                  }
-                ]
+                "itemTitle": "(Optional) Student Handout for Filling in Table 2",
+                "itemCat": "NA",
+                "links": {
+                  "linkText": "Download as .docx",
+                  "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g9-12_gmxqpf.docx"
+                }
               },
               {
                 "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "Download as .docx",
-                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
-                  }
-                ]
+                "itemCat": "NA",
+                "links": {
+                  "linkText": "Download as .docx",
+                  "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
+                }
               }
             ]
           }

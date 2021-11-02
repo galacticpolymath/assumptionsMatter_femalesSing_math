@@ -31,6 +31,27 @@
                 "statements": ["Summarize numerical data sets in relation to their context, such as by:", "Reporting the number of observations.", "Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered."],
                 "alignmentNotes": "• Students compare the data in a scatter plot and a histogram, then determine the differences between the two graphs",
                 "subcat": null
+              },
+              {
+                "codes": "8.SP.A.1",
+                "grades": "08",
+                "statements": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
+                "alignmentNotes": "• Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
+                "subcat": null
+              },
+              {
+                "codes": "HSS-ID.A.1",
+                "grades": "9,10,11,12",
+                "statements": "Represent data with plots on the real number line (dot plots, histograms, and box plots).",
+                "alignmentNotes": "• Students create a histogram using raw data from a published research study",
+                "subcat": null
+              },
+              {
+                "codes": "HSS-ID.B.6",
+                "grades": "9,10,11,12",
+                "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
+                "alignmentNotes": "• Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
+                "subcat": null
               }
             ]
           }
@@ -54,21 +75,21 @@
                 "codes": "CCRA.L.4",
                 "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
                 "statements": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
-                "alignmentNotes": "• Students define, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n• Students use a real research article to read, interpret, and identify new/unknown words.\n• Students read a published research article to identify and define new/unknown words in context.\n• Students learn, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram ",
+                "alignmentNotes": "• Students define, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \r\n• Students use a real research article to read, interpret, and identify new/unknown words.\n• Students read a published research article to identify and define new/unknown words in context.\r\n\r\n• Students learn, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram ",
                 "subcat": null
               },
               {
                 "codes": "CCRA.SL.2",
                 "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
                 "statements": "Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.",
-                "alignmentNotes": "• Students evaluate quantitative information by comparing the same data in the form of a scatter plot and a histogram\n• Students evaluate quantitative information presented in the forms of a scatter plot and a histogram\n• Students compare the results of the two graphs, evaluate differences, and inerpret the findings.",
+                "alignmentNotes": "• Students evaluate quantitative information by comparing the same data in the form of a scatter plot and a histogram\n• Students evaluate quantitative information presented in the forms of a scatter plot and a histogram\r\n\r\n• Students compare the results of the two graphs, evaluate differences, and inerpret the findings.",
                 "subcat": null
               },
               {
                 "codes": "L.6.6",
                 "grades": "06",
                 "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-                "alignmentNotes": "• Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n• Students use and reference the new words throughout the lesson",
+                "alignmentNotes": "• Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \r\n• Students use and reference the new words throughout the lesson",
                 "subcat": null
               },
               {
@@ -95,7 +116,7 @@
                 "codes": "RST.6-8.4",
                 "grades": "6,7,8",
                 "statements": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to *grades 6-8 texts and topics*.",
-                "alignmentNotes": "• Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n• Students use and reference the new words throughout the lesson\n• Students define, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n• Students use a real research article to read, interpret, and identify new/unknown words.",
+                "alignmentNotes": "• Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \r\n• Students use and reference the new words throughout the lesson\n• Students define, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \r\n• Students use a real research article to read, interpret, and identify new/unknown words.",
                 "subcat": null
               },
               {
@@ -124,31 +145,10 @@
             "name": "Measurement, Data, Probability & Statistics",
             "standardsGroup": [
               {
-                "codes": "8.SP.A.1",
-                "grades": "08",
-                "statements": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
-                "alignmentNotes": "• Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
-                "subcat": null
-              },
-              {
                 "codes": "HSS-CP.A.4",
                 "grades": "9,10,11,12",
                 "statements": "Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities. *For example, collect data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results.*",
-                "alignmentNotes": "• Students use real data to construct a frequency table, then use the data to create and compare the results in a scatter plot and histogram. \n  \n• Students evaluate the results of the two graphs, discuss how the two graphs provide similar and different information, and determine possible conditional probabilities with regard to female and male bird songs. ",
-                "subcat": null
-              },
-              {
-                "codes": "HSS-ID.A.1",
-                "grades": "9,10,11,12",
-                "statements": "Represent data with plots on the real number line (dot plots, histograms, and box plots).",
-                "alignmentNotes": "• Students create a histogram using raw data from a published research study",
-                "subcat": null
-              },
-              {
-                "codes": "HSS-ID.B.6",
-                "grades": "9,10,11,12",
-                "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
-                "alignmentNotes": "• Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
+                "alignmentNotes": "• Students use real data to construct a frequency table, then use the data to create and compare the results in a scatter plot and histogram. \r\n  \r\n• Students evaluate the results of the two graphs, discuss how the two graphs provide similar and different information, and determine possible conditional probabilities with regard to female and male bird songs. ",
                 "subcat": null
               }
             ]
@@ -173,21 +173,21 @@
                 "codes": "ARG-M3",
                 "grades": "6,7,8",
                 "statements": "Construct, use, and/or present an oral and written argument supported by empirical evidence and scientific reasoning to support or refute an explanation or a model for a phenomenon or a solution to a problem.",
-                "alignmentNotes": "• Students create and compare results of a scatter plot and histogram using real scientific data\n• Students are asked to interpret, discuss, and draw conclusions from a scatter plot  \n• Students analyze and compare the results of scatter plots and histograms\n• Students develop and support theories about female barn swallows using real empirical evidence and scientific reasoning\n• Students compare the results of a scatter plot and histogram to construct explanations about female and male bird songs.\n• Students are asked to support their explanation using scientific reasoning",
+                "alignmentNotes": "• Students create and compare results of a scatter plot and histogram using real scientific data\n• Students are asked to interpret, discuss, and draw conclusions from a scatter plot  \r\n• Students analyze and compare the results of scatter plots and histograms\r\n• Students develop and support theories about female barn swallows using real empirical evidence and scientific reasoning\n• Students compare the results of a scatter plot and histogram to construct explanations about female and male bird songs.\r\n• Students are asked to support their explanation using scientific reasoning",
                 "subcat": "Engaging in Argument from Evidence"
               },
               {
                 "codes": "DATA-H4",
                 "grades": "9,10,11,12",
                 "statements": "Compare and contrast various types of data sets (e.g., self-generated, archival) to examine consistency of measurements and observations.",
-                "alignmentNotes": "• Students compare and contrast scatter plots and histograms created from empirical and self-generated data sets\n• Students examine the results and interpret their findings",
+                "alignmentNotes": "• Students compare and contrast scatter plots and histograms created from empirical and self-generated data sets\r\n\r\n• Students examine the results and interpret their findings",
                 "subcat": "Analyzing Data"
               },
               {
                 "codes": "DATA-M1",
                 "grades": "6,7,8",
                 "statements": "Construct, analyze, and/or interpret graphical displays of data and/or large data sets to identify linear and nonlinear relationships.",
-                "alignmentNotes": "• Students are asked to interpret, discuss, and draw conclusions from a scatter plot               \n• Students create a histogram using real data                         • Students analyze and compare the results of scatter plots and histograms",
+                "alignmentNotes": "• Students are asked to interpret, discuss, and draw conclusions from a scatter plot               \r\n• Students create a histogram using real data                         • Students analyze and compare the results of scatter plots and histograms",
                 "subcat": "Analyzing Data"
               },
               {
@@ -201,21 +201,21 @@
                 "codes": "MATH-H2",
                 "grades": "9,10,11,12",
                 "statements": "Use mathematical, computational, and/or algorithmic representations of phenomena or design solutions to describe and/or support claims and/or explanations.",
-                "alignmentNotes": "• Students use algorithms to solve a series of ciphers\n• Students construct their own algorithms and ciphers.\n • Students construct a histogram using raw data from a real research study, interpret the results, and describe the findings",
+                "alignmentNotes": "• Students use algorithms to solve a series of ciphers\r\n• Students construct their own algorithms and ciphers.\n • Students construct a histogram using raw data from a real research study, interpret the results, and describe the findings",
                 "subcat": "Using Mathematics & Computational Thinking"
               },
               {
                 "codes": "MATH-M2",
                 "grades": "6,7,8",
                 "statements": "Use mathematical representations to describe and/or support scientific conclusions and design solutions.",
-                "alignmentNotes": "• Students interpret a scatter plot based on real scientific data    \n• Students create a histogram using raw data         • Students draw conclusions based on the scatter plots and histograms",
+                "alignmentNotes": "• Students interpret a scatter plot based on real scientific data    \r\n• Students create a histogram using raw data         • Students draw conclusions based on the scatter plots and histograms",
                 "subcat": "Using Mathematics & Computational Thinking"
               },
               {
                 "codes": "MATH-M3",
                 "grades": "6,7,8",
                 "statements": "Create algorithms (a series of ordered steps) to solve a problem.",
-                "alignmentNotes": "• Students solve a series of ciphers using algorithms   \n• Students create their own algorithms and ciphers",
+                "alignmentNotes": "• Students solve a series of ciphers using algorithms   \r\n• Students create their own algorithms and ciphers",
                 "subcat": "Using Mathematics & Computational Thinking"
               }
             ]
@@ -240,7 +240,7 @@
                 "codes": "D4.1.6-8",
                 "grades": "6,7,8",
                 "statements": "Construct arguments using claims and evidence from multiple sources, while acknowledging the strengths and limitations of the arguments.",
-                "alignmentNotes": "• Students are asked to compare the information provided in a scatter plot and a histogram   \n• Students discuss how the two graphs provide both similar and different information and how the differences may influence one's interpretation of the results\n• Students compare the information provided in a scatter plot and a histogram\n   \n• Students discuss how the two graphs provide similar and different information and how the differences may influence one's interpretation of the results",
+                "alignmentNotes": "• Students are asked to compare the information provided in a scatter plot and a histogram   \r\n• Students discuss how the two graphs provide both similar and different information and how the differences may influence one's interpretation of the results\n• Students compare the information provided in a scatter plot and a histogram\r\n   \r\n• Students discuss how the two graphs provide similar and different information and how the differences may influence one's interpretation of the results",
                 "subcat": null
               },
               {
@@ -254,7 +254,7 @@
                 "codes": "D4.2.9-12",
                 "grades": "9,10,11,12",
                 "statements": "Construct explanations using sound reasoning, correct sequence (linear or non-linear), examples, and details with significant and pertinent information and data, while acknowledging the strengths and weaknesses of the explanation given its purpose (e.g., cause and effect, chronological, procedural, technical).",
-                "alignmentNotes": "• Students are introduced to a research study on female Barn Swallows and are asked to develop explanations for differences in male and female bird songs based on information in a scatter plot\n• Students compare the information provided in a scatter plot and a histogram\n   \n• Students discuss the similarities and differences of the two graphs and construct explanations for the perceived differences in findings about female and male Barn Swallows",
+                "alignmentNotes": "• Students are introduced to a research study on female Barn Swallows and are asked to develop explanations for differences in male and female bird songs based on information in a scatter plot\n• Students compare the information provided in a scatter plot and a histogram\r\n   \r\n• Students discuss the similarities and differences of the two graphs and construct explanations for the perceived differences in findings about female and male Barn Swallows",
                 "subcat": null
               }
             ]

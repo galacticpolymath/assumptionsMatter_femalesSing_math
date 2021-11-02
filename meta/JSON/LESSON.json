@@ -76,152 +76,167 @@
             "url": "https://drive.google.com/drive/folders/1_l05Hh42OCn27s4J0EA2ZZIv6DH3iklv"
           },
           "parts": [
-            [
-              {
-                "itemTitle": "Presentation",
-                "itemCat": "presentation",
-                "links": [
-                  {
-                    "linkText": "Present Now",
-                    "url": "https://docs.google.com/presentation/d/1-xkENqDwXLz62_UHXWAmQ2eJPCUpNywXB-uz1dywIak/present"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/presentation/d/1-xkENqDwXLz62_UHXWAmQ2eJPCUpNywXB-uz1dywIak/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1XMeydMI5WUk7bajhazvqFjQcS9yUwRSu2-9VVM4H13A/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1XMeydMI5WUk7bajhazvqFjQcS9yUwRSu2-9VVM4H13A/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1IeOvMypCE2OTjMf3ZEe9MmcoF0NB1YzRPTHbl8xaeqU/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1IeOvMypCE2OTjMf3ZEe9MmcoF0NB1YzRPTHbl8xaeqU/template/preview"
-                  }
-                ]
-              }
-            ],
-            [
-              {
-                "itemTitle": "Presentation",
-                "itemCat": "presentation",
-                "links": [
-                  {
-                    "linkText": "Present Now",
-                    "url": "https://docs.google.com/presentation/d/1AYdI3aj9WQdFl_eCPDXpnlwMc13pwmNsxnwdM1sZ9iM/present"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/presentation/d/1AYdI3aj9WQdFl_eCPDXpnlwMc13pwmNsxnwdM1sZ9iM/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1oyXAIwwgtQEOpt2W8lvx2iWx1xMRQaXVlITqcnVBjAs/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1oyXAIwwgtQEOpt2W8lvx2iWx1xMRQaXVlITqcnVBjAs/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Teacher Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1a9PDt1ImC0JG7_vZqh-yXcCa7RYBa-DqyRfbqRDZsVE/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1a9PDt1ImC0JG7_vZqh-yXcCa7RYBa-DqyRfbqRDZsVE/template/preview"
-                  }
-                ]
-              }
-            ],
-            [
-              {
-                "itemTitle": "Presentation",
-                "itemCat": "presentation",
-                "links": [
-                  {
-                    "linkText": "Present Now",
-                    "url": "https://docs.google.com/presentation/d/1s3lfQ-UHWqrUq4rd1EQg_BjhjAKkG4SJavR7_EKR3Sw/present"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/presentation/d/1s3lfQ-UHWqrUq4rd1EQg_BjhjAKkG4SJavR7_EKR3Sw/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Teacher Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1vnBk3WbFTuQ5wzrBw6yzyKUlql4PdnDeMmqLcD2Hkk8/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1vnBk3WbFTuQ5wzrBw6yzyKUlql4PdnDeMmqLcD2Hkk8/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Teacher Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/16f_VJ2xCNy2qzs4majLlMbVDzf93pYYXTkKmcqwr9kc/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/16f_VJ2xCNy2qzs4majLlMbVDzf93pYYXTkKmcqwr9kc/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Table 1 reference for Part 3",
-                "itemCat": "handout",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/presentation/d/1q6I_M1oTIWb3JxwJ8NDud1ECt248RiqZR6BjkYJLiJ8/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/presentation/d/1q6I_M1oTIWb3JxwJ8NDud1ECt248RiqZR6BjkYJLiJ8/template/preview"
-                  }
-                ]
-              }
-            ]
+            {
+              "part": 1,
+              "title": "Ciphers and Data Visuals",
+              "preface": "Part 1 will take a full class period and is broken into 4 time chunks. It uses a “Polymath Puzzle” hook to draw students into carefully studying a scatter plot created from real data. Students then learn about how female song has been missed in barn swallows (a very common bird species).",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1-xkENqDwXLz62_UHXWAmQ2eJPCUpNywXB-uz1dywIak/present"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1-xkENqDwXLz62_UHXWAmQ2eJPCUpNywXB-uz1dywIak/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1XMeydMI5WUk7bajhazvqFjQcS9yUwRSu2-9VVM4H13A/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1XMeydMI5WUk7bajhazvqFjQcS9yUwRSu2-9VVM4H13A/export?format=pdf"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1IeOvMypCE2OTjMf3ZEe9MmcoF0NB1YzRPTHbl8xaeqU/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1IeOvMypCE2OTjMf3ZEe9MmcoF0NB1YzRPTHbl8xaeqU/export?format=pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "part": 2,
+              "title": "From Tables to Graphs",
+              "preface": "Students learn how to make dot plots and learn how histograms are made by binning data into ranges. This lesson is slightly shorter than the other two parts.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1AYdI3aj9WQdFl_eCPDXpnlwMc13pwmNsxnwdM1sZ9iM/present"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1AYdI3aj9WQdFl_eCPDXpnlwMc13pwmNsxnwdM1sZ9iM/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1oyXAIwwgtQEOpt2W8lvx2iWx1xMRQaXVlITqcnVBjAs/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1oyXAIwwgtQEOpt2W8lvx2iWx1xMRQaXVlITqcnVBjAs/export?format=pdf"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1a9PDt1ImC0JG7_vZqh-yXcCa7RYBa-DqyRfbqRDZsVE/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1a9PDt1ImC0JG7_vZqh-yXcCa7RYBa-DqyRfbqRDZsVE/export?format=pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "part": 3,
+              "title": "Visualizing Song Data",
+              "preface": "Students create a histogram from raw data and use the scatter plot and histogram for reflection and synthesis. They will also synthesize all they have learned about histograms, dot plots, scatter plots, and the barn swallow study to answer big questions about why female song has been missed in this common species and why that matters.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1s3lfQ-UHWqrUq4rd1EQg_BjhjAKkG4SJavR7_EKR3Sw/present"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1s3lfQ-UHWqrUq4rd1EQg_BjhjAKkG4SJavR7_EKR3Sw/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1vnBk3WbFTuQ5wzrBw6yzyKUlql4PdnDeMmqLcD2Hkk8/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1vnBk3WbFTuQ5wzrBw6yzyKUlql4PdnDeMmqLcD2Hkk8/export?format=pdf"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/16f_VJ2xCNy2qzs4majLlMbVDzf93pYYXTkKmcqwr9kc/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/16f_VJ2xCNy2qzs4majLlMbVDzf93pYYXTkKmcqwr9kc/export?format=pdf"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Table 1 reference for Part 3",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/presentation/d/1q6I_M1oTIWb3JxwJ8NDud1ECt248RiqZR6BjkYJLiJ8/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1q6I_M1oTIWb3JxwJ8NDud1ECt248RiqZR6BjkYJLiJ8/export?format=pdf"
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -232,152 +247,167 @@
             "url": "https://drive.google.com/drive/folders/1_l_wCb4BnqAwl7lRd4rhniYnWWxCo6dp"
           },
           "parts": [
-            [
-              {
-                "itemTitle": "Presentation",
-                "itemCat": "presentation",
-                "links": [
-                  {
-                    "linkText": "Present Now",
-                    "url": "https://docs.google.com/presentation/d/1vyCDH9FccecJV0umctV--9nWmdKikbVQ47ToKUtYq8Y/present"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/presentation/d/1vyCDH9FccecJV0umctV--9nWmdKikbVQ47ToKUtYq8Y/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Teacher Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1s2qYrx_88xEfeRNM530Jxs4cLbJeRPzmfI7cd7UQDT8/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1s2qYrx_88xEfeRNM530Jxs4cLbJeRPzmfI7cd7UQDT8/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1hDWushBDAAwUuEuUdr--hGqrMyUriHnw9Y41zOMHHC0/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1hDWushBDAAwUuEuUdr--hGqrMyUriHnw9Y41zOMHHC0/template/preview"
-                  }
-                ]
-              }
-            ],
-            [
-              {
-                "itemTitle": "Presentation",
-                "itemCat": "presentation",
-                "links": [
-                  {
-                    "linkText": "Present Now",
-                    "url": "https://docs.google.com/presentation/d/1eIAjDroQeOw49kK0WSf0CP0I_Jz-AJtKt8hlSDt4m84/present"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/presentation/d/1eIAjDroQeOw49kK0WSf0CP0I_Jz-AJtKt8hlSDt4m84/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1L737p4jTBB4XCd_hfzDm7xQqEt3nRosBk67yTjqQReE/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1L737p4jTBB4XCd_hfzDm7xQqEt3nRosBk67yTjqQReE/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1U2jpqM1ipy0h-L_001kItL93AfXT6AQtj9P3YoEdfI0/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1U2jpqM1ipy0h-L_001kItL93AfXT6AQtj9P3YoEdfI0/template/preview"
-                  }
-                ]
-              }
-            ],
-            [
-              {
-                "itemTitle": "Presentation",
-                "itemCat": "presentation",
-                "links": [
-                  {
-                    "linkText": "Present Now",
-                    "url": "https://docs.google.com/presentation/d/1W5QIqGEzFLbRKzk9wvvO0rVhCt3t5Fa0sDaK6i9btto/present"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/presentation/d/1W5QIqGEzFLbRKzk9wvvO0rVhCt3t5Fa0sDaK6i9btto/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Teacher Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1yBey9NeTjqDxBEEv-7hlJjDtIse3bkB_X8JCbxhGPqA/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1yBey9NeTjqDxBEEv-7hlJjDtIse3bkB_X8JCbxhGPqA/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Teacher Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1ccHAO3mwI59t38HbyyCYEyKrrPGjO9rljQojC9vFmic/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1ccHAO3mwI59t38HbyyCYEyKrrPGjO9rljQojC9vFmic/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Table 1 reference for Part 3",
-                "itemCat": "handout",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/presentation/d/10uU0I3GL-rUIIfcIw5gVeO9A1A3rwX1W2-x1wApwdPI/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/presentation/d/10uU0I3GL-rUIIfcIw5gVeO9A1A3rwX1W2-x1wApwdPI/template/preview"
-                  }
-                ]
-              }
-            ]
+            {
+              "part": 1,
+              "title": "Ciphers and Data Visuals",
+              "preface": "Part 1 will take a full class period and is broken into 4 time chunks. It uses a “Polymath Puzzle” hook to draw students into carefully studying a scatter plot created from real data. Students then learn about how female song has been missed in barn swallows (a very common bird species).",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1vyCDH9FccecJV0umctV--9nWmdKikbVQ47ToKUtYq8Y/present"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1vyCDH9FccecJV0umctV--9nWmdKikbVQ47ToKUtYq8Y/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1s2qYrx_88xEfeRNM530Jxs4cLbJeRPzmfI7cd7UQDT8/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1s2qYrx_88xEfeRNM530Jxs4cLbJeRPzmfI7cd7UQDT8/export?format=pdf"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1hDWushBDAAwUuEuUdr--hGqrMyUriHnw9Y41zOMHHC0/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1hDWushBDAAwUuEuUdr--hGqrMyUriHnw9Y41zOMHHC0/export?format=pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "part": 2,
+              "title": "From Tables to Graphs",
+              "preface": "Students learn how to make dot plots and learn how histograms are made by binning data into ranges. This lesson is slightly shorter than the other two parts.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1eIAjDroQeOw49kK0WSf0CP0I_Jz-AJtKt8hlSDt4m84/present"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1eIAjDroQeOw49kK0WSf0CP0I_Jz-AJtKt8hlSDt4m84/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1L737p4jTBB4XCd_hfzDm7xQqEt3nRosBk67yTjqQReE/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1L737p4jTBB4XCd_hfzDm7xQqEt3nRosBk67yTjqQReE/export?format=pdf"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1U2jpqM1ipy0h-L_001kItL93AfXT6AQtj9P3YoEdfI0/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1U2jpqM1ipy0h-L_001kItL93AfXT6AQtj9P3YoEdfI0/export?format=pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "part": 3,
+              "title": "Visualizing Song Data",
+              "preface": "Students create a histogram from raw data and use the scatter plot and histogram for reflection and synthesis. They will also synthesize all they have learned about histograms, dot plots, scatter plots, and the barn swallow study to answer big questions about why female song has been missed in this common species and why that matters.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1W5QIqGEzFLbRKzk9wvvO0rVhCt3t5Fa0sDaK6i9btto/present"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1W5QIqGEzFLbRKzk9wvvO0rVhCt3t5Fa0sDaK6i9btto/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1yBey9NeTjqDxBEEv-7hlJjDtIse3bkB_X8JCbxhGPqA/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1yBey9NeTjqDxBEEv-7hlJjDtIse3bkB_X8JCbxhGPqA/export?format=pdf"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1ccHAO3mwI59t38HbyyCYEyKrrPGjO9rljQojC9vFmic/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1ccHAO3mwI59t38HbyyCYEyKrrPGjO9rljQojC9vFmic/export?format=pdf"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Table 1 reference for Part 3",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/presentation/d/10uU0I3GL-rUIIfcIw5gVeO9A1A3rwX1W2-x1wApwdPI/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/10uU0I3GL-rUIIfcIw5gVeO9A1A3rwX1W2-x1wApwdPI/export?format=pdf"
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -388,152 +418,167 @@
             "url": "https://drive.google.com/drive/folders/1_xLO8r6yovUqh7Br6dH-MYQeN4dsN-xh"
           },
           "parts": [
-            [
-              {
-                "itemTitle": "Presentation",
-                "itemCat": "presentation",
-                "links": [
-                  {
-                    "linkText": "Present Now",
-                    "url": "https://docs.google.com/presentation/d/1y5C2w1bJouuCE-_T383eDUKXREfU3OblxYHm10lfVy4/present"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/presentation/d/1y5C2w1bJouuCE-_T383eDUKXREfU3OblxYHm10lfVy4/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1f4-nC_VBrKdLCU6gHucbTkByVheTHtE668OXqNpzdME/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1f4-nC_VBrKdLCU6gHucbTkByVheTHtE668OXqNpzdME/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1w7aK0dBglK5NedpIMWnx9Cz0Xwfg7U1MQqPVDEc1kxg/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1w7aK0dBglK5NedpIMWnx9Cz0Xwfg7U1MQqPVDEc1kxg/template/preview"
-                  }
-                ]
-              }
-            ],
-            [
-              {
-                "itemTitle": "Presentation",
-                "itemCat": "presentation",
-                "links": [
-                  {
-                    "linkText": "Present Now",
-                    "url": "https://docs.google.com/presentation/d/1xLtmCyK5PpRS3JsB-TFmQUYdM-AiQkzg_dmNF7ZTisc/present"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/presentation/d/1xLtmCyK5PpRS3JsB-TFmQUYdM-AiQkzg_dmNF7ZTisc/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Student Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1OU81GWUHonBjilSnjr390gGIzZUHhEh_CWVxx_-4SfQ/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1OU81GWUHonBjilSnjr390gGIzZUHhEh_CWVxx_-4SfQ/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Teacher Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/192-nPS5k_nTkyQw7FrXEZ0jwerqWoXRmYNcwqiuEeJc/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/192-nPS5k_nTkyQw7FrXEZ0jwerqWoXRmYNcwqiuEeJc/template/preview"
-                  }
-                ]
-              }
-            ],
-            [
-              {
-                "itemTitle": "Presentation",
-                "itemCat": "presentation",
-                "links": [
-                  {
-                    "linkText": "Present Now",
-                    "url": "https://docs.google.com/presentation/d/1LwYzfh-fwMu8Ej3Pn_0A0Cul3LSTQy8tcX1YWA3WjYo/present"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/presentation/d/1LwYzfh-fwMu8Ej3Pn_0A0Cul3LSTQy8tcX1YWA3WjYo/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Teacher Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1AERHj7Jx8o7vcG1Ejza-fsyYBIU3oSv4oyhT-dcaUTU/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1AERHj7Jx8o7vcG1Ejza-fsyYBIU3oSv4oyhT-dcaUTU/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Teacher Worksheet",
-                "itemCat": "worksheet",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/document/d/1-CIgtCumwSnOnMVpq8t-Izxro48D76i-DyLH7z-qAQc/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/document/d/1-CIgtCumwSnOnMVpq8t-Izxro48D76i-DyLH7z-qAQc/template/preview"
-                  }
-                ]
-              },
-              {
-                "itemTitle": "Table 1 reference for Part 3",
-                "itemCat": "handout",
-                "links": [
-                  {
-                    "linkText": "PDF",
-                    "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/export?format=pdf"
-                  },
-                  {
-                    "linkText": "Copy to My Google Drive",
-                    "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/template/preview"
-                  }
-                ]
-              }
-            ]
+            {
+              "part": 1,
+              "title": "Ciphers and Data Visuals",
+              "preface": "Part 1 will take a full class period and is broken into 4 time chunks. It uses a “Polymath Puzzle” hook to draw students into carefully studying a scatter plot created from real data. Students then learn about how female song has been missed in barn swallows (a very common bird species).",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1y5C2w1bJouuCE-_T383eDUKXREfU3OblxYHm10lfVy4/present"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1y5C2w1bJouuCE-_T383eDUKXREfU3OblxYHm10lfVy4/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1f4-nC_VBrKdLCU6gHucbTkByVheTHtE668OXqNpzdME/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1f4-nC_VBrKdLCU6gHucbTkByVheTHtE668OXqNpzdME/export?format=pdf"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1w7aK0dBglK5NedpIMWnx9Cz0Xwfg7U1MQqPVDEc1kxg/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1w7aK0dBglK5NedpIMWnx9Cz0Xwfg7U1MQqPVDEc1kxg/export?format=pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "part": 2,
+              "title": "From Tables to Graphs",
+              "preface": "Students learn how to make dot plots and learn how histograms are made by binning data into ranges. This lesson is slightly shorter than the other two parts.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1xLtmCyK5PpRS3JsB-TFmQUYdM-AiQkzg_dmNF7ZTisc/present"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1xLtmCyK5PpRS3JsB-TFmQUYdM-AiQkzg_dmNF7ZTisc/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1OU81GWUHonBjilSnjr390gGIzZUHhEh_CWVxx_-4SfQ/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1OU81GWUHonBjilSnjr390gGIzZUHhEh_CWVxx_-4SfQ/export?format=pdf"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/192-nPS5k_nTkyQw7FrXEZ0jwerqWoXRmYNcwqiuEeJc/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/192-nPS5k_nTkyQw7FrXEZ0jwerqWoXRmYNcwqiuEeJc/export?format=pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "part": 3,
+              "title": "Visualizing Song Data",
+              "preface": "Students create a histogram from raw data and use the scatter plot and histogram for reflection and synthesis. They will also synthesize all they have learned about histograms, dot plots, scatter plots, and the barn swallow study to answer big questions about why female song has been missed in this common species and why that matters.",
+              "itemList": [
+                {
+                  "itemTitle": "Presentation",
+                  "itemCat": "presentation",
+                  "links": [
+                    {
+                      "linkText": "Present Now",
+                      "url": "https://docs.google.com/presentation/d/1LwYzfh-fwMu8Ej3Pn_0A0Cul3LSTQy8tcX1YWA3WjYo/present"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1LwYzfh-fwMu8Ej3Pn_0A0Cul3LSTQy8tcX1YWA3WjYo/template/preview"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1AERHj7Jx8o7vcG1Ejza-fsyYBIU3oSv4oyhT-dcaUTU/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1AERHj7Jx8o7vcG1Ejza-fsyYBIU3oSv4oyhT-dcaUTU/export?format=pdf"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Teacher Worksheet",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1-CIgtCumwSnOnMVpq8t-Izxro48D76i-DyLH7z-qAQc/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1-CIgtCumwSnOnMVpq8t-Izxro48D76i-DyLH7z-qAQc/export?format=pdf"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Table 1 reference for Part 3",
+                  "itemCat": "NA",
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/export?format=pdf"
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         }
       ]
@@ -616,12 +661,12 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
-                      "url": "https://share.nearpod.com/1qKrWUMo5eb"
+                      "linkText": "Preview Now with Nearpod",
+                      "url": "https://share.nearpod.com/Bp1p8OIuMib"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/TB5PMWMo5eb"
+                      "url": "https://share.nearpod.com/e/Dw4hMKOuMib"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -641,7 +686,7 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
+                      "linkText": "Preview Now with Nearpod",
                       "url": "https://share.nearpod.com/NyLVv99n5eb"
                     },
                     {
@@ -666,12 +711,12 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
-                      "url": "https://share.nearpod.com/xAGdofan5eb"
+                      "linkText": "Preview Now with Nearpod",
+                      "url": "https://share.nearpod.com/3gUqkOWkMib"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/NjkXJgan5eb"
+                      "url": "https://share.nearpod.com/e/FcUpFPWkMib"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -680,24 +725,20 @@
                   ]
                 },
                 {
-                  "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
-                  "itemCat": "worksheet",
-                  "links": [
-                    {
-                      "linkText": "Download as .docx",
-                      "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
-                    }
-                  ]
+                  "itemTitle": "(Optional) Student Handout for Filling in Table 2",
+                  "itemCat": "NA",
+                  "links": {
+                    "linkText": "Download as .docx",
+                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
+                  }
                 },
                 {
-                  "itemTitle": "(Optional) Student Handout for Filling in Table 2",
-                  "itemCat": "worksheet",
-                  "links": [
-                    {
-                      "linkText": "Download as .docx",
-                      "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
-                    }
-                  ]
+                  "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
+                  "itemCat": "NA",
+                  "links": {
+                    "linkText": "Download as .docx",
+                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
+                  }
                 }
               ]
             }
@@ -717,12 +758,12 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
-                      "url": "https://share.nearpod.com/6UCFHqPo5eb"
+                      "linkText": "Preview Now with Nearpod",
+                      "url": "https://share.nearpod.com/duGJQiMkMib"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/M3dAjsPo5eb"
+                      "url": "https://share.nearpod.com/e/R8QpZjMkMib"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -742,7 +783,7 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
+                      "linkText": "Preview Now with Nearpod",
                       "url": "https://share.nearpod.com/Y9Ajddeo5eb"
                     },
                     {
@@ -767,12 +808,12 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
-                      "url": {}
+                      "linkText": "Preview Now with Nearpod",
+                      "url": "https://app.nearpod.com/?pin=7C9BF1D556205AC0C2765427F7780375-1"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": {}
+                      "url": "https://share.nearpod.com/e/MiDfMP0kMib"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -782,23 +823,19 @@
                 },
                 {
                   "itemTitle": "(Optional) Student Handout for Filling in Table 2",
-                  "itemCat": "worksheet",
-                  "links": [
-                    {
-                      "linkText": "Download as .docx",
-                      "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
-                    }
-                  ]
+                  "itemCat": "NA",
+                  "links": {
+                    "linkText": "Download as .docx",
+                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
+                  }
                 },
                 {
-                  "itemTitle": "(Optional) Student Handout for Filling in Table 2",
-                  "itemCat": "worksheet",
-                  "links": [
-                    {
-                      "linkText": "Download as .docx",
-                      "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g9-12_gmxqpf.docx"
-                    }
-                  ]
+                  "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
+                  "itemCat": "NA",
+                  "links": {
+                    "linkText": "Download as .docx",
+                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
+                  }
                 }
               ]
             }
@@ -818,12 +855,12 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
-                      "url": "https://share.nearpod.com/1hcjTGQo5eb"
+                      "linkText": "Preview Now with Nearpod",
+                      "url": "https://share.nearpod.com/mr7irtNkMib"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/6qDshJQo5eb"
+                      "url": "https://share.nearpod.com/e/wFap6uNkMib"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -843,7 +880,7 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
+                      "linkText": "Preview Now with Nearpod",
                       "url": "https://share.nearpod.com/eQE8Trfo5eb"
                     },
                     {
@@ -868,12 +905,12 @@
                   "itemCat": "presentation",
                   "links": [
                     {
-                      "linkText": "Present Now",
-                      "url": "https://share.nearpod.com/97Cchxjn5eb"
+                      "linkText": "Preview Now with Nearpod",
+                      "url": "https://share.nearpod.com/dzVNIH2kMib"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/hmba8yjn5eb"
+                      "url": "https://share.nearpod.com/e/emoQ4I2kMib"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -882,24 +919,20 @@
                   ]
                 },
                 {
-                  "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
-                  "itemCat": "worksheet",
-                  "links": [
-                    {
-                      "linkText": "Download as .docx",
-                      "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
-                    }
-                  ]
+                  "itemTitle": "(Optional) Student Handout for Filling in Table 2",
+                  "itemCat": "NA",
+                  "links": {
+                    "linkText": "Download as .docx",
+                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g9-12_gmxqpf.docx"
+                  }
                 },
                 {
                   "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
-                  "itemCat": "worksheet",
-                  "links": [
-                    {
-                      "linkText": "Download as .docx",
-                      "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
-                    }
-                  ]
+                  "itemCat": "NA",
+                  "links": {
+                    "linkText": "Download as .docx",
+                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
+                  }
                 }
               ]
             }
@@ -927,8 +960,8 @@
                 "Step": 1,
                 "StepTitle": "Introduction to Ciphers",
                 "StepQuickDescription": "Students learn how to crack a type of secret message called a cipher. They will need this background to solve the *Polymath Puzzle* engagement hook. ",
-                "StepDetails": "By spending some time introducing students to ciphers, we are laying the groundwork for cipher-based puzzle hooks for each part of this lesson. The Polymath Puzzle in Part 1 draws students into decoding the labels on a graph in order to engage them in trying to understand the next level of meaning in the graph, creating a rich data literacy learning experience. In the first step, students learn that ciphers are used to make a secret message. We use a simple cipher called an alphabetic shift, where each letter of each word in a message has been shifted a certain number of places (e.g. +1 would mean A becomes B, B becomes C, and so on).\nThis section works on assimilating new vocabulary, as well as encouraging students to have a growth mindset. They need to quickly orient themselves to the \"system\" of ciphers and how they work. Parts 2 and 3 of the lesson will build on this engagement hook.",
-                "Vocab": "- **algorithm :** a set of steps, like a mathematical recipe\n- **alphabetic shift:** type of cipher where each letter has been shifted a certain number of places (dictated by the algorithm)\n- **cipher:** a secret message that uses an algorithm to make a message seem like nonsense\n- **decipher:** 1) to convert a secret message into readable text; 2) to succeed in understanding something \n- **encipher:** convert readable text (plaintext) into a secret message\n- **plaintext:** readable text (not a cipher)",
+                "StepDetails": "By spending some time introducing students to ciphers, we are laying the groundwork for cipher-based puzzle hooks for each part of this lesson. The Polymath Puzzle in Part 1 draws students into decoding the labels on a graph in order to engage them in trying to understand the next level of meaning in the graph, creating a rich data literacy learning experience. In the first step, students learn that ciphers are used to make a secret message. We use a simple cipher called an alphabetic shift, where each letter of each word in a message has been shifted a certain number of places (e.g. +1 would mean A becomes B, B becomes C, and so on).\r\nThis section works on assimilating new vocabulary, as well as encouraging students to have a growth mindset. They need to quickly orient themselves to the \"system\" of ciphers and how they work. Parts 2 and 3 of the lesson will build on this engagement hook.",
+                "Vocab": "- **algorithm :** a set of steps, like a mathematical recipe\r\n- **alphabetic shift:** type of cipher where each letter has been shifted a certain number of places (dictated by the algorithm)\r\n- **cipher:** a secret message that uses an algorithm to make a message seem like nonsense\r\n- **decipher:** 1) to convert a secret message into readable text; 2) to succeed in understanding something \r\n- **encipher:** convert readable text (plaintext) into a secret message\r\n- **plaintext:** readable text (not a cipher)",
                 "TeachingTips": "Ask students to read slides and predict what the next slide will be (e.g. the next letter in the alphabetic shift). Model a growth mindset, and that it's ok to not completely understand at first."
               },
               {
@@ -949,7 +982,7 @@
                 "Step": 3,
                 "StepTitle": "The Polymath Puzzle",
                 "StepQuickDescription": "Students use their new skills to decipher the coded axes of a scatter plot graph representing data from a real scientific study.",
-                "VariantNotes": "Decipher algorithms for grade bands:\n- 5-6, 7-8: (-1 shift)\n- 9-12: (+3 shift)",
+                "VariantNotes": "Decipher algorithms for grade bands:\r\n- 5-6, 7-8: (-1 shift)\r\n- 9-12: (+3 shift)",
                 "TeachingTips": "Set a definite time limit (e.g. 5min) to solve and enter deciphered text, and move on. The videos will clear up any misunderstandings."
               },
               {
@@ -976,7 +1009,7 @@
               {
                 "Step": 6,
                 "StepTitle": "Mystery Reveal",
-                "StepQuickDescription": "Students watch [▶\"Polymath Puzzle Reveal—Is the graph about birds, spiders, whales,...?\"](https://www.youtube.com/watch?v=91gnGO5DASI&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=4), which connects the puzzle to current research and data literacy. "
+                "StepQuickDescription": "Students watch [▶\"Polymath Puzzle Reveal—Is the graph about birds, spiders, whales,...?\"](https://www.youtube.com/watch?v=91gnGO5DASI&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=4 ), which connects the puzzle to current research and data literacy. "
               }
             ]
           },
@@ -989,7 +1022,7 @@
                 "Step": 7,
                 "StepTitle": "Pivot to Histograms",
                 "StepQuickDescription": "Students learn about how the study’s original authors were questioned on their use of scatter plots vs histograms. ",
-                "StepDetails": "\n",
+                "StepDetails": "\r\n",
                 "Vocab": "- **data visualization:** a representation of numbers or other types of data in a way that makes it easier to see patterns. Ex: scatter plots, histograms, & other types of graph"
               },
               {
@@ -1002,7 +1035,7 @@
                 "Step": 9,
                 "StepTitle": "Reflection",
                 "StepQuickDescription": "Part 1 ends with a customizable reflection slide and review of covered vocabulary, and topics. ",
-                "StepDetails": "Reflection Ideas:\n- What types of data have you seen represented as a scatter plot?\n- Why do you think female barn swallow song has been ignored until 2020? (This will be a repeated theme.)\n- 3-2-1: 3 things I learned today; 2 things I found especially interesting; 1 question I still have."
+                "StepDetails": "Reflection Ideas:\r\n- What types of data have you seen represented as a scatter plot?\r\n- Why do you think female barn swallow song has been ignored until 2020? (This will be a repeated theme.)\r\n- 3-2-1: 3 things I learned today; 2 things I found especially interesting; 1 question I still have."
               }
             ]
           }
@@ -1048,18 +1081,20 @@
                 "Step": 3,
                 "StepTitle": "Concept: Range",
                 "StepQuickDescription": "Students learn new vocabulary. Then histogram is explained through a real world example of heights of cherry trees. ",
-                "Vocab": "- **data visualization:** \n- **histogram:** \n- **bins:** \n- **range:** "
+                "Vocab": "- **analyzing:** organizing and exploring data to unlock its meaning\r\n- **data visualization:** a representation of numbers or other types of data in a way that makes it easier to see patterns. Ex: scatter plots, histograms, & other types of graph\r\n- **range:** a set of two numbers: the least and the greatest number in a data set. Usually expressed as Small Number – Big Number"
               },
               {
                 "Step": 4,
                 "StepTitle": "Concept: Dot Plot",
-                "StepQuickDescription": "Students follow along as the presentation shows how the data is used to create a Dot Plot. Check-in formative assessments of understanding are built in."
+                "StepQuickDescription": "Students follow along as the presentation shows how the data is used to create a Dot Plot. Check-in formative assessments of understanding are built in.",
+                "Vocab": "- **dot plot:** a graph with one point for each data observation\r\n- **binned dot plot:** a dot plot where observations have been binned into ranges\r\n- **histogram:** a type of bar graph showing the distribution of a set of measurements for 1 variable. A common pattern (called a \"normal distribution\") is bell-shaped, with most observations having values close to the average, with about equal, increasingly rare measurements that are very high or very low. Human height is a good example of a normal distribution, with many \"average/medium\" height individuals, and very few individuals being significantly shorter or taller than all the rest.\r\n- **scatter plot:** a graph showing the relationship between two continuous variables. Each data point represents the measurement for variable X and variable Y for a particular individual."
               },
               {
                 "Step": 5,
                 "StepTitle": "Concept: Binning",
                 "StepQuickDescription": "Students watch [▶\"Connections between dot plots and histograms (with sound)\"](https://www.youtube.com/watch?v=cA89FYd6biU&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=6) and then follow along as the presentation shows how to bin the cherry tree data.",
-                "StepDetails": "This video has some silly sound effects which will hopefully increase engagement and help students remember the connections between dot plots and histograms."
+                "StepDetails": "This video has some silly sound effects which will hopefully increase engagement and help students remember the connections between dot plots and histograms.",
+                "Vocab": "- **binning:** combining groups of observations into ranges. The bins could be ranges (like 0-5, 6-10, etc), or named categories, like when we classify people into “short,” “average,” and “tall” height categories."
               }
             ]
           },
@@ -1071,7 +1106,7 @@
               {
                 "Step": 6,
                 "StepTitle": "Analyzing the Data",
-                "StepQuickDescription": "While showing the completed histogram, presentation asks two questions prompting analysis and critical review of the graph.\n"
+                "StepQuickDescription": "While showing the completed histogram, presentation asks two questions prompting analysis and critical review of the graph.\r\n"
               }
             ]
           },
@@ -1128,7 +1163,8 @@
               {
                 "Step": 3,
                 "StepTitle": "Understanding Table 1",
-                "StepQuickDescription": "Students are guided through understanding what the data are and how they are categorized in Table 1. This is the raw data, representing the number of songs recorded for each bird, along with their sex & ID code."
+                "StepQuickDescription": "Students are guided through understanding what the data are and how they are categorized in Table 1. This is the raw data, representing the number of songs recorded for each bird, along with their sex & ID code.",
+                "Vocab": "- **binned data:** summary data where measurements have been combined into bins (ranges)\r\n- **raw data:** original, unmodified measurements"
               },
               {
                 "Step": 4,
@@ -1213,7 +1249,7 @@
                 "Step": 13,
                 "StepTitle": "Discussion & Synthesis",
                 "StepQuickDescription": "Part 3 has a customizable discussion. You may copy and edit slides to make it your own if you prefer.",
-                "TeachingTips": "Key Take-Homes to Drive Toward During Reflection\n- Female birds sing, and this has been neglected for decades, holding back scientific research into animal behavior\n- 1 reason for this is the assumption/bias that females don’t sing. This is self-fulfilling, as females often look similar to males, sing much less in total & only sing early in the breeding season.\n- This is a form of confirmation bias (though we don’t introduce that term), where we may latch onto evidence that confirms our preexisting assumptions. (And we should be wary of that).\n- The scatter plot was a better visualization for this data because it shows the timing of song and when scientists need to focus study of female song to address this gap in our knowledge.\n"
+                "TeachingTips": "Key Take-Homes to Drive Toward During Reflection\r\n- Female birds sing, and this has been neglected for decades, holding back scientific research into animal behavior\r\n- 1 reason for this is the assumption/bias that females don’t sing. This is self-fulfilling, as females often look similar to males, sing much less in total & only sing early in the breeding season.\r\n- This is a form of confirmation bias (though we don’t introduce that term), where we may latch onto evidence that confirms our preexisting assumptions. (And we should be wary of that).\r\n- The scatter plot was a better visualization for this data because it shows the timing of song and when scientists need to focus study of female song to address this gap in our knowledge.\r\n"
               }
             ]
           }
@@ -1262,6 +1298,27 @@
                   ],
                   "alignmentNotes": "• Students compare the data in a scatter plot and a histogram, then determine the differences between the two graphs",
                   "subcat": {}
+                },
+                {
+                  "codes": "8.SP.A.1",
+                  "grades": "08",
+                  "statements": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
+                  "alignmentNotes": "• Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
+                  "subcat": {}
+                },
+                {
+                  "codes": "HSS-ID.A.1",
+                  "grades": "9,10,11,12",
+                  "statements": "Represent data with plots on the real number line (dot plots, histograms, and box plots).",
+                  "alignmentNotes": "• Students create a histogram using raw data from a published research study",
+                  "subcat": {}
+                },
+                {
+                  "codes": "HSS-ID.B.6",
+                  "grades": "9,10,11,12",
+                  "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
+                  "alignmentNotes": "• Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
+                  "subcat": {}
                 }
               ]
             }
@@ -1285,21 +1342,21 @@
                   "codes": "CCRA.L.4",
                   "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
                   "statements": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
-                  "alignmentNotes": "• Students define, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n• Students use a real research article to read, interpret, and identify new/unknown words.\n• Students read a published research article to identify and define new/unknown words in context.\n• Students learn, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram ",
+                  "alignmentNotes": "• Students define, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \r\n• Students use a real research article to read, interpret, and identify new/unknown words.\n• Students read a published research article to identify and define new/unknown words in context.\r\n\r\n• Students learn, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram ",
                   "subcat": {}
                 },
                 {
                   "codes": "CCRA.SL.2",
                   "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
                   "statements": "Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.",
-                  "alignmentNotes": "• Students evaluate quantitative information by comparing the same data in the form of a scatter plot and a histogram\n• Students evaluate quantitative information presented in the forms of a scatter plot and a histogram\n• Students compare the results of the two graphs, evaluate differences, and inerpret the findings.",
+                  "alignmentNotes": "• Students evaluate quantitative information by comparing the same data in the form of a scatter plot and a histogram\n• Students evaluate quantitative information presented in the forms of a scatter plot and a histogram\r\n\r\n• Students compare the results of the two graphs, evaluate differences, and inerpret the findings.",
                   "subcat": {}
                 },
                 {
                   "codes": "L.6.6",
                   "grades": "06",
                   "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-                  "alignmentNotes": "• Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n• Students use and reference the new words throughout the lesson",
+                  "alignmentNotes": "• Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \r\n• Students use and reference the new words throughout the lesson",
                   "subcat": {}
                 },
                 {
@@ -1326,7 +1383,7 @@
                   "codes": "RST.6-8.4",
                   "grades": "6,7,8",
                   "statements": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to *grades 6-8 texts and topics*.",
-                  "alignmentNotes": "• Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n• Students use and reference the new words throughout the lesson\n• Students define, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n• Students use a real research article to read, interpret, and identify new/unknown words.",
+                  "alignmentNotes": "• Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \r\n• Students use and reference the new words throughout the lesson\n• Students define, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \r\n• Students use a real research article to read, interpret, and identify new/unknown words.",
                   "subcat": {}
                 },
                 {
@@ -1355,31 +1412,10 @@
               "name": "Measurement, Data, Probability & Statistics",
               "standardsGroup": [
                 {
-                  "codes": "8.SP.A.1",
-                  "grades": "08",
-                  "statements": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
-                  "alignmentNotes": "• Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
-                  "subcat": {}
-                },
-                {
                   "codes": "HSS-CP.A.4",
                   "grades": "9,10,11,12",
                   "statements": "Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities. *For example, collect data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results.*",
-                  "alignmentNotes": "• Students use real data to construct a frequency table, then use the data to create and compare the results in a scatter plot and histogram. \n  \n• Students evaluate the results of the two graphs, discuss how the two graphs provide similar and different information, and determine possible conditional probabilities with regard to female and male bird songs. ",
-                  "subcat": {}
-                },
-                {
-                  "codes": "HSS-ID.A.1",
-                  "grades": "9,10,11,12",
-                  "statements": "Represent data with plots on the real number line (dot plots, histograms, and box plots).",
-                  "alignmentNotes": "• Students create a histogram using raw data from a published research study",
-                  "subcat": {}
-                },
-                {
-                  "codes": "HSS-ID.B.6",
-                  "grades": "9,10,11,12",
-                  "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
-                  "alignmentNotes": "• Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
+                  "alignmentNotes": "• Students use real data to construct a frequency table, then use the data to create and compare the results in a scatter plot and histogram. \r\n  \r\n• Students evaluate the results of the two graphs, discuss how the two graphs provide similar and different information, and determine possible conditional probabilities with regard to female and male bird songs. ",
                   "subcat": {}
                 }
               ]
@@ -1404,21 +1440,21 @@
                   "codes": "ARG-M3",
                   "grades": "6,7,8",
                   "statements": "Construct, use, and/or present an oral and written argument supported by empirical evidence and scientific reasoning to support or refute an explanation or a model for a phenomenon or a solution to a problem.",
-                  "alignmentNotes": "• Students create and compare results of a scatter plot and histogram using real scientific data\n• Students are asked to interpret, discuss, and draw conclusions from a scatter plot  \n• Students analyze and compare the results of scatter plots and histograms\n• Students develop and support theories about female barn swallows using real empirical evidence and scientific reasoning\n• Students compare the results of a scatter plot and histogram to construct explanations about female and male bird songs.\n• Students are asked to support their explanation using scientific reasoning",
+                  "alignmentNotes": "• Students create and compare results of a scatter plot and histogram using real scientific data\n• Students are asked to interpret, discuss, and draw conclusions from a scatter plot  \r\n• Students analyze and compare the results of scatter plots and histograms\r\n• Students develop and support theories about female barn swallows using real empirical evidence and scientific reasoning\n• Students compare the results of a scatter plot and histogram to construct explanations about female and male bird songs.\r\n• Students are asked to support their explanation using scientific reasoning",
                   "subcat": "Engaging in Argument from Evidence"
                 },
                 {
                   "codes": "DATA-H4",
                   "grades": "9,10,11,12",
                   "statements": "Compare and contrast various types of data sets (e.g., self-generated, archival) to examine consistency of measurements and observations.",
-                  "alignmentNotes": "• Students compare and contrast scatter plots and histograms created from empirical and self-generated data sets\n• Students examine the results and interpret their findings",
+                  "alignmentNotes": "• Students compare and contrast scatter plots and histograms created from empirical and self-generated data sets\r\n\r\n• Students examine the results and interpret their findings",
                   "subcat": "Analyzing Data"
                 },
                 {
                   "codes": "DATA-M1",
                   "grades": "6,7,8",
                   "statements": "Construct, analyze, and/or interpret graphical displays of data and/or large data sets to identify linear and nonlinear relationships.",
-                  "alignmentNotes": "• Students are asked to interpret, discuss, and draw conclusions from a scatter plot               \n• Students create a histogram using real data                         • Students analyze and compare the results of scatter plots and histograms",
+                  "alignmentNotes": "• Students are asked to interpret, discuss, and draw conclusions from a scatter plot               \r\n• Students create a histogram using real data                         • Students analyze and compare the results of scatter plots and histograms",
                   "subcat": "Analyzing Data"
                 },
                 {
@@ -1438,21 +1474,21 @@
                   "codes": "MATH-H2",
                   "grades": "9,10,11,12",
                   "statements": "Use mathematical, computational, and/or algorithmic representations of phenomena or design solutions to describe and/or support claims and/or explanations.",
-                  "alignmentNotes": "• Students use algorithms to solve a series of ciphers\n• Students construct their own algorithms and ciphers.\n • Students construct a histogram using raw data from a real research study, interpret the results, and describe the findings",
+                  "alignmentNotes": "• Students use algorithms to solve a series of ciphers\r\n• Students construct their own algorithms and ciphers.\n • Students construct a histogram using raw data from a real research study, interpret the results, and describe the findings",
                   "subcat": "Using Mathematics & Computational Thinking"
                 },
                 {
                   "codes": "MATH-M2",
                   "grades": "6,7,8",
                   "statements": "Use mathematical representations to describe and/or support scientific conclusions and design solutions.",
-                  "alignmentNotes": "• Students interpret a scatter plot based on real scientific data    \n• Students create a histogram using raw data         • Students draw conclusions based on the scatter plots and histograms",
+                  "alignmentNotes": "• Students interpret a scatter plot based on real scientific data    \r\n• Students create a histogram using raw data         • Students draw conclusions based on the scatter plots and histograms",
                   "subcat": "Using Mathematics & Computational Thinking"
                 },
                 {
                   "codes": "MATH-M3",
                   "grades": "6,7,8",
                   "statements": "Create algorithms (a series of ordered steps) to solve a problem.",
-                  "alignmentNotes": "• Students solve a series of ciphers using algorithms   \n• Students create their own algorithms and ciphers",
+                  "alignmentNotes": "• Students solve a series of ciphers using algorithms   \r\n• Students create their own algorithms and ciphers",
                   "subcat": "Using Mathematics & Computational Thinking"
                 }
               ]
@@ -1477,7 +1513,7 @@
                   "codes": "D4.1.6-8",
                   "grades": "6,7,8",
                   "statements": "Construct arguments using claims and evidence from multiple sources, while acknowledging the strengths and limitations of the arguments.",
-                  "alignmentNotes": "• Students are asked to compare the information provided in a scatter plot and a histogram   \n• Students discuss how the two graphs provide both similar and different information and how the differences may influence one's interpretation of the results\n• Students compare the information provided in a scatter plot and a histogram\n   \n• Students discuss how the two graphs provide similar and different information and how the differences may influence one's interpretation of the results",
+                  "alignmentNotes": "• Students are asked to compare the information provided in a scatter plot and a histogram   \r\n• Students discuss how the two graphs provide both similar and different information and how the differences may influence one's interpretation of the results\n• Students compare the information provided in a scatter plot and a histogram\r\n   \r\n• Students discuss how the two graphs provide similar and different information and how the differences may influence one's interpretation of the results",
                   "subcat": {}
                 },
                 {
@@ -1491,7 +1527,7 @@
                   "codes": "D4.2.9-12",
                   "grades": "9,10,11,12",
                   "statements": "Construct explanations using sound reasoning, correct sequence (linear or non-linear), examples, and details with significant and pertinent information and data, while acknowledging the strengths and weaknesses of the explanation given its purpose (e.g., cause and effect, chronological, procedural, technical).",
-                  "alignmentNotes": "• Students are introduced to a research study on female Barn Swallows and are asked to develop explanations for differences in male and female bird songs based on information in a scatter plot\n• Students compare the information provided in a scatter plot and a histogram\n   \n• Students discuss the similarities and differences of the two graphs and construct explanations for the perceived differences in findings about female and male Barn Swallows",
+                  "alignmentNotes": "• Students are introduced to a research study on female Barn Swallows and are asked to develop explanations for differences in male and female bird songs based on information in a scatter plot\n• Students compare the information provided in a scatter plot and a histogram\r\n   \r\n• Students discuss the similarities and differences of the two graphs and construct explanations for the perceived differences in findings about female and male Barn Swallows",
                   "subcat": {}
                 }
               ]
@@ -1508,14 +1544,14 @@
       "records": [
         {
           "name": "Jennifer Gentry, PhD",
-          "url": "https://www.vanderbilt.edu/cso/staff.php",
+          "url": "https://www.vanderbilt.edu/cseo/who-we-are/staff/",
           "title": "Postdoc, Homeschool Teacher",
           "affiliation": "Vanderbilt U, Collab for STEM Ed & Outreach",
           "location": "Nashville, TN"
         },
         {
           "name": "Sarah Huneycutt, PhD",
-          "url": "https://www.vanderbilt.edu/cso/staff.php",
+          "url": "https://www.vanderbilt.edu/cseo/who-we-are/staff/",
           "title": "Postdoc, Homeschool Teacher",
           "affiliation": "Vanderbilt U, Collab for STEM Ed & Outreach",
           "location": "Nashville, TN"
@@ -1528,7 +1564,7 @@
       "records": [
         {
           "name": "Greta Clinton-Selin",
-          "url": "https://www.vanderbilt.edu/cso/staff.php",
+          "url": "https://www.vanderbilt.edu/cseo/who-we-are/staff/",
           "title": "Education Program Coordinator",
           "affiliation": "Vanderbilt U, Collab for STEM Ed & Outreach",
           "location": "Nashville, TN"
@@ -1634,6 +1670,13 @@
           "date": "Apr 20, 2021",
           "summary": "Added classroom materials and remote fixes",
           "notes": "First version with a full complement of in-person classroom versions of presentations and handouts. Fixed problem with Part 3 warm-up. The descriptions of the solution were backwards (i.e. the cipher is -3 encipher, +3 decipher, not the opposite).",
+          "acknowledgments": {}
+        },
+        {
+          "version": "1.1.0",
+          "date": "Aug 16, 2021",
+          "summary": "Updated Parts 1 & 3 Nearpod versions for all grades, which had links to old videos.",
+          "notes": "Also updated links in acknowledgments",
           "acknowledgments": {}
         }
       ]

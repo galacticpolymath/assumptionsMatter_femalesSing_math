@@ -17,8 +17,8 @@
               "Step": 1,
               "StepTitle": "Introduction to Ciphers",
               "StepQuickDescription": "Students learn how to crack a type of secret message called a cipher. They will need this background to solve the *Polymath Puzzle* engagement hook. ",
-              "StepDetails": "By spending some time introducing students to ciphers, we are laying the groundwork for cipher-based puzzle hooks for each part of this lesson. The Polymath Puzzle in Part 1 draws students into decoding the labels on a graph in order to engage them in trying to understand the next level of meaning in the graph, creating a rich data literacy learning experience. In the first step, students learn that ciphers are used to make a secret message. We use a simple cipher called an alphabetic shift, where each letter of each word in a message has been shifted a certain number of places (e.g. +1 would mean A becomes B, B becomes C, and so on).\nThis section works on assimilating new vocabulary, as well as encouraging students to have a growth mindset. They need to quickly orient themselves to the \"system\" of ciphers and how they work. Parts 2 and 3 of the lesson will build on this engagement hook.",
-              "Vocab": "- **algorithm :** a set of steps, like a mathematical recipe\n- **alphabetic shift:** type of cipher where each letter has been shifted a certain number of places (dictated by the algorithm)\n- **cipher:** a secret message that uses an algorithm to make a message seem like nonsense\n- **decipher:** 1) to convert a secret message into readable text; 2) to succeed in understanding something \n- **encipher:** convert readable text (plaintext) into a secret message\n- **plaintext:** readable text (not a cipher)",
+              "StepDetails": "By spending some time introducing students to ciphers, we are laying the groundwork for cipher-based puzzle hooks for each part of this lesson. The Polymath Puzzle in Part 1 draws students into decoding the labels on a graph in order to engage them in trying to understand the next level of meaning in the graph, creating a rich data literacy learning experience. In the first step, students learn that ciphers are used to make a secret message. We use a simple cipher called an alphabetic shift, where each letter of each word in a message has been shifted a certain number of places (e.g. +1 would mean A becomes B, B becomes C, and so on).\r\nThis section works on assimilating new vocabulary, as well as encouraging students to have a growth mindset. They need to quickly orient themselves to the \"system\" of ciphers and how they work. Parts 2 and 3 of the lesson will build on this engagement hook.",
+              "Vocab": "- **algorithm :** a set of steps, like a mathematical recipe\r\n- **alphabetic shift:** type of cipher where each letter has been shifted a certain number of places (dictated by the algorithm)\r\n- **cipher:** a secret message that uses an algorithm to make a message seem like nonsense\r\n- **decipher:** 1) to convert a secret message into readable text; 2) to succeed in understanding something \r\n- **encipher:** convert readable text (plaintext) into a secret message\r\n- **plaintext:** readable text (not a cipher)",
               "TeachingTips": "Ask students to read slides and predict what the next slide will be (e.g. the next letter in the alphabetic shift). Model a growth mindset, and that it's ok to not completely understand at first."
             },
             {
@@ -39,7 +39,7 @@
               "Step": 3,
               "StepTitle": "The Polymath Puzzle",
               "StepQuickDescription": "Students use their new skills to decipher the coded axes of a scatter plot graph representing data from a real scientific study.",
-              "VariantNotes": "Decipher algorithms for grade bands:\n- 5-6, 7-8: (-1 shift)\n- 9-12: (+3 shift)",
+              "VariantNotes": "Decipher algorithms for grade bands:\r\n- 5-6, 7-8: (-1 shift)\r\n- 9-12: (+3 shift)",
               "TeachingTips": "Set a definite time limit (e.g. 5min) to solve and enter deciphered text, and move on. The videos will clear up any misunderstandings."
             },
             {
@@ -66,7 +66,7 @@
             {
               "Step": 6,
               "StepTitle": "Mystery Reveal",
-              "StepQuickDescription": "Students watch [▶\"Polymath Puzzle Reveal—Is the graph about birds, spiders, whales,...?\"](https://www.youtube.com/watch?v=91gnGO5DASI&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=4), which connects the puzzle to current research and data literacy. "
+              "StepQuickDescription": "Students watch [▶\"Polymath Puzzle Reveal—Is the graph about birds, spiders, whales,...?\"](https://www.youtube.com/watch?v=91gnGO5DASI&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=4 ), which connects the puzzle to current research and data literacy. "
             }
           ]
         },
@@ -79,7 +79,7 @@
               "Step": 7,
               "StepTitle": "Pivot to Histograms",
               "StepQuickDescription": "Students learn about how the study’s original authors were questioned on their use of scatter plots vs histograms. ",
-              "StepDetails": "\n",
+              "StepDetails": "\r\n",
               "Vocab": "- **data visualization:** a representation of numbers or other types of data in a way that makes it easier to see patterns. Ex: scatter plots, histograms, & other types of graph"
             },
             {
@@ -92,7 +92,7 @@
               "Step": 9,
               "StepTitle": "Reflection",
               "StepQuickDescription": "Part 1 ends with a customizable reflection slide and review of covered vocabulary, and topics. ",
-              "StepDetails": "Reflection Ideas:\n- What types of data have you seen represented as a scatter plot?\n- Why do you think female barn swallow song has been ignored until 2020? (This will be a repeated theme.)\n- 3-2-1: 3 things I learned today; 2 things I found especially interesting; 1 question I still have."
+              "StepDetails": "Reflection Ideas:\r\n- What types of data have you seen represented as a scatter plot?\r\n- Why do you think female barn swallow song has been ignored until 2020? (This will be a repeated theme.)\r\n- 3-2-1: 3 things I learned today; 2 things I found especially interesting; 1 question I still have."
             }
           ]
         }
@@ -138,18 +138,20 @@
               "Step": 3,
               "StepTitle": "Concept: Range",
               "StepQuickDescription": "Students learn new vocabulary. Then histogram is explained through a real world example of heights of cherry trees. ",
-              "Vocab": "- **data visualization:** \n- **histogram:** \n- **bins:** \n- **range:** "
+              "Vocab": "- **analyzing:** organizing and exploring data to unlock its meaning\r\n- **data visualization:** a representation of numbers or other types of data in a way that makes it easier to see patterns. Ex: scatter plots, histograms, & other types of graph\r\n- **range:** a set of two numbers: the least and the greatest number in a data set. Usually expressed as Small Number – Big Number"
             },
             {
               "Step": 4,
               "StepTitle": "Concept: Dot Plot",
-              "StepQuickDescription": "Students follow along as the presentation shows how the data is used to create a Dot Plot. Check-in formative assessments of understanding are built in."
+              "StepQuickDescription": "Students follow along as the presentation shows how the data is used to create a Dot Plot. Check-in formative assessments of understanding are built in.",
+              "Vocab": "- **dot plot:** a graph with one point for each data observation\r\n- **binned dot plot:** a dot plot where observations have been binned into ranges\r\n- **histogram:** a type of bar graph showing the distribution of a set of measurements for 1 variable. A common pattern (called a \"normal distribution\") is bell-shaped, with most observations having values close to the average, with about equal, increasingly rare measurements that are very high or very low. Human height is a good example of a normal distribution, with many \"average/medium\" height individuals, and very few individuals being significantly shorter or taller than all the rest.\r\n- **scatter plot:** a graph showing the relationship between two continuous variables. Each data point represents the measurement for variable X and variable Y for a particular individual."
             },
             {
               "Step": 5,
               "StepTitle": "Concept: Binning",
               "StepQuickDescription": "Students watch [▶\"Connections between dot plots and histograms (with sound)\"](https://www.youtube.com/watch?v=cA89FYd6biU&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=6) and then follow along as the presentation shows how to bin the cherry tree data.",
-              "StepDetails": "This video has some silly sound effects which will hopefully increase engagement and help students remember the connections between dot plots and histograms."
+              "StepDetails": "This video has some silly sound effects which will hopefully increase engagement and help students remember the connections between dot plots and histograms.",
+              "Vocab": "- **binning:** combining groups of observations into ranges. The bins could be ranges (like 0-5, 6-10, etc), or named categories, like when we classify people into “short,” “average,” and “tall” height categories."
             }
           ]
         },
@@ -161,7 +163,7 @@
             {
               "Step": 6,
               "StepTitle": "Analyzing the Data",
-              "StepQuickDescription": "While showing the completed histogram, presentation asks two questions prompting analysis and critical review of the graph.\n"
+              "StepQuickDescription": "While showing the completed histogram, presentation asks two questions prompting analysis and critical review of the graph.\r\n"
             }
           ]
         },
@@ -218,7 +220,8 @@
             {
               "Step": 3,
               "StepTitle": "Understanding Table 1",
-              "StepQuickDescription": "Students are guided through understanding what the data are and how they are categorized in Table 1. This is the raw data, representing the number of songs recorded for each bird, along with their sex & ID code."
+              "StepQuickDescription": "Students are guided through understanding what the data are and how they are categorized in Table 1. This is the raw data, representing the number of songs recorded for each bird, along with their sex & ID code.",
+              "Vocab": "- **binned data:** summary data where measurements have been combined into bins (ranges)\r\n- **raw data:** original, unmodified measurements"
             },
             {
               "Step": 4,
@@ -303,7 +306,7 @@
               "Step": 13,
               "StepTitle": "Discussion & Synthesis",
               "StepQuickDescription": "Part 3 has a customizable discussion. You may copy and edit slides to make it your own if you prefer.",
-              "TeachingTips": "Key Take-Homes to Drive Toward During Reflection\n- Female birds sing, and this has been neglected for decades, holding back scientific research into animal behavior\n- 1 reason for this is the assumption/bias that females don’t sing. This is self-fulfilling, as females often look similar to males, sing much less in total & only sing early in the breeding season.\n- This is a form of confirmation bias (though we don’t introduce that term), where we may latch onto evidence that confirms our preexisting assumptions. (And we should be wary of that).\n- The scatter plot was a better visualization for this data because it shows the timing of song and when scientists need to focus study of female song to address this gap in our knowledge.\n"
+              "TeachingTips": "Key Take-Homes to Drive Toward During Reflection\r\n- Female birds sing, and this has been neglected for decades, holding back scientific research into animal behavior\r\n- 1 reason for this is the assumption/bias that females don’t sing. This is self-fulfilling, as females often look similar to males, sing much less in total & only sing early in the breeding season.\r\n- This is a form of confirmation bias (though we don’t introduce that term), where we may latch onto evidence that confirms our preexisting assumptions. (And we should be wary of that).\r\n- The scatter plot was a better visualization for this data because it shows the timing of song and when scientists need to focus study of female song to address this gap in our knowledge.\r\n"
             }
           ]
         }

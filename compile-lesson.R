@@ -25,18 +25,7 @@ targetSubject<-"math" #options= "math","ela","science","social studies"
 # "scripts/"
 
 
-# Add a comment explaining what each script does and source it
-#function for making dot plots from histograms
-source("scripts/dotplot.R")
-#function for enciphering GGplot label text
-source("scripts/enciphR.R")
-#code to make dotplot-binned-dotplot-histogram animation
-source("scripts/histogram_animation")
-#code for making generic plots using penguin data for Part 3 presentations
-source("scripts/penguinPlots.R")
-#code for making the polymath puzzle and histogram variants; also banner graphics
-source("scripts/polymathPuzzle-&-histograms.R")
-
+runLessonScripts()
 
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -74,19 +63,6 @@ learningChart(alignment,
               caption=fullTitle,
               fileName=paste0(shortTitle,"_LearningChart"))
 
-
-
-#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-# STEP 5: Output lesson chunking visuals ------------------------------------------
-#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-#deprecated
-
-# part1Chunks<-c(15,10,15,5)
-# part2Chunks<-c(10,5,15,10,5)
-# part3Chunks<-c(5, 10,10,5,5,10)
-# galacticPubs:::timeChunk(45,part1Chunks,prefix="Part1",destFolder="assets/time-chunking-figs")
-# galacticPubs:::timeChunk(45,part2Chunks,prefix="Part2",destFolder="assets/time-chunking-figs")
-# galacticPubs:::timeChunk(45,part3Chunks,prefix="Part3",destFolder="assets/time-chunking-figs")
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # STEP 5: Add/Update Google Drive Share Links for Lesson Artifacts-----------------
