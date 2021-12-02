@@ -13,5 +13,6 @@ NewGPLesson.Rproj
 !/assembled-lesson-materials/**/
 !assembled-lesson-materials/**/.gitkeep
 Icon?
+Icon
 *.gsheet
 *.gdoc
