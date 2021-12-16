@@ -1,28 +1,27 @@
-TemplateVer: 0.1.4
-PublicationStatus: Live
-Title: Females singing to be heard
+TemplateVer: 0.1.9
+galacticPubsVer: 0.5.6
+FirstPublicationDate: 2021-12-16 16:03:12
+LastUpdated: 2021-12-16 16:03:12
 ShortTitle: femalesSing
+PublicationStatus: Live
+ReleaseDate: '2021-12-16'
+Title: Females singing to be heard
+Subtitle: Challenging long-held assumptions about birdsong through data visualization
 SponsoredBy: The [Animal Behaviour Society](https://www.animalbehaviorsociety.org/web/index.php),
   an international non-profit scientific society that encourages and promotes the
   professional study of animal behavior.
+SponsorLogo: assets/orig-client-media_NoEdit/sponsor_logo_41be63750b.png
+LessonBanner: assets/banners_etc/banner.png
 TargetSubject: Math
-DrivingQ: What is the best way to visualize data?
 LessonEnvir:
 - Classroom
 - Remote
 ForGrades: Adapted for 5-6, 7-8, & 9-12
-SponsorLogo: |
-  assets/orig-client-media_NoEdit/sponsor_logo_41be63750b.png
-LearningEpaulette: |
-  assets/learning-plots/GP-Learning-Epaulette_.png
-LearningChart: |
-  assets/learning-plots/GP-Learning-Chart_.png
 EstLessonTime: 3 x 45 min
-LessonBanner: assets/banners_etc/banner.png
-MiscMD: |-
-  #### Lesson Hook:
-  A Polymath Puzzle challenges students to decode the text parts of a graph, drawing them into a fascinating lesson about storytelling through data visuals.
-Subtitle: Challenging long-held assumptions about birdsong through data visualization
+LearningEpaulette: assets/learning-plots/GP-Learning-Epaulette.png
+LearningChart: assets/learning-plots/GP-Learning-Chart.png
+SupportingMedia: ''
+DrivingQ: What is the best way to visualize data?
 EssentialQ: |-
   1. How do our assumptions (biases) affect our conclusions?
   2. What are the pros and cons of scatterplots vs. histograms?
@@ -33,6 +32,9 @@ LearningObj: |-
   - Create a histogram from raw data
   - Compare and contrast scatter plots and histograms
   - Persevere, even when a task seems too hard
+MiscMD: |-
+  #### Lesson Hook:
+  A Polymath Puzzle challenges students to decode the text parts of a graph, drawing them into a fascinating lesson about storytelling through data visuals.
 PublicationDate: '2021-11-29'
 Tags:
 - animal communication
@@ -146,11 +148,5 @@ Credits: |-
 
   #### Video production courtesy of:
   Stephanie Castillo (aka [Phuture Doctors](https://phuturedoctors.com/))
-ScriptsToRun: []
-ReadyToCompile:
-- Front Matter
-- Standards Alignment
-- Teaching Materials
-- Procedure
-- Acknowledgments
-- Versions
+ScriptsToRun: ''
+ReadyToCompile: Front Matter

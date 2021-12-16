@@ -1,16 +1,19 @@
 {
+  "TemplateVer": "0.1.9",
+  "galacticPubsVer": "0.5.6",
+  "FirstPublicationDate": "2021-12-16 16:03:12",
+  "LastUpdated": "2021-12-16 16:03:12",
   "ShortTitle": "femalesSing",
   "PublicationStatus": "Live",
-  "TemplateVer": "0.1.4",
-  "LastUpdated": "2021-12-01 21:45:24",
+  "ReleaseDate": "2021-12-16",
   "Title": "Females singing to be heard",
   "Subtitle": "Challenging long-held assumptions about birdsong through data visualization",
   "SponsoredBy": "The [Animal Behaviour Society](https://www.animalbehaviorsociety.org/web/index.php), an international non-profit scientific society that encourages and promotes the professional study of animal behavior.",
   "SponsorImage": {
-    "url": "sponsor_logo_41be63750b.png"
+    "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/sponsor_logo_41be63750b.png"
   },
   "CoverImage": {
-    "url": "banner.png"
+    "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/banner.png"
   },
   "Section": {
     "overview": {
@@ -32,9 +35,9 @@
         "grit"
       ],
       "SteamEpaulette": {
-        "url": "GP-Learning-Epaulette_.png"
-      },
-      "Description": "This lesson teaches students about data visualization (how to read and interpret scatter plots, dot plots, and histograms), and connects to a broader theme of how our assumptions affect our conclusions. Students learn how scientists and birders alike have assumed for decades that most female birds don't sing. As students explore real data from a recent study, they will learn how this assumption could be reinforced by the fact that females sing much less than males, and further, how this biased oversight has limited our understanding of bird research from its very beginnings. [See Scientific Background](https://www.galacticpolymath.com/lessons/1/#background) for details.\n\nThe lesson will take 3 class periods for most learners. Students dive in with a data literacy puzzle, which we call a “Polymath Puzzle.” Students are given a figure from a current scientific study on barn swallows (a common bird across the world), but with text elements coded with an alphabetic shift (e.g. each letter is shifted: A to B, B to C, and so on). They have to work in teams (or individually) to decipher the messages, and then try to understand the figure. This is a high-level data literacy task that piques students’ natural love of puzzle-solving, while working on GRIT/grappling and the [21st Century Skills (4 Cs)](https://www.aeseducation.com/blog/four-cs-21st-century-skills). Videos guide students through each stage of the Polymath Puzzle. In Parts 2 and 3, students create and interpret histograms from the same data, allowing for a deeper understanding of the pros and cons of scatter plots and histograms for visualizing data patterns. The culminating task is for students to synthesize the conclusions from the two types of graph, along with additional background information to hypothesize a reason for why female song has been missed until 2020 in this widely studied species."
+        "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/GP-Learning-Epaulette.png",
+        "Description": "This lesson teaches students about data visualization (how to read and interpret scatter plots, dot plots, and histograms), and connects to a broader theme of how our assumptions affect our conclusions. Students learn how scientists and birders alike have assumed for decades that most female birds don't sing. As students explore real data from a recent study, they will learn how this assumption could be reinforced by the fact that females sing much less than males, and further, how this biased oversight has limited our understanding of bird research from its very beginnings. [See Scientific Background](https://www.galacticpolymath.com/lessons/1/#background) for details.\n\nThe lesson will take 3 class periods for most learners. Students dive in with a data literacy puzzle, which we call a “Polymath Puzzle.” Students are given a figure from a current scientific study on barn swallows (a common bird across the world), but with text elements coded with an alphabetic shift (e.g. each letter is shifted: A to B, B to C, and so on). They have to work in teams (or individually) to decipher the messages, and then try to understand the figure. This is a high-level data literacy task that piques students’ natural love of puzzle-solving, while working on GRIT/grappling and the [21st Century Skills (4 Cs)](https://www.aeseducation.com/blog/four-cs-21st-century-skills). Videos guide students through each stage of the Polymath Puzzle. In Parts 2 and 3, students create and interpret histograms from the same data, allowing for a deeper understanding of the pros and cons of scatter plots and histograms for visualizing data patterns. The culminating task is for students to synthesize the conclusions from the two types of graph, along with additional background information to hypothesize a reason for why female song has been missed until 2020 in this widely studied species."
+      }
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -51,8 +54,8 @@
           "keywords": "histograms, scatter plots, data literacy, interdisciplinary lessons, STEM, STEAM",
           "mainLink": "https://www.youtube.com/embed/HSBO60ZNeCo",
           "vimeoLink": "https://vimeo.com/540345409",
-          "filename": "NA",
-          "otherLink": "NA"
+          "filename": null,
+          "otherLink": null
         },
         {
           "order": 2,
@@ -64,9 +67,9 @@
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": "STEAM education,STEAM lessons,STEM education,bird song,birdsong,cipher,data literacy,histogram,interdisciplinary lesson,scatter plots",
           "mainLink": "https://www.youtube.com/embed/M1u041BvjtI",
-          "vimeoLink": {},
-          "filename": "NA",
-          "otherLink": "NA"
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
         },
         {
           "order": 3,
@@ -78,9 +81,9 @@
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": "STEAM education,STEAM lessons,STEM education,bird song,birdsong,cipher,data literacy,histogram,interdisciplinary lesson,scatter plots",
           "mainLink": "https://www.youtube.com/embed/of4tjz4fBl4",
-          "vimeoLink": {},
-          "filename": "NA",
-          "otherLink": "NA"
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
         },
         {
           "order": 4,
@@ -92,9 +95,9 @@
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": "STEAM lessons,STEM education,STEAM education,interdisciplinary lesson,data literacy,scatter plots,cipher,bird song,birdsong,histogram",
           "mainLink": "https://www.youtube.com/embed/91gnGO5DASI",
-          "vimeoLink": {},
-          "filename": "NA",
-          "otherLink": "NA"
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
         },
         {
           "order": 5,
@@ -106,9 +109,9 @@
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": "STEAM lessons,STEM education,STEAM education,interdisciplinary lesson,data literacy,scatter plots,cipher,Nearly Impossible Task,NIT,bird song,birdsong,histogram",
           "mainLink": "https://www.youtube.com/embed/e0PZJr-kL2g",
-          "vimeoLink": {},
-          "filename": "NA",
-          "otherLink": "NA"
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
         },
         {
           "order": 6,
@@ -120,9 +123,9 @@
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": "K-12,STEM,STEMed,data literacy,data visualizations,graphs",
           "mainLink": "https://www.youtube.com/embed/cA89FYd6biU",
-          "vimeoLink": {},
-          "filename": "NA",
-          "otherLink": "NA"
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
         },
         {
           "order": 7,
@@ -134,9 +137,9 @@
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": "sample size,behavior,barn swallow,bird song,birds,song",
           "mainLink": "https://www.youtube.com/embed/ZsZcwhhJLFQ",
-          "vimeoLink": {},
-          "filename": "NA",
-          "otherLink": "NA"
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
         },
         {
           "order": 8,
@@ -148,9 +151,9 @@
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": "STEAM,science,birds,barn swallows,birdsong,female song,middle school math lessons",
           "mainLink": "https://www.youtube.com/embed/eEpMtpyie74",
-          "vimeoLink": {},
-          "filename": "NA",
-          "otherLink": "NA"
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
         }
       ],
       "QuickPrep": "1. Watch Video(s) for Part 1\n2. Look over [Background](#background)\n3. Look over [Procedure](#procedure)\n4. [Teach it!](#teaching_materials)\n5. Repeat for each part and [tell us what you think.](#feedback)\n",
@@ -196,19 +199,19 @@
               "itemsGroup": [
                 {
                   "item": "Teacher's computer",
-                  "itemExplanation": {}
+                  "itemExplanation": null
                 },
                 {
                   "item": "Internet Connection",
-                  "itemExplanation": {}
+                  "itemExplanation": null
                 },
                 {
                   "item": "Projector",
-                  "itemExplanation": {}
+                  "itemExplanation": null
                 },
                 {
                   "item": "Speakers",
-                  "itemExplanation": {}
+                  "itemExplanation": null
                 }
               ]
             }
@@ -257,7 +260,7 @@
                     },
                     {
                       "itemTitle": "Student Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -271,7 +274,7 @@
                     },
                     {
                       "itemTitle": "Teacher Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -306,7 +309,7 @@
                     },
                     {
                       "itemTitle": "Student Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -320,7 +323,7 @@
                     },
                     {
                       "itemTitle": "Teacher Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -355,7 +358,7 @@
                     },
                     {
                       "itemTitle": "Student Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -369,7 +372,7 @@
                     },
                     {
                       "itemTitle": "Teacher Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -383,7 +386,7 @@
                     },
                     {
                       "itemTitle": "Table 1 reference for Part 3",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -428,7 +431,7 @@
                     },
                     {
                       "itemTitle": "Student Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -442,7 +445,7 @@
                     },
                     {
                       "itemTitle": "Teacher Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -477,7 +480,7 @@
                     },
                     {
                       "itemTitle": "Student Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -491,7 +494,7 @@
                     },
                     {
                       "itemTitle": "Teacher Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -526,7 +529,7 @@
                     },
                     {
                       "itemTitle": "Student Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -540,7 +543,7 @@
                     },
                     {
                       "itemTitle": "Teacher Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -554,7 +557,7 @@
                     },
                     {
                       "itemTitle": "Table 1 reference for Part 3",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -599,7 +602,7 @@
                     },
                     {
                       "itemTitle": "Student Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -613,7 +616,7 @@
                     },
                     {
                       "itemTitle": "Teacher Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -648,7 +651,7 @@
                     },
                     {
                       "itemTitle": "Student Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -662,7 +665,7 @@
                     },
                     {
                       "itemTitle": "Teacher Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -697,7 +700,7 @@
                     },
                     {
                       "itemTitle": "Student Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -711,7 +714,7 @@
                     },
                     {
                       "itemTitle": "Teacher Worksheet",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -725,7 +728,7 @@
                     },
                     {
                       "itemTitle": "Table 1 reference for Part 3",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": [
                         {
                           "linkText": "PDF",
@@ -775,11 +778,11 @@
               "itemsGroup": [
                 {
                   "item": "Internet connection",
-                  "itemExplanation": {}
+                  "itemExplanation": null
                 },
                 {
                   "item": "Student laptops",
-                  "itemExplanation": {}
+                  "itemExplanation": null
                 },
                 {
                   "item": "Scratch paper & pencil",
@@ -787,7 +790,7 @@
                 },
                 {
                   "item": "Speakers/headphones",
-                  "itemExplanation": {}
+                  "itemExplanation": null
                 }
               ]
             }
@@ -886,7 +889,7 @@
                     },
                     {
                       "itemTitle": "(Optional) Student Handout for Filling in Table 2",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": {
                         "linkText": "Download as .docx",
                         "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
@@ -894,7 +897,7 @@
                     },
                     {
                       "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": {
                         "linkText": "Download as .docx",
                         "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
@@ -983,7 +986,7 @@
                     },
                     {
                       "itemTitle": "(Optional) Student Handout for Filling in Table 2",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": {
                         "linkText": "Download as .docx",
                         "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
@@ -991,7 +994,7 @@
                     },
                     {
                       "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": {
                         "linkText": "Download as .docx",
                         "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
@@ -1080,7 +1083,7 @@
                     },
                     {
                       "itemTitle": "(Optional) Student Handout for Filling in Table 2",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": {
                         "linkText": "Download as .docx",
                         "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g9-12_gmxqpf.docx"
@@ -1088,7 +1091,7 @@
                     },
                     {
                       "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
-                      "itemCat": "NA",
+                      "itemCat": null,
                       "links": {
                         "linkText": "Download as .docx",
                         "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
@@ -1126,12 +1129,15 @@
                     "StepQuickDescription": "Students learn how to crack a type of secret message called a cipher. They will need this background to solve the *Polymath Puzzle* engagement hook. ",
                     "StepDetails": "By spending some time introducing students to ciphers, we are laying the groundwork for cipher-based puzzle hooks for each part of this lesson. The Polymath Puzzle in Part 1 draws students into decoding the labels on a graph in order to engage them in trying to understand the next level of meaning in the graph, creating a rich data literacy learning experience. In the first step, students learn that ciphers are used to make a secret message. We use a simple cipher called an alphabetic shift, where each letter of each word in a message has been shifted a certain number of places (e.g. +1 would mean A becomes B, B becomes C, and so on).\nThis section works on assimilating new vocabulary, as well as encouraging students to have a growth mindset. They need to quickly orient themselves to the \"system\" of ciphers and how they work. Parts 2 and 3 of the lesson will build on this engagement hook.",
                     "Vocab": "- **algorithm :** a set of steps, like a mathematical recipe\n- **alphabetic shift:** type of cipher where each letter has been shifted a certain number of places (dictated by the algorithm)\n- **cipher:** a secret message that uses an algorithm to make a message seem like nonsense\n- **decipher:** 1) to convert a secret message into readable text; 2) to succeed in understanding something \n- **encipher:** convert readable text (plaintext) into a secret message\n- **plaintext:** readable text (not a cipher)",
+                    "VariantNotes": null,
                     "TeachingTips": "Ask students to read slides and predict what the next slide will be (e.g. the next letter in the alphabetic shift). Model a growth mindset, and that it's ok to not completely understand at first."
                   },
                   {
                     "Step": 2,
                     "StepTitle": "Cipher Practice",
                     "StepQuickDescription": "Students practice determining an algorithm given plaintext (normal text) or a cipher.",
+                    "StepDetails": null,
+                    "Vocab": null,
                     "VariantNotes": "In the remote version students provide responses digitally using Nearpod.*",
                     "TeachingTips": "All remote versions of GP lessons can be completed using a [free Nearpod account](https://nearpod.com/pricing)."
                   }
@@ -1146,6 +1152,8 @@
                     "Step": 3,
                     "StepTitle": "The Polymath Puzzle",
                     "StepQuickDescription": "Students use their new skills to decipher the coded axes of a scatter plot graph representing data from a real scientific study.",
+                    "StepDetails": null,
+                    "Vocab": null,
                     "VariantNotes": "Decipher algorithms for grade bands:\n- 5-6, 7-8: (-1 shift)\n- 9-12: (+3 shift)",
                     "TeachingTips": "Set a definite time limit (e.g. 5min) to solve and enter deciphered text, and move on. The videos will clear up any misunderstandings."
                   },
@@ -1153,7 +1161,10 @@
                     "Step": 4,
                     "StepTitle": "How to solve the cipher",
                     "StepQuickDescription": "Students watch [▶\"How to solve the Polymath Puzzle from the \"Females Sing\" lesson\"](https://www.youtube.com/watch?v=M1u041BvjtI&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=2) to scaffold student understanding.",
-                    "VariantNotes": "Students will either discuss their strategies (in-person) or choose which strategy they adopted (remote)."
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": "Students will either discuss their strategies (in-person) or choose which strategy they adopted (remote).",
+                    "TeachingTips": null
                   }
                 ]
               },
@@ -1167,13 +1178,18 @@
                     "StepTitle": "What Does it Mean?",
                     "StepQuickDescription": "Students watch [▶\"How to read the deciphered scatter plot\"](https://www.youtube.com/watch?v=of4tjz4fBl4&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=3) to scaffold understanding. Then they’ll discuss as a class.",
                     "StepDetails": "Students share all their observations and wonderings about the graph. They then come up with their own educated guesses (hypotheses) for what the graph's story is. (i.e. What species is being studied? What patterns are shown? What was being studied?)",
+                    "Vocab": null,
                     "VariantNotes": "For the remote version, classroom discussion/ brainstorming is done with a Nearpod Collaboration Board. [If doing student-paced lesson, this will need to be enabled.](https://nearpod.zendesk.com/hc/en-us/articles/360048806572-How-to-use-a-Collaborate-Board-in-a-Nearpod-lesson)",
                     "TeachingTips": "Encourage any student observations or guesses at the graph's meaning, no matter how basic. Start with, what kind of data are on the X and Y axes? Which sex has the most songs per day? Are there any \"weird\" points (outliers) that stand out from the rest?"
                   },
                   {
                     "Step": 6,
                     "StepTitle": "Mystery Reveal",
-                    "StepQuickDescription": "Students watch [▶\"Polymath Puzzle Reveal—Is the graph about birds, spiders, whales,...?\"](https://www.youtube.com/watch?v=91gnGO5DASI&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=4 ), which connects the puzzle to current research and data literacy. "
+                    "StepQuickDescription": "Students watch [▶\"Polymath Puzzle Reveal—Is the graph about birds, spiders, whales,...?\"](https://www.youtube.com/watch?v=91gnGO5DASI&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=4 ), which connects the puzzle to current research and data literacy. ",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   }
                 ]
               },
@@ -1187,19 +1203,27 @@
                     "StepTitle": "Pivot to Histograms",
                     "StepQuickDescription": "Students learn about how the study’s original authors were questioned on their use of scatter plots vs histograms. ",
                     "StepDetails": "\n",
-                    "Vocab": "- **data visualization:** a representation of numbers or other types of data in a way that makes it easier to see patterns. Ex: scatter plots, histograms, & other types of graph"
+                    "Vocab": "- **data visualization:** a representation of numbers or other types of data in a way that makes it easier to see patterns. Ex: scatter plots, histograms, & other types of graph",
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   },
                   {
                     "Step": 8,
                     "StepTitle": "Choice of Data Visuals",
                     "StepQuickDescription": "Students watch [▶\"Scatter plots or histograms? Why data visualization is important\"](https://www.youtube.com/watch?v=e0PZJr-kL2g&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=5), which connects scatter plots to histograms and pivots to Part 2 of this lesson. ",
-                    "StepDetails": "Students are briefly introduced to the concept of peer review & learn about how scientists (& everyone) can disagree about the best way to represent data. Students are put into the shoes of the study's authors and over the next two sessions will learn what a histogram is, make the histogram with the real data, and determine whether the study reviewer was right in suggesting that a histogram would be better than a scatter plot to show this data. **A key concept here is that understanding graphs is a type of literacy that gives us power.**"
+                    "StepDetails": "Students are briefly introduced to the concept of peer review & learn about how scientists (& everyone) can disagree about the best way to represent data. Students are put into the shoes of the study's authors and over the next two sessions will learn what a histogram is, make the histogram with the real data, and determine whether the study reviewer was right in suggesting that a histogram would be better than a scatter plot to show this data. **A key concept here is that understanding graphs is a type of literacy that gives us power.**",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   },
                   {
                     "Step": 9,
                     "StepTitle": "Reflection",
                     "StepQuickDescription": "Part 1 ends with a customizable reflection slide and review of covered vocabulary, and topics. ",
-                    "StepDetails": "Reflection Ideas:\n- What types of data have you seen represented as a scatter plot?\n- Why do you think female barn swallow song has been ignored until 2020? (This will be a repeated theme.)\n- 3-2-1: 3 things I learned today; 2 things I found especially interesting; 1 question I still have."
+                    "StepDetails": "Reflection Ideas:\n- What types of data have you seen represented as a scatter plot?\n- Why do you think female barn swallow song has been ignored until 2020? (This will be a repeated theme.)\n- 3-2-1: 3 things I learned today; 2 things I found especially interesting; 1 question I still have.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   }
                 ]
               }
@@ -1220,7 +1244,10 @@
                     "Step": 1,
                     "StepTitle": "Engagement Hook",
                     "StepQuickDescription": "Students begin by solving an alphabetic shift.",
-                    "StepDetails": "“Cherry Trees” is a reference to the histogram example...leave it for students to notice. "
+                    "StepDetails": "“Cherry Trees” is a reference to the histogram example...leave it for students to notice. ",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   }
                 ]
               },
@@ -1232,7 +1259,11 @@
                   {
                     "Step": 2,
                     "StepTitle": "Review",
-                    "StepQuickDescription": "Students rewatch [▶\"Scatter plots or histograms? Why data visualization is important\"](https://www.youtube.com/watch?v=e0PZJr-kL2g&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=5)"
+                    "StepQuickDescription": "Students rewatch [▶\"Scatter plots or histograms? Why data visualization is important\"](https://www.youtube.com/watch?v=e0PZJr-kL2g&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=5)",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   }
                 ]
               },
@@ -1245,20 +1276,28 @@
                     "Step": 3,
                     "StepTitle": "Concept: Range",
                     "StepQuickDescription": "Students learn new vocabulary. Then histogram is explained through a real world example of heights of cherry trees. ",
-                    "Vocab": "- **analyzing:** organizing and exploring data to unlock its meaning\n- **data visualization:** a representation of numbers or other types of data in a way that makes it easier to see patterns. Ex: scatter plots, histograms, & other types of graph\n- **range:** a set of two numbers: the least and the greatest number in a data set. Usually expressed as Small Number – Big Number"
+                    "StepDetails": null,
+                    "Vocab": "- **analyzing:** organizing and exploring data to unlock its meaning\n- **data visualization:** a representation of numbers or other types of data in a way that makes it easier to see patterns. Ex: scatter plots, histograms, & other types of graph\n- **range:** a set of two numbers: the least and the greatest number in a data set. Usually expressed as Small Number – Big Number",
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   },
                   {
                     "Step": 4,
                     "StepTitle": "Concept: Dot Plot",
                     "StepQuickDescription": "Students follow along as the presentation shows how the data is used to create a Dot Plot. Check-in formative assessments of understanding are built in.",
-                    "Vocab": "- **dot plot:** a graph with one point for each data observation\n- **binned dot plot:** a dot plot where observations have been binned into ranges\n- **histogram:** a type of bar graph showing the distribution of a set of measurements for 1 variable. A common pattern (called a \"normal distribution\") is bell-shaped, with most observations having values close to the average, with about equal, increasingly rare measurements that are very high or very low. Human height is a good example of a normal distribution, with many \"average/medium\" height individuals, and very few individuals being significantly shorter or taller than all the rest.\n- **scatter plot:** a graph showing the relationship between two continuous variables. Each data point represents the measurement for variable X and variable Y for a particular individual."
+                    "StepDetails": null,
+                    "Vocab": "- **dot plot:** a graph with one point for each data observation\n- **binned dot plot:** a dot plot where observations have been binned into ranges\n- **histogram:** a type of bar graph showing the distribution of a set of measurements for 1 variable. A common pattern (called a \"normal distribution\") is bell-shaped, with most observations having values close to the average, with about equal, increasingly rare measurements that are very high or very low. Human height is a good example of a normal distribution, with many \"average/medium\" height individuals, and very few individuals being significantly shorter or taller than all the rest.\n- **scatter plot:** a graph showing the relationship between two continuous variables. Each data point represents the measurement for variable X and variable Y for a particular individual.",
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   },
                   {
                     "Step": 5,
                     "StepTitle": "Concept: Binning",
                     "StepQuickDescription": "Students watch [▶\"Connections between dot plots and histograms (with sound)\"](https://www.youtube.com/watch?v=cA89FYd6biU&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=6) and then follow along as the presentation shows how to bin the cherry tree data.",
                     "StepDetails": "This video has some silly sound effects which will hopefully increase engagement and help students remember the connections between dot plots and histograms.",
-                    "Vocab": "- **binning:** combining groups of observations into ranges. The bins could be ranges (like 0-5, 6-10, etc), or named categories, like when we classify people into “short,” “average,” and “tall” height categories."
+                    "Vocab": "- **binning:** combining groups of observations into ranges. The bins could be ranges (like 0-5, 6-10, etc), or named categories, like when we classify people into “short,” “average,” and “tall” height categories.",
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   }
                 ]
               },
@@ -1270,7 +1309,11 @@
                   {
                     "Step": 6,
                     "StepTitle": "Analyzing the Data",
-                    "StepQuickDescription": "While showing the completed histogram, presentation asks two questions prompting analysis and critical review of the graph.\n"
+                    "StepQuickDescription": "While showing the completed histogram, presentation asks two questions prompting analysis and critical review of the graph.\n",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   }
                 ]
               },
@@ -1282,13 +1325,19 @@
                   {
                     "Step": 7,
                     "StepTitle": "Review",
-                    "StepQuickDescription": "A quick review of the steps just taken (find range, create dot plot, bin data, draw bars to create histogram) to prep students for Part 3. "
+                    "StepQuickDescription": "A quick review of the steps just taken (find range, create dot plot, bin data, draw bars to create histogram) to prep students for Part 3. ",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   },
                   {
                     "Step": 8,
                     "StepTitle": "Check-In",
                     "StepQuickDescription": "Students are asked to match graphs to their names.  ",
                     "StepDetails": "The end of Part 2 ends with a customizable reflection slide and review of covered vocabulary, and topics. ",
+                    "Vocab": null,
+                    "VariantNotes": null,
                     "TeachingTips": "Part 3 is a bit longer, so if you have extra time, you may want to preview part of what's coming up tomorrow."
                   }
                 ]
@@ -1310,12 +1359,19 @@
                     "Step": 1,
                     "StepTitle": "Engagement Hook",
                     "StepQuickDescription": "Students warm up with a cipher. They need to shift back 3 to decipher “FEMALES SING,” referring to the overlooked fact that females in many bird species sing, just less frequently than males.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
                     "TeachingTips": "Make sure to only spend a few minutes on the warm-up. This is a long lesson."
                   },
                   {
                     "Step": 2,
                     "StepTitle": "Review",
-                    "StepQuickDescription": "Students get reoriented to the driving question: Is a scatter plot the right way to show the data? The scientist peer reviewer had suggested that a histogram would be better. Students will make a histogram and decide if they agree."
+                    "StepQuickDescription": "Students get reoriented to the driving question: Is a scatter plot the right way to show the data? The scientist peer reviewer had suggested that a histogram would be better. Students will make a histogram and decide if they agree.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   }
                 ]
               },
@@ -1328,17 +1384,28 @@
                     "Step": 3,
                     "StepTitle": "Understanding Table 1",
                     "StepQuickDescription": "Students are guided through understanding what the data are and how they are categorized in Table 1. This is the raw data, representing the number of songs recorded for each bird, along with their sex & ID code.",
-                    "Vocab": "- **binned data:** summary data where measurements have been combined into bins (ranges)\n- **raw data:** original, unmodified measurements"
+                    "StepDetails": null,
+                    "Vocab": "- **binned data:** summary data where measurements have been combined into bins (ranges)\n- **raw data:** original, unmodified measurements",
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   },
                   {
                     "Step": 4,
                     "StepTitle": "Connecting the Data to Reality",
-                    "StepQuickDescription": "The [▶\"Getting to know your data: Counting barn swallow songs\"](https://www.youtube.com/watch?v=ZsZcwhhJLFQ&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=7) video shows what barn swallow song sounds like and how songs were counted, to deepen connection to the data. (It’s not said, but this is male song. Female song is not shown in this lesson. See the bonus video for examples)."
+                    "StepQuickDescription": "The [▶\"Getting to know your data: Counting barn swallow songs\"](https://www.youtube.com/watch?v=ZsZcwhhJLFQ&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=7) video shows what barn swallow song sounds like and how songs were counted, to deepen connection to the data. (It’s not said, but this is male song. Female song is not shown in this lesson. See the bonus video for examples).",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   },
                   {
                     "Step": 5,
                     "StepTitle": "Check-In",
-                    "StepQuickDescription": "Students are reminded of how data points are plotted on a dot plot. To check in they’re asked to draw the missing point (remote) or say how many songs the missing bird sang (in-person)."
+                    "StepQuickDescription": "Students are reminded of how data points are plotted on a dot plot. To check in they’re asked to draw the missing point (remote) or say how many songs the missing bird sang (in-person).",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   }
                 ]
               },
@@ -1350,18 +1417,29 @@
                   {
                     "Step": 6,
                     "StepTitle": "Synthesis",
-                    "StepQuickDescription": "Presentation reviews the cherry tree height data from Part 2 to show how data organization affects the type of graph you can make. We want to bin the data in order to make a histogram to answer our driving question: Is a scatter plot or histogram better to visualize our song data?"
+                    "StepQuickDescription": "Presentation reviews the cherry tree height data from Part 2 to show how data organization affects the type of graph you can make. We want to bin the data in order to make a histogram to answer our driving question: Is a scatter plot or histogram better to visualize our song data?",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   },
                   {
                     "Step": 7,
                     "StepTitle": "Binning Data",
-                    "StepQuickDescription": "Students are walked through what a “bin” is (a range of data points that get combined), and how this looks in table and graph form."
+                    "StepQuickDescription": "Students are walked through what a “bin” is (a range of data points that get combined), and how this looks in table and graph form.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   },
                   {
                     "Step": 8,
                     "StepTitle": "Worked Example",
                     "StepQuickDescription": "Students are walked through how to count up the raw data in Table 1 and bin them in Table 2.",
-                    "VariantNotes": "For G5-8 versions, male data is binned as an example. In G9-12, students have to bin both sexes, which are also coded as “one” and “two” in order to require a deeper understanding as the older students figure out which is male and female by comparing the two graphs."
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": "For G5-8 versions, male data is binned as an example. In G9-12, students have to bin both sexes, which are also coded as “one” and “two” in order to require a deeper understanding as the older students figure out which is male and female by comparing the two graphs.",
+                    "TeachingTips": null
                   }
                 ]
               },
@@ -1375,6 +1453,8 @@
                     "StepTitle": "Students Bin Data",
                     "StepQuickDescription": "Students fill out Table 2 by binning the raw data in Table 1. (All they have to do is count up the number of individual birds who sang a number of songs in a given range).",
                     "StepDetails": "Students have the option of copying it down on scratch paper or downloading it as a word document (linked in the presentation). If using in-person version, the worksheet is provided.",
+                    "Vocab": null,
+                    "VariantNotes": null,
                     "TeachingTips": "It's important to set a hard time limit on this step, otherwise, it may eat up class time. You may consider doing the whole table as a class together, depending on your class's grade or motivation level."
                   }
                 ]
@@ -1388,6 +1468,8 @@
                     "Step": 10,
                     "StepTitle": "Students Draw Histogram",
                     "StepQuickDescription": "Students use their binned data to create the histogram. G5-8 students only need to make the female histogram. G9-12 make both (except for 2 example bins which are done as an example). ",
+                    "StepDetails": null,
+                    "Vocab": null,
                     "VariantNotes": "Students will draw the histogram digitally or on their worksheet, based on remote or in-person teaching.",
                     "TeachingTips": "Again, make sure to provide a clear time limit on this step in order to finish."
                   }
@@ -1401,18 +1483,28 @@
                   {
                     "Step": 11,
                     "StepTitle": "Connecting the Dots",
-                    "StepQuickDescription": "Students are asked to solve one of two puzzles, depending on their grade level. Both tasks assess how well students understand how the same data is represented in the 2 graphs."
+                    "StepQuickDescription": "Students are asked to solve one of two puzzles, depending on their grade level. Both tasks assess how well students understand how the same data is represented in the 2 graphs.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   },
                   {
                     "Step": 12,
                     "StepTitle": "Reflection",
                     "StepQuickDescription": "Students are asked a set of reflection questions and should conclude that the scatter plot is a better visualization for this data set because: with the histogram, we lose out on the important detail that females only sing early in the spring.",
-                    "VariantNotes": "Task: (G5-8) Draw the legend on the scatterplot from comparing to the male and female histograms or (G9-12) figure out the true sex of the coded “one” (female) and “two” (male) histograms from looking at the scatterplot with labeled sexes."
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": "Task: (G5-8) Draw the legend on the scatterplot from comparing to the male and female histograms or (G9-12) figure out the true sex of the coded “one” (female) and “two” (male) histograms from looking at the scatterplot with labeled sexes.",
+                    "TeachingTips": null
                   },
                   {
                     "Step": 13,
                     "StepTitle": "Discussion & Synthesis",
                     "StepQuickDescription": "Part 3 has a customizable discussion. You may copy and edit slides to make it your own if you prefer.",
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
                     "TeachingTips": "Key Take-Homes to Drive Toward During Reflection\n- Female birds sing, and this has been neglected for decades, holding back scientific research into animal behavior\n- 1 reason for this is the assumption/bias that females don’t sing. This is self-fulfilling, as females often look similar to males, sing much less in total & only sing early in the breeding season.\n- This is a form of confirmation bias (though we don’t introduce that term), where we may latch onto evidence that confirms our preexisting assumptions. (And we should be wary of that).\n- The scatter plot was a better visualization for this data because it shows the timing of song and when scientists need to focus study of female song to address this gap in our knowledge.\n"
                   }
                 ]
@@ -1425,7 +1517,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "![studyThumbnail.png](https://res.cloudinary.com/galactic-polymath/image/upload/v1613666963/study_Thumbnail_138f1d8f98.png)\n[Link to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\n### Scientific Background\n\nThis lesson is based on a recent study that describes female song in barn swallows for the first time. Barn swallows are one of the most common birds in the world and have been the subject of more than 1000 studies, yet published birding field guides and scientific papers have all failed to describe female song or they describe it incorrectly as being the same as male song (females have their own song type). This is an important oversight, because research on male bird song has informed a lot of theory in biology about how populations evolve through mate choice and competition involving vocal communication, and how new species form. \n\nIgnoring the sounds females make may result from inherent biases. Since bird song became an area of scientific study in the 1800s, it was almost exclusively researched by white males in the Northern Hemisphere. Since women have become welcomed into all areas of science, and research institutions have focused more intent study in tropical regions of the world, studies have discovered that female song is the ancestral state (i.e. the ancestor of all living song birds had both singing males and females). Moreover, female song has not been entirely lost in most species. As in the barn swallow, natural selection has favored females that sing less often, and to have more concise songs that are often restricted to the pre-egg-laying part of the breeding season. This drop in female singing after egg-laying is thought to stem from trying not to draw predators to nests. Due to lack of study, the full function of song in competition among females, male mate choice, or other functions is not well understood in most species.\n\nFurther Reading: \n- [Why We Didn't Know That Female Birds Sing](https://www.scientificamerican.com/article/why-it-took-so-long-to-appreciate-female-birds-songs/): Two authors of the study this lesson is based on discuss its broader implications for society and K-12 education.\n- [Female birds sing. These biologists want you to listen.](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/03/14/female-birds-sing-these-biologists-want-you-to-listen/) (features Drs. Karan Odom and Lauryn Benedict who worked on the study this lesson is based on).\n    - If you're getting paywalled, try clearing your cache or opening the article in an incognito window.\n- [Female bird song ignored by science, researchers say](https://www.australiangeographic.com.au/topics/science-environment/2019/04/female-bird-song-ignored-by-science-researchers-say/) (features Dr. Karan Odom and Dr. Naomi Langmore, who was influential in shifting scientists' thinking about female song)\n- [Study reveals gender bias in bird song research and impact of women on science](https://phys.org/news/2020-08-reveals-gender-bias-bird-song.html) (features Dr. Karan Odom) \n### Lesson Connections to this Research This lesson allows students to explore the actual data from [the study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf) and to hear from the study’s lead author to deepen data literacy and understanding of the scientific method. Students explore one of the primary figures in the study, a scatter plot (graph) showing different patterns of male and female singing output over the breeding season. Importantly, males sang much more than females and for a longer time (May-Aug, rather than just May). Thus, because males sing more frequently, if we assume (as has been common for birders and scientists until recently) that only males sing, your assumptions are reinforced more easily, because you are less likely to see a female sing.\n\nDuring the peer review process, an anonymous scientist suggested that the scatter plot was not a good way to represent the data, instead suggesting that the authors should have displayed a histogram. In Parts 2 and 3 of the lesson, students aggregate (combine) the authentic study data in order to create a histogram. They must then interpret the data in both formats (deepening their understanding of how histograms and scatter plots relate to each other), and conclude which is a better way to demonstrate the study’s findings, explaining why.\n\nFor further reflection, students are then asked to synthesize what they have learned, along with new information presented to them. Why has female song been missed? Partially because of a pre-existing assumption that females don't sing, along with less common singing behavior in females. Why do females sing less? Because natural selection favors females who sing less. Females must sit on eggs for around 2 weeks, leaving them open to predation. If they were to sing as loudly and provocatively as males, they would attract predators which would eat them or their eggs, passing on no genes. Thus, natural selection has likely caused female song to be lost, simplified, or to be produced for short time periods during establishment of the breeding season in many species around the world.",
+      "Content": "![studyThumbnail.png](https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/study-paper.png)\n[Link to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\n### Scientific Background\n\nThis lesson is based on a recent study that describes female song in barn swallows for the first time. Barn swallows are one of the most common birds in the world and have been the subject of more than 1000 studies, yet published birding field guides and scientific papers have all failed to describe female song or they describe it incorrectly as being the same as male song (females have their own song type). This is an important oversight, because research on male bird song has informed a lot of theory in biology about how populations evolve through mate choice and competition involving vocal communication, and how new species form. \n\nIgnoring the sounds females make may result from inherent biases. Since bird song became an area of scientific study in the 1800s, it was almost exclusively researched by white males in the Northern Hemisphere. Since women have become welcomed into all areas of science, and research institutions have focused more intent study in tropical regions of the world, studies have discovered that female song is the ancestral state (i.e. the ancestor of all living song birds had both singing males and females). Moreover, female song has not been entirely lost in most species. As in the barn swallow, natural selection has favored females that sing less often, and to have more concise songs that are often restricted to the pre-egg-laying part of the breeding season. This drop in female singing after egg-laying is thought to stem from trying not to draw predators to nests. Due to lack of study, the full function of song in competition among females, male mate choice, or other functions is not well understood in most species.\n\nFurther Reading: \n- [Why We Didn't Know That Female Birds Sing](https://www.scientificamerican.com/article/why-it-took-so-long-to-appreciate-female-birds-songs/): Two authors of the study this lesson is based on discuss its broader implications for society and K-12 education.\n- [Female birds sing. These biologists want you to listen.](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/03/14/female-birds-sing-these-biologists-want-you-to-listen/) (features Drs. Karan Odom and Lauryn Benedict who worked on the study this lesson is based on).\n    - If you're getting paywalled, try clearing your cache or opening the article in an incognito window.\n- [Female bird song ignored by science, researchers say](https://www.australiangeographic.com.au/topics/science-environment/2019/04/female-bird-song-ignored-by-science-researchers-say/) (features Dr. Karan Odom and Dr. Naomi Langmore, who was influential in shifting scientists' thinking about female song)\n- [Study reveals gender bias in bird song research and impact of women on science](https://phys.org/news/2020-08-reveals-gender-bias-bird-song.html) (features Dr. Karan Odom) \n### Lesson Connections to this Research This lesson allows students to explore the actual data from [the study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf) and to hear from the study’s lead author to deepen data literacy and understanding of the scientific method. Students explore one of the primary figures in the study, a scatter plot (graph) showing different patterns of male and female singing output over the breeding season. Importantly, males sang much more than females and for a longer time (May-Aug, rather than just May). Thus, because males sing more frequently, if we assume (as has been common for birders and scientists until recently) that only males sing, your assumptions are reinforced more easily, because you are less likely to see a female sing.\n\nDuring the peer review process, an anonymous scientist suggested that the scatter plot was not a good way to represent the data, instead suggesting that the authors should have displayed a histogram. In Parts 2 and 3 of the lesson, students aggregate (combine) the authentic study data in order to create a histogram. They must then interpret the data in both formats (deepening their understanding of how histograms and scatter plots relate to each other), and conclude which is a better way to demonstrate the study’s findings, explaining why.\n\nFor further reflection, students are then asked to synthesize what they have learned, along with new information presented to them. Why has female song been missed? Partially because of a pre-existing assumption that females don't sing, along with less common singing behavior in females. Why do females sing less? Because natural selection favors females who sing less. Females must sit on eggs for around 2 weeks, leaving them open to predation. If they were to sing as loudly and provocatively as males, they would attract predators which would eat them or their eggs, passing on no genes. Thus, natural selection has likely caused female song to be lost, simplified, or to be produced for short time periods during establishment of the breeding season in many species around the world.",
       "InitiallyExpanded": true
     },
     "learning-chart": [
@@ -1437,9 +1529,9 @@
         "__component": "lesson.steam-badge",
         "Title": "About the GP Learning Chart",
         "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Math, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 25 standards across US grade band(s): 5-6, 7-8, 9-12.",
-        "Footnote": "**Notes on Standards**\n\n*Standards are broken down into “Target” and “Connected” categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
+        "Footnote": "**Notes on Standards**\n\n*Standards are broken down into ***Target*** and ***Connected*** categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
         "Badge": {
-          "url": "GP-Learning-Chart_.png"
+          "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/GP-Learning-Chart.png"
         }
       }
     ],
@@ -1463,28 +1555,28 @@
                       "grades": "06",
                       "statements": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
                       "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
-                      "subcat": {}
+                      "subcat": null
                     },
                     {
                       "codes": "8.SP.A.1",
                       "grades": "08",
                       "statements": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
                       "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
-                      "subcat": {}
+                      "subcat": null
                     },
                     {
                       "codes": "HSS-ID.B.6",
                       "grades": "9,10,11,12",
                       "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
                       "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
-                      "subcat": {}
+                      "subcat": null
                     },
                     {
                       "codes": "HSS-ID.A.1",
                       "grades": "9,10,11,12",
                       "statements": "Represent data with plots on the real number line (dot plots, histograms, and box plots).",
                       "alignmentNotes": "- Students create a histogram using raw data from a published research study",
-                      "subcat": {}
+                      "subcat": null
                     }
                   ]
                 }
@@ -1509,7 +1601,7 @@
                       "grades": "06",
                       "statements": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
                       "alignmentNotes": "- Students create a histogram from raw data        ",
-                      "subcat": {}
+                      "subcat": null
                     },
                     {
                       "codes": [
@@ -1524,14 +1616,14 @@
                         "Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered."
                       ],
                       "alignmentNotes": "- Students compare the data in a scatter plot and a histogram, then determine the differences between the two graphs\n- NA",
-                      "subcat": {}
+                      "subcat": null
                     },
                     {
                       "codes": "HSS-CP.A.4",
                       "grades": "9,10,11,12",
                       "statements": "Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities. *For example, collect data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results.*",
                       "alignmentNotes": "- Students use real data to construct a frequency table, then use the data to create and compare the results in a scatter plot and histogram. \n  \n- Students evaluate the results of the two graphs, discuss how the two graphs provide similar and different information, and determine possible conditional probabilities with regard to female and male bird songs. ",
-                      "subcat": {}
+                      "subcat": null
                     }
                   ]
                 }
@@ -1556,28 +1648,28 @@
                       "grades": "06",
                       "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
                       "alignmentNotes": "- Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n- Students use and reference the new words throughout the lesson",
-                      "subcat": {}
+                      "subcat": null
                     },
                     {
                       "codes": "SL.6.2",
                       "grades": "06",
                       "statements": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
                       "alignmentNotes": "- Students are asked to interpret, discuss, and draw conclusions from a scatter plot that was created from raw data in a real research study",
-                      "subcat": {}
+                      "subcat": null
                     },
                     {
                       "codes": "CCRA.L.4",
                       "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
                       "statements": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
                       "alignmentNotes": "- Students define, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n- Students use a real research article to read, interpret, and identify new/unknown words.",
-                      "subcat": {}
+                      "subcat": null
                     },
                     {
                       "codes": "CCRA.SL.2",
                       "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
                       "statements": "Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.",
                       "alignmentNotes": "- Students evaluate quantitative information by comparing the same data in the form of a scatter plot and a histogram",
-                      "subcat": {}
+                      "subcat": null
                     }
                   ]
                 },
@@ -1590,21 +1682,21 @@
                       "grades": "6,7,8",
                       "statements": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to *grades 6-8 texts and topics*.",
                       "alignmentNotes": "- Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n- Students use and reference the new words throughout the lesson",
-                      "subcat": {}
+                      "subcat": null
                     },
                     {
                       "codes": "RST.6-8.7",
                       "grades": "6,7,8",
                       "statements": "Integrate quantitative or technical information expressed in words in a text with a version of that information expressed visually (e.g., in a flowchart, diagram, model, graph, or table).",
                       "alignmentNotes": "- Students practice making and reading a histogram from data provided in the lesson                                             - Students make a histogram from data they collect on their own",
-                      "subcat": {}
+                      "subcat": null
                     },
                     {
                       "codes": "CCRA.R.7",
                       "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
                       "statements": "Integrate and evaluate content presented in diverse media and formats, including visually and quantitatively, as well as in words.",
                       "alignmentNotes": "- Students are asked to interpret, discuss, and draw conclusions from a scatter plot that was created from raw data in a real research study",
-                      "subcat": {}
+                      "subcat": null
                     }
                   ]
                 }
@@ -1689,21 +1781,21 @@
                       "grades": "6,7,8",
                       "statements": "Construct explanations using reasoning, correct sequence, examples, and details with relevant information and data, while acknowledging the strengths and weaknesses of the explanations.",
                       "alignmentNotes": "- Students are introduced to Barn Swallow bird songs and historical scientific findings of female versus male bird calls; students interpret the data presented through scatter plots and histograms to construct explanations for the findings in a new research study",
-                      "subcat": {}
+                      "subcat": null
                     },
                     {
                       "codes": "D4.1.6-8",
                       "grades": "6,7,8",
                       "statements": "Construct arguments using claims and evidence from multiple sources, while acknowledging the strengths and limitations of the arguments.",
                       "alignmentNotes": "- Students are asked to compare the information provided in a scatter plot and a histogram   \n- Students discuss how the two graphs provide both similar and different information and how the differences may influence one's interpretation of the results",
-                      "subcat": {}
+                      "subcat": null
                     },
                     {
                       "codes": "D4.2.9-12",
                       "grades": "9,10,11,12",
                       "statements": "Construct explanations using sound reasoning, correct sequence (linear or non-linear), examples, and details with significant and pertinent information and data, while acknowledging the strengths and weaknesses of the explanation given its purpose (e.g., cause and effect, chronological, procedural, technical).",
                       "alignmentNotes": "- Students are introduced to a research study on female Barn Swallows and are asked to develop explanations for differences in male and female bird songs based on information in a scatter plot\n- Students compare the information provided in a scatter plot and a histogram\r\n- Students discuss the similarities and differences of the two graphs and construct explanations for the perceived differences in findings about female and male Barn Swallows",
-                      "subcat": {}
+                      "subcat": null
                     }
                   ]
                 }
@@ -1804,21 +1896,21 @@
               "date": "Apr 13, 2020",
               "summary": "Initial lesson build. ",
               "notes": "This is intended to be taught in a single day. Includes both classroom and a remote version with Nearpod.",
-              "acknowledgments": {}
+              "acknowledgments": null
             },
             {
               "version": "0.1.1",
               "date": "Aug 12, 2020",
               "summary": "Minor update to assets and styling.",
-              "notes": {},
-              "acknowledgments": {}
+              "notes": null,
+              "acknowledgments": null
             },
             {
               "version": "0.2.0",
               "date": "Sep 21, 2020",
               "summary": "Added videos ",
               "notes": "Produced by Phuture Doctors, scaffolding student understanding of content",
-              "acknowledgments": {}
+              "acknowledgments": null
             },
             {
               "version": "0.3.0",
@@ -1839,7 +1931,7 @@
               "date": "Mar 01, 2021",
               "summary": "Major improvements to style and flow",
               "notes": "Aesthetics streamlined, graphics, new video showing song counting and other changes.",
-              "acknowledgments": {}
+              "acknowledgments": null
             }
           ]
         },
@@ -1865,21 +1957,21 @@
               "date": "Apr 20, 2021",
               "summary": "Added classroom materials and remote fixes",
               "notes": "First version with a full complement of in-person classroom versions of presentations and handouts. Fixed problem with Part 3 warm-up. The descriptions of the solution were backwards (i.e. the cipher is -3 encipher, +3 decipher, not the opposite).",
-              "acknowledgments": {}
+              "acknowledgments": null
             },
             {
               "version": "1.1.1",
               "date": "Aug 16, 2021",
               "summary": "Updated Parts 1 & 3 Nearpod versions for all grades, which had links to old videos.",
               "notes": "Also updated links in acknowledgments",
-              "acknowledgments": {}
+              "acknowledgments": null
             },
             {
               "version": "1.1.2",
               "date": "Aug 20, 2021",
               "summary": "Updated lesson front matter",
               "notes": "-Changed driving question from \"Why has female barn swallow song been ignored or missed by scientists and bird watchers until 2020?\" to \"What is the best way to visualize data?\"",
-              "acknowledgments": {}
+              "acknowledgments": null
             }
           ]
         }

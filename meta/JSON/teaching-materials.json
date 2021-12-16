@@ -99,7 +99,7 @@
                 },
                 {
                   "itemTitle": "Student Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -113,7 +113,7 @@
                 },
                 {
                   "itemTitle": "Teacher Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -148,7 +148,7 @@
                 },
                 {
                   "itemTitle": "Student Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -162,7 +162,7 @@
                 },
                 {
                   "itemTitle": "Teacher Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -197,7 +197,7 @@
                 },
                 {
                   "itemTitle": "Student Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -211,7 +211,7 @@
                 },
                 {
                   "itemTitle": "Teacher Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -225,7 +225,7 @@
                 },
                 {
                   "itemTitle": "Table 1 reference for Part 3",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -270,7 +270,7 @@
                 },
                 {
                   "itemTitle": "Student Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -284,7 +284,7 @@
                 },
                 {
                   "itemTitle": "Teacher Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -319,7 +319,7 @@
                 },
                 {
                   "itemTitle": "Student Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -333,7 +333,7 @@
                 },
                 {
                   "itemTitle": "Teacher Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -368,7 +368,7 @@
                 },
                 {
                   "itemTitle": "Student Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -382,7 +382,7 @@
                 },
                 {
                   "itemTitle": "Teacher Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -396,7 +396,7 @@
                 },
                 {
                   "itemTitle": "Table 1 reference for Part 3",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -441,7 +441,7 @@
                 },
                 {
                   "itemTitle": "Student Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -455,7 +455,7 @@
                 },
                 {
                   "itemTitle": "Teacher Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -490,7 +490,7 @@
                 },
                 {
                   "itemTitle": "Student Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -504,7 +504,7 @@
                 },
                 {
                   "itemTitle": "Teacher Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -539,7 +539,7 @@
                 },
                 {
                   "itemTitle": "Student Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -553,7 +553,7 @@
                 },
                 {
                   "itemTitle": "Teacher Worksheet",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -567,7 +567,7 @@
                 },
                 {
                   "itemTitle": "Table 1 reference for Part 3",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
@@ -728,7 +728,7 @@
                 },
                 {
                   "itemTitle": "(Optional) Student Handout for Filling in Table 2",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": {
                     "linkText": "Download as .docx",
                     "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
@@ -736,7 +736,7 @@
                 },
                 {
                   "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": {
                     "linkText": "Download as .docx",
                     "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
@@ -825,7 +825,7 @@
                 },
                 {
                   "itemTitle": "(Optional) Student Handout for Filling in Table 2",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": {
                     "linkText": "Download as .docx",
                     "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
@@ -833,7 +833,7 @@
                 },
                 {
                   "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": {
                     "linkText": "Download as .docx",
                     "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
@@ -922,7 +922,7 @@
                 },
                 {
                   "itemTitle": "(Optional) Student Handout for Filling in Table 2",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": {
                     "linkText": "Download as .docx",
                     "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g9-12_gmxqpf.docx"
@@ -930,7 +930,7 @@
                 },
                 {
                   "itemTitle": "(Optional) Teacher Handout for Filling in Table 2",
-                  "itemCat": "NA",
+                  "itemCat": null,
                   "links": {
                     "linkText": "Download as .docx",
                     "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1620058263/lesson_misc_share/Females_Sing_P3_Table_2_TEACHER_pp52ak.docx"
