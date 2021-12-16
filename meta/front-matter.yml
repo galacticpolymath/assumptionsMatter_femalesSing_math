@@ -3,7 +3,7 @@ TemplateVer: 0.2.1
 galacticPubsVer: 0.5.7
 FirstPublicationDate: 2021-12-16 16:03:12
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json
-LastUpdated: 2021-12-16 17:34:28
+LastUpdated: 2021-12-16 17:48:06
 ShortTitle: femalesSing
 PublicationStatus: Live
 ReleaseDate: '2021-12-16'
@@ -75,8 +75,7 @@ Bonus: |-
   5. If the student then copies/types that web address into the address bar, it will result in:
   6. ![a cat gif](https://bit.ly/gphi5)
 Extensions: ''
-Background: "![studyThumbnail.png](https://res.cloudinary.com/galactic-polymath/image/upload/v1613666963/study_Thumbnail_138f1d8f98.png)\n[Link
-  to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\n###
+Background: "![studyThumbnail.png](study-paper.png)\n[Link to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\n###
   Scientific Background\n\nThis lesson is based on a recent study that describes female
   song in barn swallows for the first time. Barn swallows are one of the most common
   birds in the world and have been the subject of more than 1000 studies, yet published
