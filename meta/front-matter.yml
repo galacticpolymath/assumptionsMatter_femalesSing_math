@@ -3,7 +3,7 @@ TemplateVer: 0.2.1
 galacticPubsVer: 0.5.7
 FirstPublicationDate: 2021-12-16 16:03:12
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json
-LastUpdated: 2021-12-16 18:07:57
+LastUpdated: 2021-12-16 18:27:48
 ShortTitle: femalesSing
 PublicationStatus: Live
 ReleaseDate: '2021-12-16'
@@ -22,7 +22,9 @@ ForGrades: Adapted for 5-6, 7-8, & 9-12
 EstLessonTime: 3 x 45 min
 LearningEpaulette: assets/learning-plots/GP-Learning-Epaulette.png
 LearningChart: assets/learning-plots/GP-Learning-Chart.png
-SupportingMedia: ''
+SupportingMedia:
+- assets/supporting-media/male barn swallow sings on wire_3705.jpg
+- assets/supporting-media/study-paper.png
 DrivingQ: What is the best way to visualize data?
 EssentialQ: |-
   1. How do our assumptions (biases) affect our conclusions?
@@ -152,4 +154,4 @@ Credits: |-
 ScriptsToRun: ''
 ReadyToCompile:
 - Front Matter
-- Procedure
+- Versions
