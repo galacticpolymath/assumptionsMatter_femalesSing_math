@@ -3,7 +3,7 @@ TemplateVer: 0.2.1
 galacticPubsVer: 0.5.7
 FirstPublicationDate: 2021-12-16 16:03:12
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json
-LastUpdated: 2021-12-16 17:48:06
+LastUpdated: 2021-12-16 18:07:57
 ShortTitle: femalesSing
 PublicationStatus: Live
 ReleaseDate: '2021-12-16'
@@ -150,4 +150,6 @@ Credits: |-
   #### Video production courtesy of:
   Stephanie Castillo (aka [Phuture Doctors](https://phuturedoctors.com/))
 ScriptsToRun: ''
-ReadyToCompile: Front Matter
+ReadyToCompile:
+- Front Matter
+- Procedure
