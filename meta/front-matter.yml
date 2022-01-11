@@ -1,14 +1,16 @@
 id: '1'
-TemplateVer: 0.2.1
-galacticPubsVer: 0.5.7
+TemplateVer: 0.2.6
+galacticPubsVer: 0.6.1
 FirstPublicationDate: 2021-12-16 16:03:12
+LastUpdated: 2022-01-10 20:53:03
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json
-LastUpdated: 2021-12-16 18:27:48
 ShortTitle: femalesSing
 PublicationStatus: Live
+RebuildAllMaterials: no
 ReleaseDate: '2021-12-16'
 Title: Females singing to be heard
 Subtitle: Challenging long-held assumptions about birdsong through data visualization
+SponsorName: Animal Behaviour Society
 SponsoredBy: The [Animal Behaviour Society](https://www.animalbehaviorsociety.org/web/index.php),
   an international non-profit scientific society that encourages and promotes the
   professional study of animal behavior.
@@ -21,7 +23,14 @@ LessonEnvir:
 ForGrades: Adapted for 5-6, 7-8, & 9-12
 EstLessonTime: 3 x 45 min
 LearningEpaulette: assets/learning-plots/GP-Learning-Epaulette.png
+LearningEpaulette_vert: assets/learning-plots/GP-Learning-Epaulette_vert.png
+LearningEpaulette_params_defaults: yes
+LearningEpaulette_params_heightScalar: 0.45
+LearningEpaulette_params_randomSeed: 101
 LearningChart: assets/learning-plots/GP-Learning-Chart.png
+LearningChart_params_centralText: grades\n5-12
+LearningChart_params_caption: ''
+LearningChart_params_captionN: no
 SupportingMedia:
 - assets/supporting-media/male barn swallow sings on wire_3705.jpg
 - assets/supporting-media/study-paper.png
@@ -154,4 +163,8 @@ Credits: |-
 ScriptsToRun: ''
 ReadyToCompile:
 - Front Matter
+- Standards Alignment
+- Teaching Materials
+- Procedure
+- Acknowledgments
 - Versions

@@ -1,15 +1,17 @@
 {
   "id": "1",
-  "TemplateVer": "0.2.1",
-  "galacticPubsVer": "0.5.7",
+  "TemplateVer": "0.2.6",
+  "galacticPubsVer": "0.6.1",
   "FirstPublicationDate": "2021-12-16 16:03:12",
+  "LastUpdated": "2022-01-10 20:50:38",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json",
-  "LastUpdated": "2021-12-16 18:26:23",
   "ShortTitle": "femalesSing",
   "PublicationStatus": "Live",
+  "RebuildAllMaterials": false,
   "ReleaseDate": "2021-12-16",
   "Title": "Females singing to be heard",
   "Subtitle": "Challenging long-held assumptions about birdsong through data visualization",
+  "SponsorName": "Animal Behaviour Society",
   "SponsoredBy": "The [Animal Behaviour Society](https://www.animalbehaviorsociety.org/web/index.php), an international non-profit scientific society that encourages and promotes the professional study of animal behavior.",
   "SponsorImage": {
     "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/sponsor_logo_41be63750b.png"
