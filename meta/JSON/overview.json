@@ -4,7 +4,38 @@
   "ForGrades": "Adapted for 5-6, 7-8, & 9-12",
   "TargetSubject": "Math",
   "Text": "#### Driving Question(s):\nWhat is the best way to visualize data? What is the best way to visualize data?\n#### Essential Question(s):\n1. How do our assumptions (biases) affect our conclusions?\n2. What are the pros and cons of scatterplots vs. histograms? 1. How do our assumptions (biases) affect our conclusions?\n2. What are the pros and cons of scatterplots vs. histograms?\n#### Learning Objective(s):\n- Solve a cipher (a type of secret message)\n- Learn and use new vocabulary\n- Interpret a scatter plot\n- Create a histogram from raw data\n- Compare and contrast scatter plots and histograms\n- Persevere, even when a task seems too hard - Solve a cipher (a type of secret message)\n- Learn and use new vocabulary\n- Interpret a scatter plot\n- Create a histogram from raw data\n- Compare and contrast scatter plots and histograms\n- Persevere, even when a task seems too hard\n#### Lesson Hook:\nA Polymath Puzzle challenges students to decode the text parts of a graph, drawing them into a fascinating lesson about storytelling through data visuals. #### Lesson Hook:\nA Polymath Puzzle challenges students to decode the text parts of a graph, drawing them into a fascinating lesson about storytelling through data visuals.",
-  "Tags": ["animal communication", "barn swallows", "birds", "data literacy", "dot plots", "histograms", "peer review", "scatter plots", "song", "grit"],
+  "Tags": [
+    {
+      "Value": "animal communication"
+    },
+    {
+      "Value": "barn swallows"
+    },
+    {
+      "Value": "birds"
+    },
+    {
+      "Value": "data literacy"
+    },
+    {
+      "Value": "dot plots"
+    },
+    {
+      "Value": "histograms"
+    },
+    {
+      "Value": "peer review"
+    },
+    {
+      "Value": "scatter plots"
+    },
+    {
+      "Value": "song"
+    },
+    {
+      "Value": "grit"
+    }
+  ],
   "SteamEpaulette": {
     "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/GP-Learning-Epaulette.png"
   },
