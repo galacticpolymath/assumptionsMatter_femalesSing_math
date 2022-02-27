@@ -2,13 +2,13 @@
   "id": "1",
   "ShortTitle": "femalesSing",
   "TemplateVer": "0.2.7",
-  "galacticPubsVer": "0.6.4",
+  "galacticPubsVer": "0.6.5",
   "FirstPublicationDate": "2021-12-16 16:03:12",
-  "LastUpdated": "2022-02-25 15:06:21",
+  "LastUpdated": "2022-02-27 17:16:16",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/lesson_femalesSing_math.git",
   "PublicationStatus": "Live",
-  "RebuildAllMaterials": true,
+  "RebuildAllMaterials": false,
   "ReleaseDate": "2021-12-16",
   "Title": "Females singing to be heard",
   "Subtitle": "Challenging long-held assumptions about birdsong through data visualization",
@@ -26,7 +26,7 @@
       "EstLessonTime": "3 x 45 min",
       "ForGrades": "Adapted for 5-6, 7-8, & 9-12",
       "TargetSubject": "Math",
-      "Text": "#### Driving Question(s):\nWhat is the best way to visualize data? What is the best way to visualize data?\n#### Essential Question(s):\n1. How do our assumptions (biases) affect our conclusions?\n2. What are the pros and cons of scatterplots vs. histograms? 1. How do our assumptions (biases) affect our conclusions?\n2. What are the pros and cons of scatterplots vs. histograms?\n#### Learning Objective(s):\n- Solve a cipher (a type of secret message)\n- Learn and use new vocabulary\n- Interpret a scatter plot\n- Create a histogram from raw data\n- Compare and contrast scatter plots and histograms\n- Persevere, even when a task seems too hard - Solve a cipher (a type of secret message)\n- Learn and use new vocabulary\n- Interpret a scatter plot\n- Create a histogram from raw data\n- Compare and contrast scatter plots and histograms\n- Persevere, even when a task seems too hard\n#### Lesson Hook:\nA Polymath Puzzle challenges students to decode the text parts of a graph, drawing them into a fascinating lesson about storytelling through data visuals. #### Lesson Hook:\nA Polymath Puzzle challenges students to decode the text parts of a graph, drawing them into a fascinating lesson about storytelling through data visuals.",
+      "Text": "#### Driving Question(s):\nWhat is the best way to visualize data?#### Essential Question(s):\n1. How do our assumptions (biases) affect our conclusions?\n2. What are the pros and cons of scatterplots vs. histograms?#### Learning Objective(s):\n- Solve a cipher (a type of secret message)\n- Learn and use new vocabulary\n- Interpret a scatter plot\n- Create a histogram from raw data\n- Compare and contrast scatter plots and histograms\n- Persevere, even when a task seems too hard#### Lesson Hook:\nA Polymath Puzzle challenges students to decode the text parts of a graph, drawing them into a fascinating lesson about storytelling through data visuals.",
       "Tags": [
         {
           "Value": "animal communication"
