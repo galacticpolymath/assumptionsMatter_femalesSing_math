@@ -1,9 +1,9 @@
 id: '1'
 ShortTitle: femalesSing
 TemplateVer: 0.2.7
-galacticPubsVer: 0.6.5
+galacticPubsVer: 0.6.6
 FirstPublicationDate: 2021-12-16 16:03:12
-LastUpdated: 2022-02-27 17:24:16
+LastUpdated: 2022-03-03 23:31:56
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/lesson_femalesSing_math.git
 PublicationStatus: Live
@@ -87,29 +87,28 @@ Bonus: |-
   5. If the student then copies/types that web address into the address bar, it will result in:
   6. ![a cat gif](https://bit.ly/gphi5)
 Extensions: ''
-Background: "![studyThumbnail.png](study-paper.png)\n[Link to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\n###
-  Scientific Background\n\nThis lesson is based on a recent study that describes female
-  song in barn swallows for the first time. Barn swallows are one of the most common
-  birds in the world and have been the subject of more than 1000 studies, yet published
-  birding field guides and scientific papers have all failed to describe female song
-  or they describe it incorrectly as being the same as male song (females have their
-  own song type). This is an important oversight, because research on male bird song
-  has informed a lot of theory in biology about how populations evolve through mate
-  choice and competition involving vocal communication, and how new species form.
-  \n\nIgnoring the sounds females make may result from inherent biases. Since bird
-  song became an area of scientific study in the 1800s, it was almost exclusively
-  researched by white males in the Northern Hemisphere. Since women have become welcomed
-  into all areas of science, and research institutions have focused more intent study
-  in tropical regions of the world, studies have discovered that female song is the
-  ancestral state (i.e. the ancestor of all living song birds had both singing males
-  and females). Moreover, female song has not been entirely lost in most species.
-  As in the barn swallow, natural selection has favored females that sing less often,
-  and to have more concise songs that are often restricted to the pre-egg-laying part
-  of the breeding season. This drop in female singing after egg-laying is thought
-  to stem from trying not to draw predators to nests. Due to lack of study, the full
-  function of song in competition among females, male mate choice, or other functions
-  is not well understood in most species.\n\nFurther Reading: \n- [Why We Didn't Know
-  That Female Birds Sing](https://www.scientificamerican.com/article/why-it-took-so-long-to-appreciate-female-birds-songs/):
+Background: "![studyThumbnail.png](study-paper.png)\n[Link to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\nThis
+  lesson is based on a recent study that describes female song in barn swallows for
+  the first time. Barn swallows are one of the most common birds in the world and
+  have been the subject of more than 1000 studies, yet published birding field guides
+  and scientific papers have all failed to describe female song or they describe it
+  incorrectly as being the same as male song (females have their own song type). This
+  is an important oversight, because research on male bird song has informed a lot
+  of theory in biology about how populations evolve through mate choice and competition
+  involving vocal communication, and how new species form. \n\nIgnoring the sounds
+  females make may result from inherent biases. Since bird song became an area of
+  scientific study in the 1800s, it was almost exclusively researched by white males
+  in the Northern Hemisphere. Since women have become welcomed into all areas of science,
+  and research institutions have focused more intent study in tropical regions of
+  the world, studies have discovered that female song is the ancestral state (i.e.
+  the ancestor of all living song birds had both singing males and females). Moreover,
+  female song has not been entirely lost in most species. As in the barn swallow,
+  natural selection has favored females that sing less often, and to have more concise
+  songs that are often restricted to the pre-egg-laying part of the breeding season.
+  This drop in female singing after egg-laying is thought to stem from trying not
+  to draw predators to nests. Due to lack of study, the full function of song in competition
+  among females, male mate choice, or other functions is not well understood in most
+  species.\n\nFurther Reading: \n- [Why We Didn't Know That Female Birds Sing](https://www.scientificamerican.com/article/why-it-took-so-long-to-appreciate-female-birds-songs/):
   Two authors of the study this lesson is based on discuss its broader implications
   for society and K-12 education.\n- [Female birds sing. These biologists want you
   to listen.](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/03/14/female-birds-sing-these-biologists-want-you-to-listen/)
