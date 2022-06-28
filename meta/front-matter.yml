@@ -1,9 +1,15 @@
 id: '1'
 ShortTitle: femalesSing
-TemplateVer: 0.2.7
-galacticPubsVer: 0.6.6
+Language: English
+Country: United States
+lang: en
+lng: eng
+locale: en-US
+TemplateVer: 0.3.3
+galacticPubsVer: 0.7.8
 FirstPublicationDate: 2021-12-16 16:03:12
-LastUpdated: 2022-03-03 23:31:56
+LastUpdated: 2022-06-28 16:32:56
+URL: https://galacticpolymath.com/lessons/1
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/lesson_femalesSing_math.git
 PublicationStatus: Live
@@ -22,6 +28,7 @@ LessonEnvir:
 - Classroom
 - Remote
 ForGrades: Adapted for 5-6, 7-8, & 9-12
+GradesOrYears: Grades
 EstLessonTime: 3 x 45 min
 LearningEpaulette: assets/learning-plots/GP-Learning-Epaulette.png
 LearningEpaulette_vert: assets/learning-plots/GP-Learning-Epaulette_vert.png
@@ -39,6 +46,11 @@ DrivingQ: What is the best way to visualize data?
 EssentialQ: |-
   1. How do our assumptions (biases) affect our conclusions?
   2. What are the pros and cons of scatterplots vs. histograms?
+Hooks: ''
+LearningSummary: ''
+MiscMD: |-
+  #### Lesson Hook:
+  A Polymath Puzzle challenges students to decode the text parts of a graph, drawing them into a fascinating lesson about storytelling through data visuals.
 LearningObj: |-
   - Solve a cipher (a type of secret message)
   - Learn and use new vocabulary
@@ -46,9 +58,6 @@ LearningObj: |-
   - Create a histogram from raw data
   - Compare and contrast scatter plots and histograms
   - Persevere, even when a task seems too hard
-MiscMD: |-
-  #### Lesson Hook:
-  A Polymath Puzzle challenges students to decode the text parts of a graph, drawing them into a fascinating lesson about storytelling through data visuals.
 PublicationDate: '2021-11-29'
 Tags:
 - animal communication

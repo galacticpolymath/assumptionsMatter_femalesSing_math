@@ -98,30 +98,30 @@
                   ]
                 },
                 {
+                  "itemTitle": "Table 1 reference for Part 3",
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1XMeydMI5WUk7bajhazvqFjQcS9yUwRSu2-9VVM4H13A/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1XMeydMI5WUk7bajhazvqFjQcS9yUwRSu2-9VVM4H13A/"
+                    }
+                  ]
+                },
+                {
                   "itemTitle": "Student Worksheet",
                   "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/1XMeydMI5WUk7bajhazvqFjQcS9yUwRSu2-9VVM4H13A/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1XMeydMI5WUk7bajhazvqFjQcS9yUwRSu2-9VVM4H13A/export?format=pdf"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Teacher Worksheet",
-                  "itemCat": null,
-                  "links": [
-                    {
-                      "linkText": "PDF",
                       "url": "https://docs.google.com/document/d/1IeOvMypCE2OTjMf3ZEe9MmcoF0NB1YzRPTHbl8xaeqU/export?format=pdf"
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1IeOvMypCE2OTjMf3ZEe9MmcoF0NB1YzRPTHbl8xaeqU/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1IeOvMypCE2OTjMf3ZEe9MmcoF0NB1YzRPTHbl8xaeqU/"
                     }
                   ]
                 }
@@ -156,7 +156,7 @@
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1oyXAIwwgtQEOpt2W8lvx2iWx1xMRQaXVlITqcnVBjAs/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1oyXAIwwgtQEOpt2W8lvx2iWx1xMRQaXVlITqcnVBjAs/"
                     }
                   ]
                 },
@@ -170,7 +170,7 @@
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1a9PDt1ImC0JG7_vZqh-yXcCa7RYBa-DqyRfbqRDZsVE/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1a9PDt1ImC0JG7_vZqh-yXcCa7RYBa-DqyRfbqRDZsVE/"
                     }
                   ]
                 }
@@ -196,7 +196,7 @@
                   ]
                 },
                 {
-                  "itemTitle": "Student Worksheet",
+                  "itemTitle": "Teacher Worksheet",
                   "itemCat": null,
                   "links": [
                     {
@@ -205,7 +205,21 @@
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1vnBk3WbFTuQ5wzrBw6yzyKUlql4PdnDeMmqLcD2Hkk8/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1vnBk3WbFTuQ5wzrBw6yzyKUlql4PdnDeMmqLcD2Hkk8/"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/16f_VJ2xCNy2qzs4majLlMbVDzf93pYYXTkKmcqwr9kc/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/16f_VJ2xCNy2qzs4majLlMbVDzf93pYYXTkKmcqwr9kc/"
                     }
                   ]
                 },
@@ -215,25 +229,11 @@
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/16f_VJ2xCNy2qzs4majLlMbVDzf93pYYXTkKmcqwr9kc/export?format=pdf"
+                      "url": "https://docs.google.com/presentation/d/1q6I_M1oTIWb3JxwJ8NDud1ECt248RiqZR6BjkYJLiJ8/export/pdf"
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/16f_VJ2xCNy2qzs4majLlMbVDzf93pYYXTkKmcqwr9kc/export?format=pdf"
-                    }
-                  ]
-                },
-                {
-                  "itemTitle": "Table 1 reference for Part 3",
-                  "itemCat": null,
-                  "links": [
-                    {
-                      "linkText": "PDF",
-                      "url": "https://docs.google.com/presentation/d/1q6I_M1oTIWb3JxwJ8NDud1ECt248RiqZR6BjkYJLiJ8/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/presentation/d/1q6I_M1oTIWb3JxwJ8NDud1ECt248RiqZR6BjkYJLiJ8/export?format=pdf"
+                      "url": "https://docs.google.com/presentation/d/1q6I_M1oTIWb3JxwJ8NDud1ECt248RiqZR6BjkYJLiJ8/"
                     }
                   ]
                 }
@@ -269,30 +269,30 @@
                   ]
                 },
                 {
-                  "itemTitle": "Student Worksheet",
-                  "itemCat": null,
-                  "links": [
-                    {
-                      "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/1s2qYrx_88xEfeRNM530Jxs4cLbJeRPzmfI7cd7UQDT8/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1s2qYrx_88xEfeRNM530Jxs4cLbJeRPzmfI7cd7UQDT8/export?format=pdf"
-                    }
-                  ]
-                },
-                {
                   "itemTitle": "Teacher Worksheet",
                   "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1s2qYrx_88xEfeRNM530Jxs4cLbJeRPzmfI7cd7UQDT8/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1s2qYrx_88xEfeRNM530Jxs4cLbJeRPzmfI7cd7UQDT8/"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Table 1 reference for Part 3",
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
                       "url": "https://docs.google.com/document/d/1hDWushBDAAwUuEuUdr--hGqrMyUriHnw9Y41zOMHHC0/export?format=pdf"
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1hDWushBDAAwUuEuUdr--hGqrMyUriHnw9Y41zOMHHC0/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1hDWushBDAAwUuEuUdr--hGqrMyUriHnw9Y41zOMHHC0/"
                     }
                   ]
                 }
@@ -318,30 +318,30 @@
                   ]
                 },
                 {
-                  "itemTitle": "Student Worksheet",
-                  "itemCat": null,
-                  "links": [
-                    {
-                      "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/1L737p4jTBB4XCd_hfzDm7xQqEt3nRosBk67yTjqQReE/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1L737p4jTBB4XCd_hfzDm7xQqEt3nRosBk67yTjqQReE/export?format=pdf"
-                    }
-                  ]
-                },
-                {
                   "itemTitle": "Teacher Worksheet",
                   "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
+                      "url": "https://docs.google.com/document/d/1L737p4jTBB4XCd_hfzDm7xQqEt3nRosBk67yTjqQReE/export?format=pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/document/d/1L737p4jTBB4XCd_hfzDm7xQqEt3nRosBk67yTjqQReE/"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
                       "url": "https://docs.google.com/document/d/1U2jpqM1ipy0h-L_001kItL93AfXT6AQtj9P3YoEdfI0/export?format=pdf"
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1U2jpqM1ipy0h-L_001kItL93AfXT6AQtj9P3YoEdfI0/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1U2jpqM1ipy0h-L_001kItL93AfXT6AQtj9P3YoEdfI0/"
                     }
                   ]
                 }
@@ -367,44 +367,44 @@
                   ]
                 },
                 {
-                  "itemTitle": "Student Worksheet",
-                  "itemCat": null,
-                  "links": [
-                    {
-                      "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/1yBey9NeTjqDxBEEv-7hlJjDtIse3bkB_X8JCbxhGPqA/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1yBey9NeTjqDxBEEv-7hlJjDtIse3bkB_X8JCbxhGPqA/export?format=pdf"
-                    }
-                  ]
-                },
-                {
                   "itemTitle": "Teacher Worksheet",
                   "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/1ccHAO3mwI59t38HbyyCYEyKrrPGjO9rljQojC9vFmic/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1yBey9NeTjqDxBEEv-7hlJjDtIse3bkB_X8JCbxhGPqA/export?format=pdf"
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1ccHAO3mwI59t38HbyyCYEyKrrPGjO9rljQojC9vFmic/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1yBey9NeTjqDxBEEv-7hlJjDtIse3bkB_X8JCbxhGPqA/"
                     }
                   ]
                 },
                 {
-                  "itemTitle": "Table 1 reference for Part 3",
+                  "itemTitle": "Student Worksheet",
                   "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https://docs.google.com/presentation/d/10uU0I3GL-rUIIfcIw5gVeO9A1A3rwX1W2-x1wApwdPI/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1ccHAO3mwI59t38HbyyCYEyKrrPGjO9rljQojC9vFmic/export?format=pdf"
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/presentation/d/10uU0I3GL-rUIIfcIw5gVeO9A1A3rwX1W2-x1wApwdPI/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1ccHAO3mwI59t38HbyyCYEyKrrPGjO9rljQojC9vFmic/"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/presentation/d/10uU0I3GL-rUIIfcIw5gVeO9A1A3rwX1W2-x1wApwdPI/export/pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/10uU0I3GL-rUIIfcIw5gVeO9A1A3rwX1W2-x1wApwdPI/"
                     }
                   ]
                 }
@@ -440,7 +440,7 @@
                   ]
                 },
                 {
-                  "itemTitle": "Student Worksheet",
+                  "itemTitle": "Table 1 reference for Part 3",
                   "itemCat": null,
                   "links": [
                     {
@@ -449,7 +449,7 @@
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1f4-nC_VBrKdLCU6gHucbTkByVheTHtE668OXqNpzdME/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1f4-nC_VBrKdLCU6gHucbTkByVheTHtE668OXqNpzdME/"
                     }
                   ]
                 },
@@ -463,7 +463,7 @@
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1w7aK0dBglK5NedpIMWnx9Cz0Xwfg7U1MQqPVDEc1kxg/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1w7aK0dBglK5NedpIMWnx9Cz0Xwfg7U1MQqPVDEc1kxg/"
                     }
                   ]
                 }
@@ -498,7 +498,7 @@
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1OU81GWUHonBjilSnjr390gGIzZUHhEh_CWVxx_-4SfQ/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1OU81GWUHonBjilSnjr390gGIzZUHhEh_CWVxx_-4SfQ/"
                     }
                   ]
                 },
@@ -512,7 +512,7 @@
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/192-nPS5k_nTkyQw7FrXEZ0jwerqWoXRmYNcwqiuEeJc/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/192-nPS5k_nTkyQw7FrXEZ0jwerqWoXRmYNcwqiuEeJc/"
                     }
                   ]
                 }
@@ -538,44 +538,44 @@
                   ]
                 },
                 {
-                  "itemTitle": "Student Worksheet",
-                  "itemCat": null,
-                  "links": [
-                    {
-                      "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/1AERHj7Jx8o7vcG1Ejza-fsyYBIU3oSv4oyhT-dcaUTU/export?format=pdf"
-                    },
-                    {
-                      "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1AERHj7Jx8o7vcG1Ejza-fsyYBIU3oSv4oyhT-dcaUTU/export?format=pdf"
-                    }
-                  ]
-                },
-                {
                   "itemTitle": "Teacher Worksheet",
                   "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https://docs.google.com/document/d/1-CIgtCumwSnOnMVpq8t-Izxro48D76i-DyLH7z-qAQc/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1AERHj7Jx8o7vcG1Ejza-fsyYBIU3oSv4oyhT-dcaUTU/export?format=pdf"
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/document/d/1-CIgtCumwSnOnMVpq8t-Izxro48D76i-DyLH7z-qAQc/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1AERHj7Jx8o7vcG1Ejza-fsyYBIU3oSv4oyhT-dcaUTU/"
                     }
                   ]
                 },
                 {
-                  "itemTitle": "Table 1 reference for Part 3",
+                  "itemTitle": "Student Worksheet",
                   "itemCat": null,
                   "links": [
                     {
                       "linkText": "PDF",
-                      "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1-CIgtCumwSnOnMVpq8t-Izxro48D76i-DyLH7z-qAQc/export?format=pdf"
                     },
                     {
                       "linkText": "Copy to My Google Drive",
-                      "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/export?format=pdf"
+                      "url": "https://docs.google.com/document/d/1-CIgtCumwSnOnMVpq8t-Izxro48D76i-DyLH7z-qAQc/"
+                    }
+                  ]
+                },
+                {
+                  "itemTitle": "Student Worksheet",
+                  "itemCat": null,
+                  "links": [
+                    {
+                      "linkText": "PDF",
+                      "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/export/pdf"
+                    },
+                    {
+                      "linkText": "Copy to My Google Drive",
+                      "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/"
                     }
                   ]
                 }
@@ -689,11 +689,11 @@
                   "links": [
                     {
                       "linkText": "Preview Now with Nearpod",
-                      "url": "https://share.nearpod.com/NyLVv99n5eb"
+                      "url": "https://share.nearpod.com/3gUqkOWkMib"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/ybDFebao5eb"
+                      "url": "https://share.nearpod.com/e/FcUpFPWkMib"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -714,11 +714,11 @@
                   "links": [
                     {
                       "linkText": "Preview Now with Nearpod",
-                      "url": "https://share.nearpod.com/3gUqkOWkMib"
+                      "url": "https://share.nearpod.com/NyLVv99n5eb"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/FcUpFPWkMib"
+                      "url": "https://share.nearpod.com/e/ybDFebao5eb"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -761,11 +761,11 @@
                   "links": [
                     {
                       "linkText": "Preview Now with Nearpod",
-                      "url": "https://share.nearpod.com/duGJQiMkMib"
+                      "url": "https://share.nearpod.com/eQE8Trfo5eb"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/R8QpZjMkMib"
+                      "url": "https://share.nearpod.com/e/uXzKfufo5eb"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -786,11 +786,11 @@
                   "links": [
                     {
                       "linkText": "Preview Now with Nearpod",
-                      "url": "https://share.nearpod.com/Y9Ajddeo5eb"
+                      "url": "https://share.nearpod.com/dzVNIH2kMib"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/usg3Aeeo5eb"
+                      "url": "https://share.nearpod.com/e/emoQ4I2kMib"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -811,11 +811,11 @@
                   "links": [
                     {
                       "linkText": "Preview Now with Nearpod",
-                      "url": "https://app.nearpod.com/?pin=7C9BF1D556205AC0C2765427F7780375-1"
+                      "url": "https://share.nearpod.com/mr7irtNkMib"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/MiDfMP0kMib"
+                      "url": "https://share.nearpod.com/e/wFap6uNkMib"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -828,7 +828,7 @@
                   "itemCat": null,
                   "links": {
                     "linkText": "Download as .docx",
-                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
+                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g9-12_gmxqpf.docx"
                   }
                 },
                 {
@@ -858,11 +858,11 @@
                   "links": [
                     {
                       "linkText": "Preview Now with Nearpod",
-                      "url": "https://share.nearpod.com/mr7irtNkMib"
+                      "url": "https://share.nearpod.com/duGJQiMkMib"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/wFap6uNkMib"
+                      "url": "https://share.nearpod.com/e/R8QpZjMkMib"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -883,11 +883,11 @@
                   "links": [
                     {
                       "linkText": "Preview Now with Nearpod",
-                      "url": "https://share.nearpod.com/eQE8Trfo5eb"
+                      "url": "https://app.nearpod.com/?pin=7C9BF1D556205AC0C2765427F7780375-1"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/uXzKfufo5eb"
+                      "url": "https://share.nearpod.com/e/MiDfMP0kMib"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -908,11 +908,11 @@
                   "links": [
                     {
                       "linkText": "Preview Now with Nearpod",
-                      "url": "https://share.nearpod.com/dzVNIH2kMib"
+                      "url": "https://share.nearpod.com/Y9Ajddeo5eb"
                     },
                     {
                       "linkText": "Add to My Nearpod Library",
-                      "url": "https://share.nearpod.com/e/emoQ4I2kMib"
+                      "url": "https://share.nearpod.com/e/usg3Aeeo5eb"
                     },
                     {
                       "linkText": "Edit in My Google Drive",
@@ -925,7 +925,7 @@
                   "itemCat": null,
                   "links": {
                     "linkText": "Download as .docx",
-                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g9-12_gmxqpf.docx"
+                    "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
                   }
                 },
                 {
