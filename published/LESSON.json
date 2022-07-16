@@ -3,16 +3,19 @@
   "ShortTitle": "femalesSing",
   "Language": "English",
   "Country": "United States",
+  "DefaultLanguage": "English",
+  "DefaultCountry": "United States",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
-  "TemplateVer": "0.3.3",
-  "galacticPubsVer": "0.8.1",
+  "DefaultLocale": "en-US",
+  "TemplateVer": "0.3.4",
+  "galacticPubsVer": "0.8.4",
   "FirstPublicationDate": "2021-12-16 16:03:12",
-  "LastUpdated": "2022-06-30 11:51:38",
+  "LastUpdated": "2022-07-15 23:23:56",
   "URL": "https://galacticpolymath.com/lessons/1",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json",
-  "GitHubPath": "git@github.com:galacticpolymath/lesson_femalesSing_math.git",
+  "GitHubPath": "git@github.com:galacticpolymath/assumptionsMatter_femalesSing_math.git",
   "PublicationStatus": "Live",
   "RebuildAllMaterials": false,
   "ReleaseDate": "2021-12-16",
@@ -21,10 +24,10 @@
   "SponsorName": "Animal Behaviour Society",
   "SponsoredBy": "The [Animal Behaviour Society](https://www.animalbehaviorsociety.org/web/index.php), an international non-profit scientific society that encourages and promotes the professional study of animal behavior.",
   "SponsorImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/sponsor_logo_41be63750b.png"
+    "url": "https://catalog.galacticpolymath.com/lessons/assumptionsMatter_femalesSing_math/sponsor_logo_41be63750b.png"
   },
   "CoverImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/banner.png"
+    "url": "https://catalog.galacticpolymath.com/lessons/assumptionsMatter_femalesSing_math/banner.png"
   },
   "Section": {
     "overview": {
@@ -68,10 +71,10 @@
       ],
       "LearningObj": "- Solve a cipher (a type of secret message)\n- Learn and use new vocabulary\n- Interpret a scatter plot\n- Create a histogram from raw data\n- Compare and contrast scatter plots and histograms\n- Persevere, even when a task seems too hard",
       "SteamEpaulette": {
-        "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/GP-Learning-Epaulette.png"
+        "url": "https://catalog.galacticpolymath.com/lessons/assumptionsMatter_femalesSing_math/GP-Learning-Epaulette.png"
       },
       "SteamEpaulette_vert": {
-        "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/GP-Learning-Epaulette_vert.png"
+        "url": "https://catalog.galacticpolymath.com/lessons/assumptionsMatter_femalesSing_math/GP-Learning-Epaulette_vert.png"
       },
       "Description": "This lesson teaches students about data visualization (how to read and interpret scatter plots, dot plots, and histograms), and connects to a broader theme of how our assumptions affect our conclusions. Students learn how scientists and birders alike have assumed for decades that most female birds don't sing. As students explore real data from a recent study, they will learn how this assumption could be reinforced by the fact that females sing much less than males, and further, how this biased oversight has limited our understanding of bird research from its very beginnings. <AnchorLink href=\"#background\"> See Scientific Background <\/AnchorLink> for details.\n\nThe lesson will take 3 class periods for most learners. Students dive in with a data literacy puzzle, which we call a “Polymath Puzzle.” Students are given a figure from a current scientific study on barn swallows (a common bird across the world), but with text elements coded with an alphabetic shift (e.g. each letter is shifted: A to B, B to C, and so on). They have to work in teams (or individually) to decipher the messages, and then try to understand the figure. This is a high-level data literacy task that piques students’ natural love of puzzle-solving, while working on GRIT/grappling and the [21st Century Skills (4 Cs)](https://www.aeseducation.com/blog/four-cs-21st-century-skills). Videos guide students through each stage of the Polymath Puzzle. In Parts 2 and 3, students create and interpret histograms from the same data, allowing for a deeper understanding of the pros and cons of scatter plots and histograms for visualizing data patterns. The culminating task is for students to synthesize the conclusions from the two types of graph, along with additional background information to hypothesize a reason for why female song has been missed until 2020 in this widely studied species."
     },
@@ -295,7 +298,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": "Table 1 reference for Part 3",
                       "itemCat": null,
                       "links": [
                         {
@@ -344,7 +347,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -358,7 +361,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet",
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -393,7 +396,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -407,7 +410,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet",
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -421,7 +424,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Table 1 reference for Part 3",
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -480,7 +483,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet",
+                      "itemTitle": "Table 1 reference for Part 3",
                       "itemCat": null,
                       "links": [
                         {
@@ -592,7 +595,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Table 1 reference for Part 3",
+                      "itemTitle": "Teacher Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -637,7 +640,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student Worksheet",
+                      "itemTitle": "Table 1 reference for Part 3",
                       "itemCat": null,
                       "links": [
                         {
@@ -763,7 +766,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Table 1 reference for Part 3",
+                      "itemTitle": "Student Worksheet",
                       "itemCat": null,
                       "links": [
                         {
@@ -886,11 +889,11 @@
                       "links": [
                         {
                           "linkText": "Preview Now with Nearpod",
-                          "url": "https://share.nearpod.com/NyLVv99n5eb"
+                          "url": "https://share.nearpod.com/3gUqkOWkMib"
                         },
                         {
                           "linkText": "Add to My Nearpod Library",
-                          "url": "https://share.nearpod.com/e/ybDFebao5eb"
+                          "url": "https://share.nearpod.com/e/FcUpFPWkMib"
                         },
                         {
                           "linkText": "Edit in My Google Drive",
@@ -911,11 +914,11 @@
                       "links": [
                         {
                           "linkText": "Preview Now with Nearpod",
-                          "url": "https://share.nearpod.com/3gUqkOWkMib"
+                          "url": "https://share.nearpod.com/NyLVv99n5eb"
                         },
                         {
                           "linkText": "Add to My Nearpod Library",
-                          "url": "https://share.nearpod.com/e/FcUpFPWkMib"
+                          "url": "https://share.nearpod.com/e/ybDFebao5eb"
                         },
                         {
                           "linkText": "Edit in My Google Drive",
@@ -958,11 +961,11 @@
                       "links": [
                         {
                           "linkText": "Preview Now with Nearpod",
-                          "url": "https://share.nearpod.com/duGJQiMkMib"
+                          "url": "https://share.nearpod.com/mr7irtNkMib"
                         },
                         {
                           "linkText": "Add to My Nearpod Library",
-                          "url": "https://share.nearpod.com/e/R8QpZjMkMib"
+                          "url": "https://share.nearpod.com/e/wFap6uNkMib"
                         },
                         {
                           "linkText": "Edit in My Google Drive",
@@ -983,11 +986,11 @@
                       "links": [
                         {
                           "linkText": "Preview Now with Nearpod",
-                          "url": "https://share.nearpod.com/Y9Ajddeo5eb"
+                          "url": "https://share.nearpod.com/dzVNIH2kMib"
                         },
                         {
                           "linkText": "Add to My Nearpod Library",
-                          "url": "https://share.nearpod.com/e/usg3Aeeo5eb"
+                          "url": "https://share.nearpod.com/e/emoQ4I2kMib"
                         },
                         {
                           "linkText": "Edit in My Google Drive",
@@ -1008,11 +1011,11 @@
                       "links": [
                         {
                           "linkText": "Preview Now with Nearpod",
-                          "url": "https://app.nearpod.com/?pin=7C9BF1D556205AC0C2765427F7780375-1"
+                          "url": "https://share.nearpod.com/eQE8Trfo5eb"
                         },
                         {
                           "linkText": "Add to My Nearpod Library",
-                          "url": "https://share.nearpod.com/e/MiDfMP0kMib"
+                          "url": "https://share.nearpod.com/e/uXzKfufo5eb"
                         },
                         {
                           "linkText": "Edit in My Google Drive",
@@ -1025,7 +1028,7 @@
                       "itemCat": null,
                       "links": {
                         "linkText": "Download as .docx",
-                        "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
+                        "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g9-12_gmxqpf.docx"
                       }
                     },
                     {
@@ -1055,11 +1058,11 @@
                       "links": [
                         {
                           "linkText": "Preview Now with Nearpod",
-                          "url": "https://share.nearpod.com/mr7irtNkMib"
+                          "url": "https://app.nearpod.com/?pin=7C9BF1D556205AC0C2765427F7780375-1"
                         },
                         {
                           "linkText": "Add to My Nearpod Library",
-                          "url": "https://share.nearpod.com/e/wFap6uNkMib"
+                          "url": "https://share.nearpod.com/e/MiDfMP0kMib"
                         },
                         {
                           "linkText": "Edit in My Google Drive",
@@ -1080,11 +1083,11 @@
                       "links": [
                         {
                           "linkText": "Preview Now with Nearpod",
-                          "url": "https://share.nearpod.com/eQE8Trfo5eb"
+                          "url": "https://share.nearpod.com/duGJQiMkMib"
                         },
                         {
                           "linkText": "Add to My Nearpod Library",
-                          "url": "https://share.nearpod.com/e/uXzKfufo5eb"
+                          "url": "https://share.nearpod.com/e/R8QpZjMkMib"
                         },
                         {
                           "linkText": "Edit in My Google Drive",
@@ -1105,11 +1108,11 @@
                       "links": [
                         {
                           "linkText": "Preview Now with Nearpod",
-                          "url": "https://share.nearpod.com/dzVNIH2kMib"
+                          "url": "https://share.nearpod.com/Y9Ajddeo5eb"
                         },
                         {
                           "linkText": "Add to My Nearpod Library",
-                          "url": "https://share.nearpod.com/e/emoQ4I2kMib"
+                          "url": "https://share.nearpod.com/e/usg3Aeeo5eb"
                         },
                         {
                           "linkText": "Edit in My Google Drive",
@@ -1122,7 +1125,7 @@
                       "itemCat": null,
                       "links": {
                         "linkText": "Download as .docx",
-                        "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g9-12_gmxqpf.docx"
+                        "url": "https://res.cloudinary.com/galactic-polymath/raw/upload/v1615844502/lesson_misc_share/Table_2_g5-8_w0rhcl.docx"
                       }
                     },
                     {
@@ -1553,7 +1556,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n This lesson allows students to explore the actual data from [the study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf) and to hear from the study’s lead author to deepen data literacy and understanding of the scientific method. Students explore one of the primary figures in the study, a scatter plot (graph) showing different patterns of male and female singing output over the breeding season. Importantly, males sang much more than females and for a longer time (May-Aug, rather than just May). Thus, because males sing more frequently, if we assume (as has been common for birders and scientists until recently) that only males sing, your assumptions are reinforced more easily, because you are less likely to see a female sing.\n\nDuring the peer review process, an anonymous scientist suggested that the scatter plot was not a good way to represent the data, instead suggesting that the authors should have displayed a histogram. In Parts 2 and 3 of the lesson, students aggregate (combine) the authentic study data in order to create a histogram. They must then interpret the data in both formats (deepening their understanding of how histograms and scatter plots relate to each other), and conclude which is a better way to demonstrate the study’s findings, explaining why.\n\nFor further reflection, students are then asked to synthesize what they have learned, along with new information presented to them. Why has female song been missed? Partially because of a pre-existing assumption that females don't sing, along with less common singing behavior in females. Why do females sing less? Because natural selection favors females who sing less. Females must sit on eggs for around 2 weeks, leaving them open to predation. If they were to sing as loudly and provocatively as males, they would attract predators which would eat them or their eggs, passing on no genes. Thus, natural selection has likely caused female song to be lost, simplified, or to be produced for short time periods during establishment of the breeding season in many species around the world. \n#### Research Background\n ![studyThumbnail.png](https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/study-paper.png)\n[Link to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\nThis lesson is based on a recent study that describes female song in barn swallows for the first time. Barn swallows are one of the most common birds in the world and have been the subject of more than 1000 studies, yet published birding field guides and scientific papers have all failed to describe female song or they describe it incorrectly as being the same as male song (females have their own song type). This is an important oversight, because research on male bird song has informed a lot of theory in biology about how populations evolve through mate choice and competition involving vocal communication, and how new species form. \n\nIgnoring the sounds females make may result from inherent biases. Since bird song became an area of scientific study in the 1800s, it was almost exclusively researched by white males in the Northern Hemisphere. Since women have become welcomed into all areas of science, and research institutions have focused more intent study in tropical regions of the world, studies have discovered that female song is the ancestral state (i.e. the ancestor of all living song birds had both singing males and females). Moreover, female song has not been entirely lost in most species. As in the barn swallow, natural selection has favored females that sing less often, and to have more concise songs that are often restricted to the pre-egg-laying part of the breeding season. This drop in female singing after egg-laying is thought to stem from trying not to draw predators to nests. Due to lack of study, the full function of song in competition among females, male mate choice, or other functions is not well understood in most species.\n\nFurther Reading: \n- [Why We Didn't Know That Female Birds Sing](https://www.scientificamerican.com/article/why-it-took-so-long-to-appreciate-female-birds-songs/): Two authors of the study this lesson is based on discuss its broader implications for society and K-12 education.\n- [Female birds sing. These biologists want you to listen.](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/03/14/female-birds-sing-these-biologists-want-you-to-listen/) (features Drs. Karan Odom and Lauryn Benedict who worked on the study this lesson is based on).\n    - If you're getting paywalled, try clearing your cache or opening the article in an incognito window.\n- [Female bird song ignored by science, researchers say](https://www.australiangeographic.com.au/topics/science-environment/2019/04/female-bird-song-ignored-by-science-researchers-say/) (features Dr. Karan Odom and Dr. Naomi Langmore, who was influential in shifting scientists' thinking about female song)\n- [Study reveals gender bias in bird song research and impact of women on science](https://phys.org/news/2020-08-reveals-gender-bias-bird-song.html) (features Dr. Karan Odom)",
+      "Content": "#### Connection to Research\n This lesson allows students to explore the actual data from [the study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf) and to hear from the study’s lead author to deepen data literacy and understanding of the scientific method. Students explore one of the primary figures in the study, a scatter plot (graph) showing different patterns of male and female singing output over the breeding season. Importantly, males sang much more than females and for a longer time (May-Aug, rather than just May). Thus, because males sing more frequently, if we assume (as has been common for birders and scientists until recently) that only males sing, your assumptions are reinforced more easily, because you are less likely to see a female sing.\n\nDuring the peer review process, an anonymous scientist suggested that the scatter plot was not a good way to represent the data, instead suggesting that the authors should have displayed a histogram. In Parts 2 and 3 of the lesson, students aggregate (combine) the authentic study data in order to create a histogram. They must then interpret the data in both formats (deepening their understanding of how histograms and scatter plots relate to each other), and conclude which is a better way to demonstrate the study’s findings, explaining why.\n\nFor further reflection, students are then asked to synthesize what they have learned, along with new information presented to them. Why has female song been missed? Partially because of a pre-existing assumption that females don't sing, along with less common singing behavior in females. Why do females sing less? Because natural selection favors females who sing less. Females must sit on eggs for around 2 weeks, leaving them open to predation. If they were to sing as loudly and provocatively as males, they would attract predators which would eat them or their eggs, passing on no genes. Thus, natural selection has likely caused female song to be lost, simplified, or to be produced for short time periods during establishment of the breeding season in many species around the world. \n#### Research Background\n ![studyThumbnail.png](https://catalog.galacticpolymath.com/lessons/assumptionsMatter_femalesSing_math/study-paper.png)\n[Link to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\nThis lesson is based on a recent study that describes female song in barn swallows for the first time. Barn swallows are one of the most common birds in the world and have been the subject of more than 1000 studies, yet published birding field guides and scientific papers have all failed to describe female song or they describe it incorrectly as being the same as male song (females have their own song type). This is an important oversight, because research on male bird song has informed a lot of theory in biology about how populations evolve through mate choice and competition involving vocal communication, and how new species form. \n\nIgnoring the sounds females make may result from inherent biases. Since bird song became an area of scientific study in the 1800s, it was almost exclusively researched by white males in the Northern Hemisphere. Since women have become welcomed into all areas of science, and research institutions have focused more intent study in tropical regions of the world, studies have discovered that female song is the ancestral state (i.e. the ancestor of all living song birds had both singing males and females). Moreover, female song has not been entirely lost in most species. As in the barn swallow, natural selection has favored females that sing less often, and to have more concise songs that are often restricted to the pre-egg-laying part of the breeding season. This drop in female singing after egg-laying is thought to stem from trying not to draw predators to nests. Due to lack of study, the full function of song in competition among females, male mate choice, or other functions is not well understood in most species.\n\nFurther Reading: \n- [Why We Didn't Know That Female Birds Sing](https://www.scientificamerican.com/article/why-it-took-so-long-to-appreciate-female-birds-songs/): Two authors of the study this lesson is based on discuss its broader implications for society and K-12 education.\n- [Female birds sing. These biologists want you to listen.](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/03/14/female-birds-sing-these-biologists-want-you-to-listen/) (features Drs. Karan Odom and Lauryn Benedict who worked on the study this lesson is based on).\n    - If you're getting paywalled, try clearing your cache or opening the article in an incognito window.\n- [Female bird song ignored by science, researchers say](https://www.australiangeographic.com.au/topics/science-environment/2019/04/female-bird-song-ignored-by-science-researchers-say/) (features Dr. Karan Odom and Dr. Naomi Langmore, who was influential in shifting scientists' thinking about female song)\n- [Study reveals gender bias in bird song research and impact of women on science](https://phys.org/news/2020-08-reveals-gender-bias-bird-song.html) (features Dr. Karan Odom)",
       "InitiallyExpanded": true
     },
     "bonus": {

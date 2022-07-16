@@ -2,16 +2,19 @@ id: '1'
 ShortTitle: femalesSing
 Language: English
 Country: United States
+DefaultLanguage: English
+DefaultCountry: United States
 lang: en
 lng: eng
 locale: en-US
-TemplateVer: 0.3.3
-galacticPubsVer: 0.8.1
+DefaultLocale: en-US
+TemplateVer: 0.3.4
+galacticPubsVer: 0.8.4
 FirstPublicationDate: 2021-12-16 16:03:12
-LastUpdated: 2022-06-30 11:51:38
+LastUpdated: 2022-07-15 23:23:56
 URL: https://galacticpolymath.com/lessons/1
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json
-GitHubPath: git@github.com:galacticpolymath/lesson_femalesSing_math.git
+GitHubPath: git@github.com:galacticpolymath/assumptionsMatter_femalesSing_math.git
 PublicationStatus: Live
 RebuildAllMaterials: no
 ReleaseDate: '2021-12-16'
