@@ -11,7 +11,7 @@ DefaultLocale: en-US
 TemplateVer: 0.3.4
 galacticPubsVer: 0.8.7
 FirstPublicationDate: 2021-12-16 16:03:12
-LastUpdated: 2022-07-26 17:58:44
+LastUpdated: 2022-07-26 18:34:11
 URL: https://galacticpolymath.com/lessons/1
 GPCatalogPath: https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json
 GitHubPath: git@github.com:galacticpolymath/assumptionsMatter_femalesSing_math.git
@@ -43,6 +43,7 @@ LearningChart_params_centralText: grades\n5-12
 LearningChart_params_caption: .na
 LearningChart_params_captionN: no
 SupportingMedia:
+- assets/supporting-media/Females Sing_P3_Table 2_TEACHER.docx
 - assets/supporting-media/male barn swallow sings on wire_3705.jpg
 - assets/supporting-media/study-paper.png
 DrivingQ: What is the best way to visualize data?
@@ -55,7 +56,7 @@ LearningSummary: Students will learn how data visuals tell a story as they analy
   real bird song data to try to understand why female singing behavior has been overlooked
   in one of the most common birds in the world. They will also gain a deeper insight
   into the scientific peer review process.
-MiscMD: .na
+MiscMD: NA
 LearningObj: |-
   - Solve a cipher (a type of secret message)
   - Learn and use new vocabulary
@@ -99,7 +100,7 @@ Bonus: |-
   4. You “magically” get bit.ly/gphi5
   5. If the student then copies/types that web address into the address bar, it will result in:
   6. ![a cat gif](https://bit.ly/gphi5)
-Extensions: .na
+Extensions: NA
 Background: "![studyThumbnail.png](study-paper.png)\n[Link to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\nThis
   lesson is based on a recent study that describes female song in barn swallows for
   the first time. Barn swallows are one of the most common birds in the world and
